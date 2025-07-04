@@ -3772,11 +3772,11 @@
   },
   "font-family": {
     "main": {
-      "value": "Mabry Pro",
+      "value": "Onest",
       "type": "fontFamilies"
     },
     "accent": {
-      "value": "Mabry Pro",
+      "value": "Onest",
       "type": "fontFamilies"
     },
     "additional": {
