@@ -5,7 +5,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.s}",
-        "fontSize": "8px",
+        "fontSize": "10px",
         "letterSpacing": "-0.2px"
       },
       "type": "typography",
@@ -2174,9 +2174,9 @@
           "description": "bg for bonus balance card"
         },
         "3-additional": {
-          "value": "rgba(43, 80, 157, 0.10)",
+          "value": "rgba(99, 41, 133, 0.10)",
           "type": "color",
-          "description": "bg for winnig now - mob"
+          "description": "bg for winnig now, tournament widget on home page - mob"
         },
         "5-additional": {
           "value": "#081E4E",
@@ -2223,9 +2223,9 @@
           "description": "DEV - 1st deposit card stroke, welcomeback popup border "
         },
         "main": {
-          "value": "linear-gradient(180deg, rgba(115, 65, 186, 0.40) 0%, rgba(255, 255, 255, 0.08) 100%)",
+          "value": "#361D5F",
           "type": "color",
-          "description": "border for main banner title"
+          "description": "border for winners/prizes stata in top winners/tournament widget"
         },
         "main-additional": {
           "value": "rgba(255, 255, 255, 0.08)",
@@ -2539,17 +2539,17 @@
         "description": "Background for primary disabled button for lighgt bg"
       },
       "primary-disabled": {
-        "value": "rgba(37, 47, 72, 0.90)",
+        "value": "#241D4B",
         "type": "color",
         "description": "Background for primary buttons disabled"
       },
       "tertiary-disabled": {
-        "value": "rgba(37, 47, 72, 0.90)",
+        "value": "#241D4B",
         "type": "color",
         "description": "Background for tertiary buttons disabled"
       },
       "secondary": {
-        "value": "#0A3093",
+        "value": "linear-gradient(97deg, #2D1551 5.78%, #6630B8 119.22%)",
         "type": "color",
         "description": "Background for secondary buttons"
       },
@@ -2573,7 +2573,7 @@
         "description": "Background for secondary buttons pressed"
       },
       "secondary-disabled": {
-        "value": "rgba(37, 47, 72, 0.90)",
+        "value": "#241D4B",
         "type": "color",
         "description": "Background for secondary buttons disabled"
       },
