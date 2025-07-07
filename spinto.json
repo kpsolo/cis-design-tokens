@@ -155,7 +155,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.xs}",
-        "fontSize": "{font-size.2}"
+        "fontSize": "{font-size.5}"
       },
       "type": "typography"
     },
@@ -1526,7 +1526,7 @@
       "description": "use for prize item in tournament/lotery page "
     },
     "button": {
-      "value": "100px",
+      "value": "12px",
       "type": "borderRadius",
       "description": "Radius for buttons"
     },
@@ -2403,7 +2403,7 @@
       "description": "Indication of success transactions"
     },
     "surface": {
-      "value": "#02102C",
+      "value": "#050318",
       "type": "color",
       "description": "main color for brand bgs"
     },
@@ -3021,15 +3021,15 @@
       "description": "Fade on winning now widget"
     },
     "label": {
-      "new-1-text": {
-        "value": "{base.light}",
+      "bg": {
+        "value": "linear-gradient(280deg, #571DDC 14.3%, #209F4A 84.26%)",
         "type": "color",
-        "description": "use for text of label new in menu item"
+        "description": "use for bg in game thumbs"
       },
-      "new-2": {
-        "value": "linear-gradient(342deg, #5A5A5A 0%, #FFF 100%)",
+      "content": {
+        "value": "#FFFFFF",
         "type": "color",
-        "description": "use for label new in menu item"
+        "description": "use for icons color in game thumb label"
       },
       "new-1": {
         "value": "#BD0F1B",
@@ -3085,10 +3085,10 @@
         "type": "color",
         "description": "use for active label bg in bonus balance cards"
       },
-      "new-1-border": {
-        "value": "transparent",
+      "divider": {
+        "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(255, 255, 255, 0.20) 51.92%, rgba(255, 255, 255, 0.00) 100%)",
         "type": "color",
-        "description": "use for label new in menu item"
+        "description": "use for label divider"
       }
     },
     "progressbar-deals": {
@@ -3837,7 +3837,7 @@
       "type": "fontWeights"
     },
     "2": {
-      "value": "700",
+      "value": "600",
       "type": "fontWeights"
     },
     "3": {

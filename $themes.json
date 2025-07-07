@@ -280,7 +280,6 @@
       "small-elements.progressbar": "b6599c6ccdcefddbd9f67f984a4d4bee125c69f3",
       "small-elements.progressbar-bg": "ea52209cd57937772798cda1eb8f6d7296a5c8ef",
       "small-elements.bullet": "c7f2bd3ebfb9c3647596ccdea394057332ab94f2",
-      "small-elements.label.new-1-text": "4387f9c87924ff6ec5c0750c38d9a84cf14a1489",
       "small-elements.label.new-1": "4ea9cb9f0f159f8f14e2700a643913e184616e73",
       "small-elements.label.success": "4d35eb2300531bd6aeb89396325aeb8a0d80716d",
       "small-elements.label.deny": "99fef19dd38388b4553594d3b51724f9ce57315b",
@@ -290,7 +289,6 @@
       "small-elements.label.disable": "a10c5b9277f951e708b74fcca96cc2d8c735733f",
       "small-elements.label.disable-bg": "d9ebedbe64da454e34fa248bd711dfd557675351",
       "small-elements.label.active-bg": "029f9d82325a948d93f0944f8c8bf87388105f25",
-      "small-elements.label.new-1-border": "09493529868cfbfe90cf22e08a5c2e357fafd4c2",
       "small-elements.progressbar-deals": "a64469e6c34512214aa9a0ea47538d5ebcb913d5",
       "small-elements.progressbar-bonus": "d73c658ec03b6c4762971f312ec627b27c88d146",
       "small-elements.progressbar-bonus-bg": "15d9b48a78d6a63ab6bde368e04f1aa04fcccecd",
@@ -552,7 +550,9 @@
       "calendar.content.tertiary": "6435ffcece6bda8b323b2a2c8162ccd4e73b1360",
       "calendar.content.additional": "692b8842c67ec23a95bab2453f301f7e5aac851f",
       "calendar.content.main": "20ed789093b8457830cb12a2d5f8f953477f8764",
-      "tech.bg": "1ea649548bf0174c2d501096ef2c65dbec3e36d4"
+      "tech.bg": "1ea649548bf0174c2d501096ef2c65dbec3e36d4",
+      "small-elements.label.bg": "4387f9c87924ff6ec5c0750c38d9a84cf14a1489",
+      "small-elements.label.divider": "09493529868cfbfe90cf22e08a5c2e357fafd4c2"
     }
   }
 ]
