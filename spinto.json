@@ -4,8 +4,8 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
-        "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.2}",
+        "lineHeight": "{line-height.s}",
+        "fontSize": "8px",
         "letterSpacing": "-0.2px"
       },
       "type": "typography",
@@ -94,11 +94,11 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
-        "lineHeight": "{line-height.m}",
+        "lineHeight": "{line-height.column}",
         "fontSize": "{font-size.4}"
       },
       "type": "typography",
-      "description": "for bonus reg widget"
+      "description": "for bonus reg widget, promo small cards title"
     },
     "body-1-cross": {
       "value": {
@@ -245,7 +245,7 @@
       "value": {
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.1}",
-        "lineHeight": "{line-height.2}",
+        "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.5}"
       },
       "type": "typography",
@@ -405,7 +405,7 @@
     "title-2": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "{font-weight.1}",
+        "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.3}",
         "fontSize": "{font-size.6}"
       },
@@ -553,15 +553,23 @@
       "value": [
         {
           "x": "0",
-          "y": "4",
-          "blur": "8",
+          "y": "2",
+          "blur": "2",
           "spread": "0",
-          "color": "rgba(1, 9, 31, 0.40)",
-          "type": "dropShadow"
+          "color": "rgba(151, 100, 230, 0.30)",
+          "type": "innerShadow"
+        },
+        {
+          "x": "0",
+          "y": "2",
+          "blur": "16",
+          "spread": "0",
+          "color": "#000000rgba(151, 100, 230, 0.40)",
+          "type": "innerShadow"
         }
       ],
       "type": "boxShadow",
-      "description": "use for cards/popups inner shadow + dropshadow, "
+      "description": "use for cards inner shadow + dropshadow"
     },
     "card-additional-2": {
       "value": [
@@ -1496,7 +1504,7 @@
   },
   "radius": {
     "card": {
-      "value": "12px",
+      "value": "8px",
       "type": "borderRadius",
       "description": "Radius for cards amd widgets"
     },
@@ -1506,7 +1514,7 @@
       "description": "Radius for cards amd widgets border bg ( 1st deposit card)"
     },
     "game-item": {
-      "value": "12px",
+      "value": "8px",
       "type": "borderRadius",
       "description": "Radius for thumbs"
     },
@@ -1665,9 +1673,9 @@
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
     "additional": {
-      "value": "#061535",
+      "value": "#160829",
       "type": "color",
-      "description": "use for messages, shop, faq cards"
+      "description": "use for messages, tournament, shop, faq cards, top winners, collection"
     },
     "popup-additional": {
       "value": "transparent",
@@ -1724,9 +1732,9 @@
       "description": "for past tournament,lottery"
     },
     "additional-2": {
-      "value": "{bg.additional}",
+      "value": "rgba(180, 63, 207, 0.10)",
       "type": "color",
-      "description": "use for messages, shop, faq cards"
+      "description": "use for widget with transparent bg - categories on desktop"
     },
     "widget-bonus-additional": {
       "value": "#000000",
@@ -2155,14 +2163,14 @@
     "card": {
       "bg": {
         "1": {
-          "value": "linear-gradient(151deg, rgba(24, 77, 139, 0.60) 0%, rgba(54, 42, 48, 0.60) 50.9%, rgba(55, 41, 46, 0.60) 100%)",
+          "value": "linear-gradient(270deg, rgba(121, 66, 199, 0.90) 0%, rgba(115, 63, 189, 0.90) 46.99%, rgba(121, 66, 199, 0.90) 100%)",
           "type": "color",
-          "description": "1st deposit card bg"
+          "description": "1st deposit widget bg"
         },
         "2": {
-          "value": "linear-gradient(148deg, rgba(27, 87, 158, 0.60) 9.9%, rgba(34, 43, 60, 0.23) 30.55%, rgba(23, 39, 68, 0.48) 50.39%, rgba(23, 39, 68, 0.60) 80.93%)",
+          "value": "linear-gradient(180deg, rgba(24, 2, 49, 0.60) 0%, rgba(88, 44, 149, 0.60) 100%)",
           "type": "color",
-          "description": "bg for provider card"
+          "description": "bg for banner title , categories cards"
         },
         "3": {
           "value": "rgba(8, 26, 63, 0.80)",
@@ -2170,9 +2178,9 @@
           "description": "bg for winnig now"
         },
         "4": {
-          "value": "rgba(133, 148, 216, 0.10)",
+          "value": "linear-gradient(96deg, #240D47 8.01%, #4C0C6B 61.46%)",
           "type": "color",
-          "description": "bg for winnig now"
+          "description": "bg for promo mini cards on mob"
         },
         "5": {
           "value": "#0B2969",
@@ -2229,7 +2237,7 @@
           "description": "DEV - 1st deposit card stroke, welcomeback popup border "
         },
         "main": {
-          "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)",
+          "value": "linear-gradient(180deg, rgba(115, 65, 186, 0.40) 0%, rgba(255, 255, 255, 0.08) 100%)",
           "type": "color",
           "description": "border for all cards - sidebar/main banner"
         },
@@ -2378,7 +2386,7 @@
       "description": "Lighttest (white)"
     },
     "accent-primary": {
-      "value": "#FFBF00",
+      "value": "#73DBF8",
       "type": "color",
       "description": "Background for accent elements"
     },
@@ -4653,9 +4661,9 @@
       "description": "use for crypto in footer, banners titles/cards titles, tournament/lottery tapbar, for titles in messages ( on picture)"
     },
     "accent-additional": {
-      "value": "{base.accent-primary}",
+      "value": "#FFF15C",
       "type": "color",
-      "description": "use for accent text in welcome popup"
+      "description": "use for accent text in 1st deposit widget"
     },
     "primary": {
       "value": "{base.primary}",
