@@ -2222,9 +2222,9 @@
           "description": "1st deopsit card stroke bg"
         },
         "3": {
-          "value": "linear-gradient(180deg, rgba(0, 0, 0, 0.00) 0%, rgba(147, 10, 43, 0.60) 100%)",
+          "value": "#65429E",
           "type": "color",
-          "description": "winning now border"
+          "description": "label border on cards on a main page\nwinning now border"
         },
         "4": {
           "value": "linear-gradient(180deg, #BD0F1B 0%, #000 100%)",
@@ -3039,10 +3039,10 @@
         "type": "color",
         "description": "use for icons color in game thumb label"
       },
-      "new-1": {
-        "value": "#BD0F1B",
+      "bg-additional": {
+        "value": "rgba(177, 66, 242, 0.20)",
         "type": "color",
-        "description": "use for label new in menu item"
+        "description": "use for labels on cards in a main page"
       },
       "success": {
         "value": "#1E8704",
@@ -4787,7 +4787,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.4",
+              "value": "0.6",
               "space": "srgb"
             }
           }
