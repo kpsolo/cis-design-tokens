@@ -1818,7 +1818,7 @@
         "description": "Use for tooltip background"
       },
       "footer": {
-        "value": "#071533",
+        "value": "#050318",
         "type": "color",
         "description": "Background color for footer"
       },
@@ -2433,9 +2433,9 @@
       "description": "Color for winners"
     },
     "primary": {
-      "value": "#ffffff",
+      "value": "#fcf9ff",
       "type": "color",
-      "description": "for text,icons"
+      "description": "for conetnt ,icons"
     },
     "accent-light": {
       "value": "#EEF4FF",
@@ -2849,9 +2849,9 @@
   "small-elements": {
     "game": {
       "provider-logo-bg": {
-        "value": "linear-gradient(0deg, rgba(31, 36, 80, 0.90) 0%, rgba(17, 20, 45, 0.60) 66.67%, rgba(17, 20, 46, 0.00) 100%)",
+        "value": "linear-gradient(0deg, #130329 0%, #130329 41.35%, rgba(19, 3, 41, 0.00) 100%)",
         "type": "color",
-        "description": "Background for provider logo on game thumb"
+        "description": "Background under provider logo on game thumb"
       },
       "label-thumb-new": {
         "value": "linear-gradient(180deg, #4B9DE8 0%, #416FB4 100%)",
