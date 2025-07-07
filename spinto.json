@@ -63,7 +63,7 @@
     "caption-small-strong": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.2}",
+        "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.sm}",
         "fontSize": "{font-size.3}"
       },
@@ -2225,7 +2225,7 @@
         "main": {
           "value": "linear-gradient(180deg, rgba(115, 65, 186, 0.40) 0%, rgba(255, 255, 255, 0.08) 100%)",
           "type": "color",
-          "description": "border for all cards - sidebar/main banner"
+          "description": "border for main banner title"
         },
         "main-additional": {
           "value": "rgba(255, 255, 255, 0.08)",
