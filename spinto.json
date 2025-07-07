@@ -2539,12 +2539,12 @@
         "description": "Background for primary disabled button for lighgt bg"
       },
       "primary-disabled": {
-        "value": "#241D4B",
+        "value": "#201946",
         "type": "color",
         "description": "Background for primary buttons disabled"
       },
       "tertiary-disabled": {
-        "value": "#241D4B",
+        "value": "#201946",
         "type": "color",
         "description": "Background for tertiary buttons disabled"
       },
@@ -2573,7 +2573,7 @@
         "description": "Background for secondary buttons pressed"
       },
       "secondary-disabled": {
-        "value": "#241D4B",
+        "value": "#201946",
         "type": "color",
         "description": "Background for secondary buttons disabled"
       },
