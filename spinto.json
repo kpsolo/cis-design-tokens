@@ -63,7 +63,7 @@
     "caption-small-strong": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.1}",
+        "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.sm}",
         "fontSize": "{font-size.3}"
       },
@@ -1588,9 +1588,9 @@
       "description": "Radius for select (0)"
     },
     "small-tips": {
-      "value": "16px",
+      "value": "8px",
       "type": "borderRadius",
-      "description": "Radius for small elements -  notification in menu item"
+      "description": "Radius for small elements -  notification in menu item, counter for categories in title"
     },
     "large-tips": {
       "value": "100px",
@@ -3390,9 +3390,9 @@
       "description": "menu, bottom sheet"
     },
     "primary": {
-      "value": "{base.primary}",
+      "value": "rgba(114, 65, 183, 0.60)",
       "type": "color",
-      "description": "use for categories"
+      "description": "use for categories  title"
     },
     "tertiary": {
       "value": "{base.dark}",
