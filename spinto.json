@@ -2507,7 +2507,7 @@
   "button": {
     "bg": {
       "primary": {
-        "value": "#BD0F1B",
+        "value": "linear-gradient(93deg, #023688 -9.84%, #00DBFE 120.24%)",
         "type": "color",
         "description": "Background for primary buttons"
       },
@@ -4829,7 +4829,7 @@
     },
     "title": {
       "main": {
-        "value": "rgba(255, 255, 255)",
+        "value": "#F5EDFF",
         "type": "color",
         "description": "for main headers"
       },
