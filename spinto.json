@@ -3129,7 +3129,7 @@
       "description": "use for slider in welcom bonus"
     },
     "sign": {
-      "value": "#EBAB2E",
+      "value": "#DDC330",
       "type": "color",
       "description": "star on game thumb"
     },
@@ -5505,7 +5505,7 @@
         "description": "bg for top bg in ingame"
       },
       "thumb": {
-        "value": "#0B1A3B",
+        "value": "#050318",
         "type": "color",
         "description": "bg for show more thumb/zagluska fo game thumb"
       },
