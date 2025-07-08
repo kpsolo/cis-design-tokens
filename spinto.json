@@ -235,7 +235,7 @@
       "value": {
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.0}",
-        "lineHeight": "{line-height.2}",
+        "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.5}"
       },
       "type": "typography",
@@ -3046,18 +3046,9 @@
         "description": "use for deny label text in cashbox transactions"
       },
       "additional": {
-        "value": "#7DA6FB",
+        "value": "rgba(177, 66, 242, 0.10)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.08",
-              "space": "srgb"
-            }
-          }
-        },
-        "description": "use for deny label in cashbox transactions"
+        "description": "use for deny label in cashbox transactions, timer bg  in bonus widget "
       },
       "active": {
         "value": "#29AE07",
