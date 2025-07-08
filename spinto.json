@@ -518,36 +518,36 @@
     "tapbar": {
       "value": [
         {
-          "color": "#2727271a",
-          "type": "dropShadow",
+          "color": "rgba(151, 100, 230, 0.30)",
+          "type": "innerShadow",
           "x": "0",
-          "y": "-4",
-          "blur": "8",
+          "y": "2",
+          "blur": "2",
           "spread": "0"
         },
         {
           "x": "0",
-          "y": "1",
-          "blur": "2",
+          "y": "2",
+          "blur": "16",
           "spread": "0",
-          "color": "#96142A",
+          "color": "rgba(151, 100, 230, 0.40)",
           "type": "innerShadow"
         }
       ],
       "type": "boxShadow",
       "description": "Shadow for sticky bar, modal for download app"
     },
-    "card": {
+    "thumb": {
       "value": {
         "x": "0",
-        "y": "4",
-        "blur": "8",
+        "y": "2",
+        "blur": "16",
         "spread": "0",
-        "color": "rgba(1, 9, 31, 0.40)",
-        "type": "dropShadow"
+        "color": "rgba(197, 166, 242, 0.40",
+        "type": "innerShadow"
       },
       "type": "boxShadow",
-      "description": "General shadow for cards, 1click"
+      "description": "games thumbs"
     },
     "card-additional": {
       "value": [
@@ -564,7 +564,7 @@
           "y": "2",
           "blur": "16",
           "spread": "0",
-          "color": "#000000rgba(151, 100, 230, 0.40)",
+          "color": "rgba(151, 100, 230, 0.40)",
           "type": "innerShadow"
         }
       ],
@@ -584,20 +584,6 @@
       ],
       "type": "boxShadow",
       "description": "use for cards/popups dropshadow"
-    },
-    "card-additional-3": {
-      "value": [
-        {
-          "x": "0",
-          "y": "2",
-          "blur": "4",
-          "spread": "0",
-          "color": "rgba(13, 22, 46, 0.08)",
-          "type": "dropShadow"
-        }
-      ],
-      "type": "boxShadow",
-      "description": "use for achievements cards"
     },
     "top": {
       "value": {
@@ -1473,7 +1459,7 @@
       "description": "Radius for thumbs"
     },
     "navbar": {
-      "value": "16px",
+      "value": "8px",
       "type": "borderRadius",
       "description": "use for navbar on main page"
     },
@@ -1497,11 +1483,6 @@
       "type": "borderRadius",
       "description": "Radius for extrasmall buttons in gamepage"
     },
-    "tap-bar": {
-      "value": "16px",
-      "type": "borderRadius",
-      "description": "Radius for tapbar"
-    },
     "popup": {
       "value": "16px",
       "type": "borderRadius"
@@ -1520,11 +1501,6 @@
       "value": "{radius.button}",
       "type": "borderRadius",
       "description": "use for player status item in tournament page"
-    },
-    "no-radius": {
-      "value": "0",
-      "type": "borderRadius",
-      "description": "No radius"
     },
     "input-base": {
       "value": "12px",
@@ -2431,14 +2407,14 @@
   "navbar": {
     "bg": {
       "main": {
-        "value": "rgba(6, 18, 44, 0.60)",
+        "value": "rgba(90, 39, 169, 0.20)",
         "type": "color",
         "description": "Use for bottom navbar on mainpage mob"
       },
       "button": {
-        "value": "#ffffff",
+        "value": "linear-gradient(93deg, #570288 -9.84%, #B546FF 120.24%)",
         "type": "color",
-        "description": "use for deposit buttton color on mob/desktopp navbar "
+        "description": "use for deposit/reg buttton color on mob/desktopp navbar "
       },
       "button-icon": {
         "value": "#02102C",
@@ -3226,12 +3202,12 @@
     },
     "up-button": {
       "accent": {
-        "value": "#FFFFFF",
+        "value": "#70DDFE",
         "type": "color",
         "description": "Accent icon and border on floating button"
       },
       "hover-bg": {
-        "value": "{small-elements.up-button.bg}",
+        "value": "rgba(220, 179, 252, 0.10)",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -3245,7 +3221,7 @@
         "description": "Bg on hover on floating button"
       },
       "bg": {
-        "value": "rgba(5, 67, 227, 0.60)",
+        "value": "rgba(220, 179, 252, 0.10)",
         "type": "color",
         "description": "Bg on default on floating button"
       },
@@ -3380,7 +3356,7 @@
       "description": "For social icons in menu "
     },
     "ghost-1": {
-      "value": "rgba(255, 255, 255, 0.80)",
+      "value": "#ffffff",
       "type": "color",
       "description": "for main icons in navbar mob/desktop"
     },
