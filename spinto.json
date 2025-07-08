@@ -2423,7 +2423,7 @@
       }
     },
     "menu-item-active": {
-      "value": "#BD0F1B",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "color of active item (icon+text)"
     }
