@@ -2877,7 +2877,7 @@
         "description": "for line separator in light bg - dropdown/menu item/tooltips"
       },
       "tertiary": {
-        "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(245, 245, 245, 0.10) 9.97%, rgba(161, 161, 161, 0.10) 91.97%, rgba(153, 153, 153, 0.00) 100%)",
+        "value": "rgba(148, 92, 177, 0.40)",
         "type": "color",
         "description": "separator for dark bg (mob dropdown providers)"
       },
