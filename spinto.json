@@ -623,52 +623,6 @@
       "type": "boxShadow",
       "description": "Shadow for button"
     },
-    "text-1": {
-      "value": {
-        "x": "0",
-        "y": "0",
-        "blur": "0",
-        "spread": "0",
-        "color": "transparent",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow",
-      "description": "Shadow for primary button text"
-    },
-    "shine-accent": {
-      "value": [
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "4",
-          "spread": "",
-          "color": "#2A8249",
-          "type": "dropShadow"
-        },
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "8",
-          "spread": "",
-          "color": "#2A8249",
-          "type": "dropShadow"
-        }
-      ],
-      "type": "boxShadow",
-      "description": "Drop shadow for hover on message in header desktop"
-    },
-    "text-2": {
-      "value": {
-        "x": "0",
-        "y": "1",
-        "blur": "2",
-        "spread": "",
-        "color": "transparent",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow",
-      "description": "Shadow for secondary button text"
-    },
     "accent": {
       "value": [
         {
@@ -2372,7 +2326,7 @@
       "description": "Lighttest (white)"
     },
     "accent-primary": {
-      "value": "#73DBF8",
+      "value": "#6CDFFF",
       "type": "color",
       "description": "Background for accent elements"
     },
@@ -3140,7 +3094,7 @@
         "description": "use for badge in main tapbar"
       },
       "2": {
-        "value": "#2A69F1",
+        "value": "#0387C2",
         "type": "color",
         "description": "use for badges in navbar, menu top part , lottery tickets sale,check box"
       },
@@ -4571,16 +4525,16 @@
   "header": {
     "bg": {
       "balance": {
-        "value": "linear-gradient(270deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.05) 40.7%, rgba(255, 255, 255, 0.05) 82.26%)",
+        "value": "rgba(33, 9, 71, 0.60)",
         "type": "color",
         "description": "use for bg under balance amount"
       },
       "main": {
-        "value": "linear-gradient(180deg, #09122E 0%, rgba(9, 18, 46, 0.80) 39.95%, rgba(9, 18, 46, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #240B44 0%, rgba(51, 29, 79, 0.00) 100%)",
         "type": "color"
       },
       "sticky": {
-        "value": "linear-gradient(180deg, #09122E 0%, rgba(9, 18, 46, 0.80) 29%, rgba(9, 18, 46, 0.60) 66.5%, rgba(9, 18, 46, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #240B44 0%, rgba(36, 11, 68, 0.90) 59.52%, rgba(51, 29, 79, 0.00) 100%)",
         "type": "color"
       },
       "top-desktop": {
