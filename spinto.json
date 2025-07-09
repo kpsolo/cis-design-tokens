@@ -4097,7 +4097,7 @@
       "description": "for referral cards numbers"
     },
     "dropdown-custom": {
-      "value": "rgba(22, 8, 41, 0.90)",
+      "value": "rgba(22, 8, 41, 0.80)",
       "type": "color",
       "description": "For bg on sort , filter dropdown and language dropdown"
     },
