@@ -1412,48 +1412,6 @@
       "description": "for desktop categories border"
     }
   },
-  "base spacing": {
-    "smallest": {
-      "value": "2px",
-      "type": "spacing"
-    },
-    "xxs": {
-      "value": "4px",
-      "type": "spacing"
-    },
-    "xs": {
-      "value": "8px",
-      "type": "spacing"
-    },
-    "sm": {
-      "value": "12px",
-      "type": "spacing"
-    },
-    "m": {
-      "value": "16px",
-      "type": "spacing"
-    },
-    "l": {
-      "value": "24px",
-      "type": "spacing"
-    },
-    "xl": {
-      "value": "32px",
-      "type": "spacing"
-    },
-    "s": {
-      "value": "10px",
-      "type": "spacing"
-    },
-    "xxl": {
-      "value": "48px",
-      "type": "spacing"
-    },
-    "xxxl": {
-      "value": "64px",
-      "type": "spacing"
-    }
-  },
   "radius": {
     "card": {
       "value": "8px",
@@ -1575,37 +1533,6 @@
       "value": "100px",
       "type": "borderRadius",
       "description": "Radius for pagination buttons in 1st deposit page"
-    }
-  },
-  "opacity": {
-    "08": {
-      "value": "80%",
-      "type": "opacity"
-    },
-    "06": {
-      "value": "70%",
-      "type": "opacity",
-      "description": "loyalty disabled state "
-    },
-    "00": {
-      "value": "0",
-      "type": "opacity"
-    },
-    "09": {
-      "value": "90%",
-      "type": "opacity"
-    },
-    "04": {
-      "value": "40%",
-      "type": "opacity"
-    },
-    "01": {
-      "value": "10%",
-      "type": "opacity"
-    },
-    "02": {
-      "value": "20%",
-      "type": "opacity"
     }
   },
   "bg": {
@@ -2051,40 +1978,6 @@
         "description": "bg for social buttons in header - hover state"
       }
     },
-    "gradients": {
-      "main": {
-        "value": "linear-gradient(124deg, #2D73FF 37.1%, rgba(255, 255, 255, 0.00) 71%)",
-        "type": "color",
-        "description": "use as additional ui overlay gradient"
-      },
-      "extra": {
-        "value": "linear-gradient(124deg, rgba(185, 208, 255, 0.48) 37.1%, rgba(255, 255, 255, 0.00) 71%)",
-        "type": "color",
-        "description": "use as additional ui overlay gradient"
-      },
-      "additional": {
-        "value": "linear-gradient(124deg, #930A2B 48.54%, rgba(255, 255, 255, 0.00) 71%)",
-        "type": "color",
-        "description": "use as additional ui overlay gradient"
-      },
-      "highlight": {
-        "main": {
-          "value": "radial-gradient(50% 50% at 50% 50%, rgba(233, 164, 29, 0.20) 0%, rgba(233, 164, 29, 0.00) 100%)",
-          "type": "color",
-          "description": "use as hightlights for small ui elements"
-        },
-        "additional": {
-          "value": "radial-gradient(50% 50% at 50% 50%, rgba(238, 12, 66, 0.16) 0%, rgba(238, 12, 66, 0.00) 100%), radial-gradient(50% 50% at 50% 50%, rgba(238, 12, 66, 0.07) 0%, rgba(238, 12, 66, 0.00) 100%)",
-          "type": "color",
-          "description": "use as hightlights for small ui elements"
-        },
-        "extra": {
-          "value": "radial-gradient(50% 50% at 50% 50%, rgba(255, 255, 255, 0.07) 0%, rgba(255, 255, 255, 0.00) 100%)",
-          "type": "color",
-          "description": "use as hightlights for small ui elements"
-        }
-      }
-    },
     "card": {
       "bg": {
         "1": {
@@ -2288,20 +2181,6 @@
         }
       },
       "description": "use for bg under social icons in mob menu - hover state"
-    }
-  },
-  "nav": {
-    "tab": {
-      "start": {
-        "value": "#06102C",
-        "type": "color",
-        "description": "gradient on top for popups"
-      },
-      "stop": {
-        "value": "#0E1B3F",
-        "type": "color",
-        "description": "gradient on bottom for popups"
-      }
     }
   },
   "base": {
@@ -3513,10 +3392,6 @@
     }
   },
   "min-width": {
-    "game-item-block": {
-      "value": "122px",
-      "type": "sizing"
-    },
     "button": {
       "value": "64px",
       "type": "sizing"
@@ -3532,11 +3407,6 @@
       "value": "48",
       "type": "sizing",
       "description": "use for top navbar items"
-    },
-    "tap-button": {
-      "value": "48",
-      "type": "sizing",
-      "description": "use for bottom tapbar main button"
     },
     "logo-mobile": {
       "value": "100px",
@@ -3570,26 +3440,6 @@
       "type": "sizing",
       "description": "use for desktop logo height "
     },
-    "footer": {
-      "value": "0",
-      "type": "sizing",
-      "description": "use for logo zone in footer "
-    },
-    "1click": {
-      "value": "40px",
-      "type": "sizing",
-      "description": "use for min/max deposite state in 1click"
-    },
-    "search": {
-      "value": "56px",
-      "type": "sizing",
-      "description": "use for desktop search height"
-    },
-    "categories-desktop": {
-      "value": "64",
-      "type": "sizing",
-      "description": "use for categories in desktop"
-    },
     "tabs-strip": {
       "value": "42px",
       "type": "sizing",
@@ -3597,10 +3447,6 @@
     }
   },
   "min-height": {
-    "game-item-block": {
-      "value": "122px",
-      "type": "sizing"
-    },
     "button-m": {
       "value": "40px",
       "type": "sizing"
@@ -4354,36 +4200,6 @@
       "description": "welcome bonus timer title"
     }
   },
-  "filed spacing": {
-    "left": {
-      "value": "16px",
-      "type": "spacing"
-    },
-    "right": {
-      "value": "16px",
-      "type": "spacing"
-    },
-    "top-main": {
-      "value": "12px",
-      "type": "spacing",
-      "description": "use for field with label only"
-    },
-    "top-submain": {
-      "value": "4px",
-      "type": "spacing",
-      "description": "use for field with value"
-    },
-    "bottom-main": {
-      "value": "12px",
-      "type": "spacing",
-      "description": "use for fields with label only"
-    },
-    "bottom-submain": {
-      "value": "8px",
-      "type": "spacing",
-      "description": "use for fields with value"
-    }
-  },
   "categories": {
     "bg": {
       "main": {
@@ -4795,14 +4611,6 @@
     }
   },
   "max-width": {
-    "288": {
-      "value": "288",
-      "type": "sizing"
-    },
-    "368": {
-      "value": "368",
-      "type": "sizing"
-    },
     "tooltip": {
       "value": "256",
       "type": "sizing",
@@ -4879,34 +4687,6 @@
       "type": "color"
     },
     "db": {
-      "radiusXxs": {
-        "value": "2",
-        "type": "borderRadius"
-      },
-      "radiusXs": {
-        "value": "4",
-        "type": "borderRadius"
-      },
-      "radiusS": {
-        "value": "4",
-        "type": "borderRadius"
-      },
-      "radiusM": {
-        "value": "8",
-        "type": "borderRadius"
-      },
-      "radiusL": {
-        "value": "16",
-        "type": "borderRadius"
-      },
-      "radiusXl": {
-        "value": "24",
-        "type": "borderRadius"
-      },
-      "radiusXxl": {
-        "value": "32",
-        "type": "borderRadius"
-      },
       "primaryColor": {
         "value": "{base.surface}",
         "type": "color",
@@ -4953,16 +4733,6 @@
     }
   },
   "tab": {
-    "active tab": {
-      "value": "16px",
-      "type": "borderRadius",
-      "description": "Tab top corners in tournament/lottery pages"
-    },
-    "bg": {
-      "value": "16px",
-      "type": "borderRadius",
-      "description": "bg all tabs"
-    },
     "bg all": {
       "value": "#0F1B3B",
       "type": "color"
