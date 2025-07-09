@@ -2976,7 +2976,7 @@
         "description": "use for deny label text in cashbox transactions"
       },
       "additional": {
-        "value": "rgba(177, 66, 242, 0.10)",
+        "value": "#2F184E",
         "type": "color",
         "description": "use for deny label in cashbox transactions, timer bg  in bonus widget "
       },
