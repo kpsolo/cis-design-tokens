@@ -549,7 +549,19 @@
       "type": "boxShadow",
       "description": "games thumbs"
     },
-    "card-additional": {
+    "input": {
+      "value": {
+        "x": "0",
+        "y": "2",
+        "blur": "16",
+        "spread": "0",
+        "color": "rgba(197, 166, 242, 0.40",
+        "type": "innerShadow"
+      },
+      "type": "boxShadow",
+      "description": "games thumbs"
+    },
+    "card": {
       "value": [
         {
           "x": "0",
@@ -571,7 +583,7 @@
       "type": "boxShadow",
       "description": "use for cards inner shadow + dropshadow"
     },
-    "card-additional-2": {
+    "card-additional": {
       "value": [
         {
           "x": "0",
@@ -1502,8 +1514,8 @@
       "type": "borderRadius",
       "description": "use for player status item in tournament page"
     },
-    "input-base": {
-      "value": "12px",
+    "input": {
+      "value": "8px",
       "type": "borderRadius",
       "description": "Use for inputs, dropdowns bg"
     },
@@ -2297,7 +2309,7 @@
   },
   "base": {
     "light": {
-      "value": "#ffffff",
+      "value": "#faf8ff",
       "type": "color",
       "description": "Lighttest (white)"
     },
@@ -3446,7 +3458,7 @@
     },
     "bg": {
       "default": {
-        "value": "{base.light}",
+        "value": "#160829",
         "type": "color",
         "description": "Default backgrounds for inputs"
       },
@@ -3483,13 +3495,13 @@
     },
     "text": {
       "label": {
-        "value": "{base.dark}",
+        "value": "#F7F4FF",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
-              "type": "lighten",
-              "value": "0.2",
+              "type": "alpha",
+              "value": "0.7",
               "space": "srgb"
             }
           }
@@ -3497,7 +3509,7 @@
         "description": "Label color"
       },
       "value-main": {
-        "value": "{base.dark}",
+        "value": "{base.light}",
         "type": "color",
         "description": "Input value text color"
       },
@@ -4085,9 +4097,9 @@
       "description": "for referral cards numbers"
     },
     "dropdown-custom": {
-      "value": "#0C1B3D",
+      "value": "rgba(22, 8, 41, 0.90)",
       "type": "color",
-      "description": "For bg on filter dropdown and language dropdown"
+      "description": "For bg on sort , filter dropdown and language dropdown"
     },
     "dropdown-custom-additional": {
       "value": "#1C2C50",
