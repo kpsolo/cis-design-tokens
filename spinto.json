@@ -1619,15 +1619,22 @@
       "type": "color",
       "description": "use for messages, tournament, shop, faq cards, top winners, collection"
     },
-    "popup-additional": {
-      "value": "transparent",
-      "type": "color",
-      "description": "use for secret mirror popups bg gradient"
-    },
     "popup": {
-      "value": "linear-gradient(181deg, #06102C 1.35%, #0E1B3F 54.03%, #0E1B3F 97.33%)",
-      "type": "color",
-      "description": "use for popups bg"
+      "type2": {
+        "value": "transparent",
+        "type": "color",
+        "description": "use for secret mirror popups bg gradient"
+      },
+      "type1": {
+        "value": "#050318",
+        "type": "color",
+        "description": "use for popups bg"
+      },
+      "type3": {
+        "value": "#0A1533",
+        "type": "color",
+        "description": "use for popups bg"
+      }
     },
     "top-surface": {
       "value": "{base.light}",
@@ -1650,14 +1657,9 @@
       "description": "bg for notifications"
     },
     "gradient-additional": {
-      "value": "{bg.popup}",
+      "value": "{bg.popup.type1}",
       "type": "color",
       "description": "Gradient for bg in bonus card in cashbox"
-    },
-    "popup-2": {
-      "value": "#0A1533",
-      "type": "color",
-      "description": "use for popups bg"
     },
     "widget-disabled": {
       "value": "{bg.widget-default}",
@@ -1854,11 +1856,6 @@
         "value": "rgba(104, 146, 238, 0.08)",
         "type": "color",
         "description": "Background foe categories on desktop"
-      },
-      "strip-popup": {
-        "value": "{bg.popup}",
-        "type": "color",
-        "description": "Bg for background popup on strip desktop"
       },
       "footer-app": {
         "value": "#251646",
@@ -4022,7 +4019,7 @@
       "description": "for referral cards numbers"
     },
     "dropdown-custom": {
-      "value": "rgba(22, 8, 41, 0.80)",
+      "value": "rgba(22, 8, 41, 0.90)",
       "type": "color",
       "description": "For bg on sort , filter dropdown and language dropdown"
     },
@@ -4343,13 +4340,6 @@
         "value": "linear-gradient(180deg, rgba(58, 71, 138, 0.20) 0%, rgba(3, 17, 45, 0.20) 100%)",
         "type": "color",
         "description": " main bg in 1st screen"
-      }
-    },
-    "achivements": {
-      "popup-1": {
-        "value": "linear-gradient(180deg, #3B135B 0%, #3B135B 100%)",
-        "type": "color",
-        "description": "poopup bg"
       }
     },
     "welcome-bonus": {
@@ -5064,7 +5054,7 @@
         "description": "use for sectors (not white)"
       },
       "main": {
-        "value": "{bg.popup}",
+        "value": "{bg.popup.type1}",
         "type": "color",
         "description": "use as bg on wheel popup"
       }

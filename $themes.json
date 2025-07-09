@@ -123,12 +123,10 @@
       "border.popup-additional": "a839d94ba550ecdc011da1df30dbdab22529dc8b",
       "bg.technical": "4ae6f6b66794006daafe2a51f5af0b6deefd7bbe",
       "bg.additional": "a5cdfba5b567a88f1e56bba8fa9e55146879ac4d",
-      "bg.popup-additional": "d0cf267a6b5c09cb006494187c3383cc291dd8e6",
       "bg.top-surface": "d2affa8866b8d8851b0ec25014c2d200dbcdb652",
       "bg.social-icons": "8c2338c32788e44742f233f7881686525f82f42e",
       "bg.widget-default": "7490deb90f794f97a9ff45e1bcb0de39c2991672",
       "bg.top-surface-additional": "1e88f10dfd410ebc74c83b3816796cff1bb50f56",
-      "bg.popup-2": "220d4a8dad8ba052a274f43edd9b1dd2ba2438a0",
       "bg.widget-disabled": "44ebfec763b33c7362a488939dc182d560d652e9",
       "bg.additional-2": "a49357e5aff3e3fb47cf438bd81b3178369a99a0",
       "bg.widget-bonus-additional": "f41c277f097c2ba4579a9ee41c2b8df6c4d43156",
@@ -540,7 +538,9 @@
       "small-elements.slider.type1": "e20baa465ab771f3a9984cc453c15f443832cd3e",
       "small-elements.slider.type2": "6333460b800e9baadba16237c064f1e9ae033214",
       "small-elements.slider.type3": "2b5e2be0f5f29f3612be559201acb46593670cf3",
-      "small-elements.slider.type4": "8220841b05fb775d0de3201d858fe5c1401d39b3"
+      "small-elements.slider.type4": "8220841b05fb775d0de3201d858fe5c1401d39b3",
+      "bg.popup.type2": "d0cf267a6b5c09cb006494187c3383cc291dd8e6",
+      "bg.popup.type3": "220d4a8dad8ba052a274f43edd9b1dd2ba2438a0"
     }
   }
 ]
