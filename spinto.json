@@ -1486,7 +1486,7 @@
       "description": "use for prize item in tournament/lotery page "
     },
     "button": {
-      "value": "12px",
+      "value": "8px",
       "type": "borderRadius",
       "description": "Radius for buttons"
     },
@@ -2557,7 +2557,7 @@
         "description": "Icon color on a tertiary button"
       },
       "ghost": {
-        "value": "{button.bg.primary}",
+        "value": "{button.text.ghost}",
         "type": "color",
         "description": "Icon color on a ghost button"
       },
@@ -2737,7 +2737,7 @@
         "description": "color on tertiary buttons"
       },
       "ghost": {
-        "value": "{button.bg.primary}",
+        "value": "#04C5EE",
         "type": "color",
         "description": "color on ghost buttons"
       },
