@@ -2918,43 +2918,32 @@
         "description": "separator in filter provider item"
       }
     },
-    "progressbar-large": {
-      "value": "#0C3092",
-      "type": "color",
-      "description": "Color of progress for strip, gamepage(desktop)"
-    },
-    "progressbar-large-bg": {
-      "value": "rgba(255, 255, 255, 0.08)",
-      "type": "color",
-      "description": "Color of progress for strip, gamepage(desktop)"
-    },
-    "progressbar-bg-additional": {
-      "value": "transparent",
-      "type": "color",
-      "description": "border for progressbar in profile/menu mobile"
-    },
     "progressbar": {
-      "value": "#1E5BFF",
-      "type": "color"
-    },
-    "progressbar-bg": {
-      "value": "rgba(167, 188, 251, 0.16)",
-      "type": "color",
-      "description": "bg for progressbar in loyalty"
-    },
-    "bullet": {
-      "value": "{base.primary}",
-      "type": "color"
-    },
-    "fade-tertiary": {
-      "value": "linear-gradient(270deg, {bg.tertiary} 0%, rgba({bg.tertiary} , 0.00) 100%)",
-      "type": "color",
-      "description": "Fade on tertiary backgrounds"
-    },
-    "fade-additional": {
-      "value": "linear-gradient(270deg, {bg.tertiary} 0%, rgba({bg.tertiary} , 0.00) 100%)",
-      "type": "color",
-      "description": "Fade on winning now widget"
+      "type4": {
+        "value": "rgba(255, 255, 255, 0.08)",
+        "type": "color",
+        "description": "Color of progress for strip, gamepage(desktop)"
+      },
+      "type5": {
+        "value": "transparent",
+        "type": "color",
+        "description": "border for progressbar in profile/menu mobile"
+      },
+      "type1": {
+        "value": "rgba(255, 255, 255, 0.12)",
+        "type": "color",
+        "description": "use in cards in deals page for bg and stroke"
+      },
+      "type2": {
+        "value": "rgba(255, 255, 255, 0.60)",
+        "type": "color",
+        "description": "use in bonus balances cards for bar"
+      },
+      "type3": {
+        "value": "rgba(255, 255, 255, 0.16)",
+        "type": "color",
+        "description": "use in bonus balances cards for progress bg"
+      }
     },
     "label": {
       "bg": {
@@ -3018,57 +3007,44 @@
         "description": "use for label divider"
       }
     },
-    "progressbar-deals": {
-      "value": "rgba(255, 255, 255, 0.12)",
-      "type": "color",
-      "description": "use in cards in deals page for bg and stroke"
-    },
-    "progressbar-bonus": {
-      "value": "rgba(255, 255, 255, 0.60)",
-      "type": "color",
-      "description": "use in bonus balances cards for bar"
-    },
-    "progressbar-bonus-bg": {
-      "value": "rgba(255, 255, 255, 0.16)",
-      "type": "color",
-      "description": "use in bonus balances cards for progress bg"
-    },
-    "slider-curret": {
-      "value": "#fff",
-      "type": "color",
-      "description": "use for slider curret in mob main page"
-    },
-    "slider-curret-additional": {
-      "value": "#fff",
-      "type": "color",
-      "description": "use for slider curret in welcom bonus"
-    },
     "slider": {
-      "value": "#fff",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.16",
-            "space": "srgb"
-          }
-        }
-      }
-    },
-    "slider-additional": {
-      "value": "#fff",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.4",
-            "space": "srgb"
+      "type2": {
+        "value": "#fff",
+        "type": "color",
+        "description": "use for slider curret in mob main page"
+      },
+      "type3": {
+        "value": "#fff",
+        "type": "color",
+        "description": "use for slider curret in welcom bonus"
+      },
+      "type1": {
+        "value": "#fff",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.16",
+              "space": "srgb"
+            }
           }
         }
       },
-      "description": "use for slider in welcom bonus"
+      "type4": {
+        "value": "#fff",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "use for slider in welcom bonus"
+      }
     },
     "sign": {
       "value": "#DDC330",
@@ -3076,64 +3052,35 @@
       "description": "star on game thumb"
     },
     "badge": {
-      "1": {
+      "type1": {
         "value": "#0387C2",
         "type": "color",
         "description": "use for badge in main tapbar"
       },
-      "2": {
+      "type2": {
         "value": "#0387C2",
         "type": "color",
         "description": "use for badges in navbar, menu top part , lottery tickets sale,check box"
       },
-      "3": {
+      "type3": {
         "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for badges in calendar of event"
       }
     },
     "footer": {
-      "crypto-up": {
-        "value": "transparent",
-        "type": "color",
-        "description": "Background for crypto"
-      },
-      "crypto-down": {
-        "value": "transparent",
-        "type": "color",
-        "description": "Background for crypto"
-      },
-      "navdots": {
-        "value": "#b3b3b3",
-        "type": "color",
-        "description": "navigation for crypto slider"
-      },
-      "bg-social": {
+      "type1": {
         "value": "#251646",
         "type": "color",
         "description": "for social icons bg"
       },
-      "contact": {
+      "type2": {
         "value": "#150C27",
         "type": "color",
-        "description": "for under contacts"
+        "description": "bg under contact zone"
       },
-      "dropdown": {
-        "value": "rgba(255, 255, 255, 0.08)",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.12",
-              "space": "srgb"
-            }
-          }
-        },
-        "description": "Background for payment dropdown element"
-      },
-      "bg-social-additional": {
-        "value": "{small-elements.footer.bg-social}",
+      "type3": {
+        "value": "{small-elements.footer.type1}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -3173,16 +3120,11 @@
         "description": "use for border in default state"
       }
     },
-    "desktop": {
-      "tournament-counter": {
+    "counter": {
+      "type1": {
         "value": "{button.bg.primary}",
         "type": "color",
         "description": "Color of counter for desktop tournament widget"
-      },
-      "tournament-counter-bg": {
-        "value": "#07142E",
-        "type": "color",
-        "description": "bg for tournament counter on desktop widget"
       }
     },
     "timer": {
@@ -3212,7 +3154,7 @@
         "description": "use for border on timer (for dev use)"
       }
     },
-    "up-button": {
+    "flow-button": {
       "accent": {
         "value": "#70DDFE",
         "type": "color",
@@ -3248,20 +3190,13 @@
         "description": "Bg on hover on floating button"
       }
     },
-    "tournament": {
-      "active-tab-content": {
-        "value": "{base.accent-primary}",
-        "type": "color",
-        "description": "color of text and icon on active tab"
-      }
-    },
     "pagination": {
       "bg": {
         "value": "rgba(62, 81, 118, 0.20)",
         "type": "color",
         "description": "pagination element in mainpage desktop - bg under icon"
       },
-      "icon": {
+      "content": {
         "value": "#FFF",
         "type": "color",
         "description": "pagination element in mainpage desktop - icon"
@@ -3270,16 +3205,6 @@
         "value": "rgba(94, 94, 94, 0.60)",
         "type": "color",
         "description": "pagination element in mainpage desktop - border"
-      }
-    },
-    "button-support": {
-      "bg": {
-        "value": "#fff",
-        "type": "color"
-      },
-      "icon": {
-        "value": "#0A3093",
-        "type": "color"
       }
     }
   },
