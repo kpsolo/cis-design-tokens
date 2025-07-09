@@ -672,11 +672,11 @@
     "tips": {
       "value": {
         "x": "0",
-        "y": "1",
+        "y": "2",
         "blur": "2",
         "spread": "0",
-        "color": "rgba(7,7,33,0.4)",
-        "type": "dropShadow"
+        "color": "rgba(151, 100, 230, 0.30)",
+        "type": "innerShadow"
       },
       "type": "boxShadow",
       "description": "Shadow for small elements on top of components,labels, small game thumbs"
@@ -1742,7 +1742,7 @@
         "description": "Use for tooltip background"
       },
       "footer": {
-        "value": "#050318",
+        "value": "#0A0318",
         "type": "color",
         "description": "Background color for footer"
       },
@@ -1849,7 +1849,7 @@
         "description": "Bg for background popup on strip desktop"
       },
       "footer-app": {
-        "value": "#040C1F",
+        "value": "#251646",
         "type": "color",
         "description": "bg for app button in footer"
       },
@@ -3097,12 +3097,12 @@
         "description": "navigation for crypto slider"
       },
       "bg-social": {
-        "value": "rgba(255, 255, 255, 0.06)",
+        "value": "#251646",
         "type": "color",
         "description": "for social icons bg"
       },
       "contact": {
-        "value": "rgba(255, 255, 255, 0.04)",
+        "value": "#150C27",
         "type": "color",
         "description": "for under contacts"
       },
