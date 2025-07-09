@@ -2739,6 +2739,23 @@
         "description": "base on primary color (change in themes)"
       }
     },
+    "chips": {
+      "type1": {
+        "value": "linear-gradient(273deg, rgba(185, 86, 255, 0.06) -9.14%, rgba(185, 86, 255, 0.30) 98.6%)",
+        "type": "color",
+        "description": "chips bg in mob search "
+      },
+      "type2": {
+        "value": "linear-gradient(274deg, rgba(71, 135, 255, 0.06) 0%, rgba(71, 135, 255, 0.30) 98.48%)",
+        "type": "color",
+        "description": "chips bg in mob search "
+      },
+      "type3": {
+        "value": "#6C34C2",
+        "type": "color",
+        "description": "active chips bg in mob search "
+      }
+    },
     "separator": {
       "primary": {
         "value": "transparent",
