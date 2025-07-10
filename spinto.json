@@ -3085,12 +3085,12 @@
     },
     "pagination": {
       "bg": {
-        "value": "rgba(62, 81, 118, 0.20)",
+        "value": "rgba(205, 160, 240, 0.20)",
         "type": "color",
-        "description": "pagination element in mainpage desktop - bg under icon"
+        "description": "slider, categories pagination"
       },
       "content": {
-        "value": "#FFF",
+        "value": "{base.light}",
         "type": "color",
         "description": "pagination element in mainpage desktop - icon"
       },
