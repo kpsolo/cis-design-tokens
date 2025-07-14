@@ -2420,18 +2420,9 @@
         "description": "border color for separating groups in registration under tabs"
       },
       "tertiary": {
-        "value": "{base.dark}",
+        "value": "rgba(148, 92, 177, 0.40)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.06",
-              "space": "srgb"
-            }
-          }
-        },
-        "description": "for line separator in light bg - dropdown/menu item/tooltips"
+        "description": "for line separator in light bg - dropdown/menu item/tooltips/footer"
       },
       "secondary": {
         "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(245, 245, 245, 0.10) 9.97%, rgba(161, 161, 161, 0.10) 91.97%, rgba(153, 153, 153, 0.00) 100%)",
