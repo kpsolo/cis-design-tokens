@@ -2740,9 +2740,9 @@
       "description": "menu, bottom sheet"
     },
     "primary": {
-      "value": "rgba(114, 65, 183, 0.60)",
+      "value": "#F2EAFF",
       "type": "color",
-      "description": "use for categories  title"
+      "description": "use icons on primary bg"
     },
     "tertiary": {
       "value": "{base.dark}",
@@ -2799,9 +2799,9 @@
       "description": "For social icons in menu "
     },
     "ghost-1": {
-      "value": "#ffffff",
+      "value": "rgba(114, 65, 183, 0.60)",
       "type": "color",
-      "description": "for main icons in navbar mob/desktop"
+      "description": "for mcategories icons mob/desktop"
     },
     "ghost-2": {
       "value": "#404040",
@@ -2834,17 +2834,8 @@
   "input": {
     "border": {
       "default": {
-        "value": "transparent",
+        "value": "#3F2167",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Border color for default inputs"
       },
       "focus": {
