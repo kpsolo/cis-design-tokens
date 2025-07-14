@@ -1301,7 +1301,7 @@
     },
     "popup": {
       "type2": {
-        "value": "linear-gradient(180deg, #261340 0%, #130328 100%)",
+        "value": "linear-gradient(180deg, #130328 34.09%, #261340 100%)",
         "type": "color",
         "description": "use for desktop popups bg gradient"
       },
@@ -2834,7 +2834,7 @@
   "input": {
     "border": {
       "default": {
-        "value": "#3F2167",
+        "value": "#4B2978",
         "type": "color",
         "description": "Border color for default inputs"
       },
