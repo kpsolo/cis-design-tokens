@@ -2660,12 +2660,12 @@
     },
     "flow-button": {
       "accent": {
-        "value": "#70DDFE",
+        "value": "#83E2FF",
         "type": "color",
         "description": "Accent icon and border on floating button"
       },
       "hover-bg": {
-        "value": "rgba(220, 179, 252, 0.10)",
+        "value": "rgba(220, 179, 252, 0.20)",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -2679,7 +2679,7 @@
         "description": "Bg on hover on floating button"
       },
       "bg": {
-        "value": "rgba(220, 179, 252, 0.10)",
+        "value": "rgba(220, 179, 252, 0.20)",
         "type": "color",
         "description": "Bg on default on floating button"
       },
