@@ -2682,16 +2682,6 @@
         "value": "rgba(220, 179, 252, 0.20)",
         "type": "color",
         "description": "Bg on default on floating button"
-      },
-      "border": {
-        "value": "transparent",
-        "type": "color",
-        "description": "border on default on floating button"
-      },
-      "hover-icon": {
-        "value": "#FFF",
-        "type": "color",
-        "description": "Bg on hover on floating button"
       }
     },
     "pagination": {
@@ -3460,17 +3450,17 @@
     },
     "small-card": {
       "bg": {
-        "value": "linear-gradient(90deg, #153270 1.64%, #081B4D 54.22%, #061232 97.54%)",
+        "value": "linear-gradient(91deg, #5806D3 9.73%, #745ECB 55.95%, #573BC7 99.49%)",
         "type": "color",
         "description": "use for bg for bonus widget in desktop header"
       },
       "bg-additional": {
-        "value": "linear-gradient(90deg, #275CCB 1.64%, #081B4D 54.22%, #061232 97.54%)",
+        "value": "linear-gradient(91deg, #573BC73 9.73%, #745ECB 55.95%, #5806D3 99.49%)",
         "type": "color",
         "description": "use for bg hover state for bonus widget in desktop header"
       },
       "border": {
-        "value": "#102B6C",
+        "value": "rgba(208, 178, 224, 0.20)",
         "type": "color",
         "description": "use for stroke for bonus widget in desktop header"
       }
