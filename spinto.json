@@ -1735,7 +1735,7 @@
           "description": "DEV - 1st deposit card stroke, welcomeback popup border "
         },
         "main": {
-          "value": "#361D5F",
+          "value": "transparent",
           "type": "color",
           "description": "border for winners/prizes stata in top winners/tournament widget"
         },
