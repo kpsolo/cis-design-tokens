@@ -2026,17 +2026,8 @@
         "description": "Background for primary buttons hover"
       },
       "primary-pressed": {
-        "value": "{button.bg.primary}",
+        "value": "linear-gradient(92deg, #023688 1.92%, #00DBFE 123.65%)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.20",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for primary pressed"
       },
       "primary-disabled-additional": {
@@ -2065,17 +2056,8 @@
         "description": "Background for secondary buttons hover"
       },
       "secondary-pressed": {
-        "value": "{button.bg.secondary}",
+        "value": "linear-gradient(97deg, #2D1551 29.91%, #6630B8 119.22%)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for secondary buttons pressed"
       },
       "secondary-disabled": {
