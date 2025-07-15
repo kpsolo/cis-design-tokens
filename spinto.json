@@ -549,18 +549,6 @@
       "type": "boxShadow",
       "description": "games thumbs"
     },
-    "input": {
-      "value": {
-        "x": "0",
-        "y": "2",
-        "blur": "16",
-        "spread": "0",
-        "color": "rgba(197, 166, 242, 0.40",
-        "type": "innerShadow"
-      },
-      "type": "boxShadow",
-      "description": "games thumbs"
-    },
     "card": {
       "value": [
         {
@@ -582,6 +570,18 @@
       ],
       "type": "boxShadow",
       "description": "use for cards inner shadow + dropshadow"
+    },
+    "input": {
+      "value": {
+        "x": "0",
+        "y": "2",
+        "blur": "16",
+        "spread": "0",
+        "color": "rgba(197, 166, 242, 0.40",
+        "type": "innerShadow"
+      },
+      "type": "boxShadow",
+      "description": "games thumbs"
     },
     "popup": {
       "value": [
@@ -1532,18 +1532,9 @@
         "description": "for static table headet"
       },
       "2": {
-        "value": "{base.primary}",
+        "value": "rgba(184, 114, 255, 0.10)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.10",
-              "space": "srgb"
-            }
-          }
-        },
-        "description": "social icons bg in desktop header/ mob registration/gamepage left sidebar"
+        "description": "= bg in desktop header/ mob registration/gamepage left sidebar"
       },
       "3": {
         "value": "{text.content}",
@@ -2426,9 +2417,9 @@
     },
     "progressbar": {
       "type4": {
-        "value": "rgba(255, 255, 255, 0.08)",
+        "value": "linear-gradient(121deg, #A43DE8 5.69%, #55ABD6 70.81%)",
         "type": "color",
-        "description": "Color of progress for strip, gamepage(desktop)"
+        "description": "Color of progress for strip, gamepage, header (desktop)"
       },
       "type5": {
         "value": "transparent",
@@ -2448,7 +2439,7 @@
       "type3": {
         "value": "rgba(255, 255, 255, 0.16)",
         "type": "color",
-        "description": "use in bonus balances cards for progress bg"
+        "description": "use in bonus balances cards for progress bg, in header desktop"
       }
     },
     "label": {
