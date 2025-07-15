@@ -4816,7 +4816,7 @@
   },
   "tech": {
     "bg": {
-      "value": "#030B1D",
+      "value": "#04010d",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     }
