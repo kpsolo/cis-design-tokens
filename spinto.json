@@ -1697,9 +1697,9 @@
           "description": "bg for banner title , categories cards"
         },
         "3": {
-          "value": "rgba(8, 26, 63, 0.80)",
+          "value": "rgba(55, 23, 102, 0.90)",
           "type": "color",
-          "description": "bg for winnig now"
+          "description": "bg for winning now desktop"
         },
         "4": {
           "value": "linear-gradient(96deg, #240D47 8.01%, #4C0C6B 61.46%)",
@@ -1729,7 +1729,7 @@
           "description": "1st deopsit card stroke bg"
         },
         "3": {
-          "value": "#65429E",
+          "value": "rgba(184, 37, 238, 0.40)",
           "type": "color",
           "description": "label border on cards on a main page\nwinning now border"
         },
