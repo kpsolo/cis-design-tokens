@@ -1257,7 +1257,7 @@
       "description": "Radius for select (0)"
     },
     "small-tips": {
-      "value": "8px",
+      "value": "2px",
       "type": "borderRadius",
       "description": "Radius for small elements -  notification in menu item, counter for categories in title"
     },
@@ -1313,7 +1313,7 @@
     "additional": {
       "value": "#160829",
       "type": "color",
-      "description": "use for messages, tournament, shop, faq cards, top winners, collection"
+      "description": "use for messages, tournament, shop, faq cards, collection"
     },
     "popup": {
       "type2": {
@@ -2428,7 +2428,7 @@
         "description": "use in mob registation tabs"
       },
       "additional": {
-        "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(245, 245, 245, 0.10) 9.97%, rgba(161, 161, 161, 0.10) 91.97%, rgba(153, 153, 153, 0.00) 100%)",
+        "value": "rgba(148, 92, 177, 0.40)",
         "type": "color",
         "description": "border color for info inside transaction/ separator for items in tables in static page"
       }
