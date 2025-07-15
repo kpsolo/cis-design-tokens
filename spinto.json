@@ -1257,7 +1257,7 @@
       "description": "Radius for select (0)"
     },
     "small-tips": {
-      "value": "2px",
+      "value": "8px",
       "type": "borderRadius",
       "description": "Radius for small elements -  notification in menu item, counter for categories in title"
     },
@@ -1720,7 +1720,7 @@
           "description": "1st deopsit card stroke bg"
         },
         "3": {
-          "value": "rgba(184, 37, 238, 0.40)",
+          "value": "#65429E",
           "type": "color",
           "description": "label border on cards on a main page\nwinning now border"
         },
