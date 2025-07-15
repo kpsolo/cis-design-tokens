@@ -1527,17 +1527,8 @@
     },
     "overlay": {
       "1": {
-        "value": "{text.content}",
+        "value": "#1B1132",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.04",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for static table headet"
       },
       "2": {
