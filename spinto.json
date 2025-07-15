@@ -2060,7 +2060,7 @@
         "description": "Background for secondary buttons"
       },
       "secondary-hover": {
-        "value": "#0D3394",
+        "value": "linear-gradient(97deg, #2D1551 5.78%, #6630B8 119.22%)",
         "type": "color",
         "description": "Background for secondary buttons hover"
       },
