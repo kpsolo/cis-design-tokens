@@ -543,7 +543,7 @@
         "y": "2",
         "blur": "16",
         "spread": "0",
-        "color": "rgba(197, 166, 242, 0.40",
+        "color": "rgba(197, 166, 242, 0.40)",
         "type": "innerShadow"
       },
       "type": "boxShadow",
@@ -577,7 +577,7 @@
         "y": "2",
         "blur": "16",
         "spread": "0",
-        "color": "rgba(197, 166, 242, 0.40",
+        "color": "rgba(197, 166, 242, 0.40)",
         "type": "innerShadow"
       },
       "type": "boxShadow",
@@ -3420,7 +3420,7 @@
         "description": "use for bg for bonus widget in desktop header"
       },
       "bg-additional": {
-        "value": "linear-gradient(91deg, #573BC73 9.73%, #745ECB 55.95%, #5806D3 99.49%)",
+        "value": "linear-gradient(91deg, #573BC7 9.73%, #745ECB 55.95%, #5806D3 99.49%)",
         "type": "color",
         "description": "use for bg hover state for bonus widget in desktop header"
       },
