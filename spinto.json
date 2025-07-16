@@ -577,11 +577,11 @@
         "y": "2",
         "blur": "16",
         "spread": "0",
-        "color": "rgba(197, 166, 242, 0.40)",
+        "color": "rgba(151, 100, 230, 0.40)",
         "type": "innerShadow"
       },
       "type": "boxShadow",
-      "description": "games thumbs"
+      "description": "inner shadow for inputs"
     },
     "popup": {
       "value": [
@@ -2796,7 +2796,7 @@
         "description": "Border color for default inputs"
       },
       "focus": {
-        "value": "{base.accent-primary}",
+        "value": "#7E38DF",
         "type": "color",
         "description": "Color border for focused input"
       },
