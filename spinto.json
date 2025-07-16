@@ -2369,12 +2369,12 @@
     },
     "chips": {
       "type1": {
-        "value": "linear-gradient(273deg, rgba(185, 86, 255, 0.06) -9.14%, rgba(185, 86, 255, 0.30) 98.6%)",
+        "value": "linear-gradient(272deg, rgba(185, 86, 255, 0.30) 10.9%, rgba(221, 0, 255, 0.30) 99.34%)",
         "type": "color",
         "description": "chips bg in mob search "
       },
       "type2": {
-        "value": "linear-gradient(274deg, rgba(71, 135, 255, 0.06) 0%, rgba(71, 135, 255, 0.30) 98.48%)",
+        "value": "linear-gradient(274deg, #441B68 3.04%, rgba(71, 135, 255, 0.30) 95.53%)",
         "type": "color",
         "description": "chips bg in mob search "
       },
