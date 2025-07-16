@@ -1994,17 +1994,8 @@
         "description": "Background for primary buttons"
       },
       "primary-hover": {
-        "value": "{button.bg.primary}",
+        "value": "linear-gradient(93deg, #023688 2.36%, #0188C3 40.84%, #00DBFE 97.64%)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.16",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for primary buttons hover"
       },
       "primary-pressed": {
@@ -2033,7 +2024,7 @@
         "description": "Background for secondary buttons"
       },
       "secondary-hover": {
-        "value": "linear-gradient(97deg, #2D1551 5.78%, #6630B8 119.22%)",
+        "value": "linear-gradient(93deg, #2D1551 18.38%, #6630B8 93.49%)",
         "type": "color",
         "description": "Background for secondary buttons hover"
       },
