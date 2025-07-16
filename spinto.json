@@ -1758,7 +1758,7 @@
         "description": "use as overlay on messages picture, news cards picture"
       },
       "3": {
-        "value": "linear-gradient(180deg, rgba(2, 16, 44, 0.00) 0%, rgba(2, 16, 44, 0.50) 24.24%, rgba(2, 16, 44, 0.90) 54.36%, #02102C 100%)",
+        "value": "linear-gradient(180deg, rgba(10, 3, 24, 0.00) 0%, rgba(10, 3, 24, 0.50) 24.24%, rgba(10, 3, 24, 0.90) 54.36%, #0A0318 100%)",
         "type": "color",
         "description": "use under link in messages/in reg banner under check link\n\n[based on primary bg]"
       },
@@ -1989,7 +1989,7 @@
   "button": {
     "bg": {
       "primary": {
-        "value": "linear-gradient(93deg, #023688 -9.84%, #00DBFE 120.24%)",
+        "value": "linear-gradient(93deg, #023688 2.36%, #1D5EC4 50%, #00B0CD 97.64%)",
         "type": "color",
         "description": "Background for primary buttons"
       },
@@ -2008,7 +2008,7 @@
         "description": "Background for primary buttons hover"
       },
       "primary-pressed": {
-        "value": "linear-gradient(92deg, #023688 1.92%, #00DBFE 123.65%)",
+        "value": "linear-gradient(92deg, #023688 1.92%, #00DBFE 100%)",
         "type": "color",
         "description": "Background for primary pressed"
       },
@@ -2028,7 +2028,7 @@
         "description": "Background for tertiary buttons disabled"
       },
       "secondary": {
-        "value": "linear-gradient(97deg, #2D1551 5.78%, #6630B8 119.22%)",
+        "value": "linear-gradient(97deg, #2D1551 5.78%, #6630B8 100%)",
         "type": "color",
         "description": "Background for secondary buttons"
       },
@@ -2038,7 +2038,7 @@
         "description": "Background for secondary buttons hover"
       },
       "secondary-pressed": {
-        "value": "linear-gradient(97deg, #2D1551 29.91%, #6630B8 119.22%)",
+        "value": "linear-gradient(97deg, #2D1551 29.91%, #6630B8 100%)",
         "type": "color",
         "description": "Background for secondary buttons pressed"
       },
