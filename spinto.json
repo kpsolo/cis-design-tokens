@@ -2801,18 +2801,9 @@
         "description": "Color border for focused input"
       },
       "disabled": {
-        "value": "rgba(255, 255, 255, 0.10)",
+        "value": "rgba(255, 255, 255, 0.26)",
         "type": "color",
-        "description": "Color border for disabled input",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
-            }
-          }
-        }
+        "description": "Color border for disabled input"
       },
       "error": {
         "value": "{base.error}",
