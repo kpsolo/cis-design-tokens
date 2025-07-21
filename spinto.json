@@ -569,7 +569,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "use for cards inner shadow + dropshadow"
+      "description": "use for cards inner shadow "
     },
     "input": {
       "value": {
@@ -1259,7 +1259,7 @@
     "small-tips": {
       "value": "8px",
       "type": "borderRadius",
-      "description": "Radius for small elements -  notification in menu item, counter for categories in title"
+      "description": "Radius for small elements -  notification in menu item, counter for categories in title, balance bg in mob header"
     },
     "large-tips": {
       "value": "100px",
