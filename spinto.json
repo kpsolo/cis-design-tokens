@@ -3787,15 +3787,6 @@
     "content": {
       "value": "{text.light}",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.8",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "Color for status and %"
     },
     "separator": {
@@ -4080,15 +4071,6 @@
     "bg-progress": {
       "value": "{bg.secondary}",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.8",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "bg in brogress bar "
     },
     "overlay": {
@@ -4219,17 +4201,8 @@
         }
       },
       "secondary": {
-        "value": "{base.light}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        }
+        "value": "#070707",
+        "type": "color"
       },
       "tertiary": {
         "value": "#FFFFFF",
