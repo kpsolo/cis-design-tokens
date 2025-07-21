@@ -4541,7 +4541,7 @@
   },
   "tech": {
     "bg": {
-      "value": "#04010d",
+      "value": "#010103",
       "type": "color",
       "description": "for DIS use, bg for sectioins\n"
     }
