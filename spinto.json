@@ -700,7 +700,7 @@
     "tips": {
       "value": {
         "x": "0",
-        "y": "2",
+        "y": "1",
         "blur": "2",
         "spread": "0",
         "color": "rgba(151, 100, 230, 0.30)",
@@ -1101,7 +1101,7 @@
     },
     "tooltip": {
       "value": {
-        "color": "#fff",
+        "color": "#251745",
         "width": "1px",
         "style": "solid"
       },
@@ -1417,11 +1417,6 @@
         "value": "linear-gradient(130deg, #4865AB 0%, #000E2F 100%)",
         "type": "color",
         "description": "Main banner background"
-      },
-      "tooltip": {
-        "value": "#FFF",
-        "type": "color",
-        "description": "Use for tooltip background"
       },
       "footer": {
         "value": "#0A0318",
@@ -1806,6 +1801,348 @@
       "value": "rgba(40, 65, 119, 0.40)",
       "type": "color",
       "description": "use for bg under social icons in mob menu - hover state"
+    }
+  },
+  "small-elements": {
+    "tooltip": {
+      "type1": {
+        "value": "#251745",
+        "type": "color",
+        "description": "Use for tooltip background"
+      },
+      "type2": {
+        "value": "rgba(250, 248, 255, 0.80",
+        "type": "color",
+        "description": "Use for tooltip content"
+      }
+    },
+    "thumb": {
+      "provider-logo-bg": {
+        "value": "linear-gradient(0deg, #130329 0%, #130329 41.35%, rgba(19, 3, 41, 0.00) 100%)",
+        "type": "color",
+        "description": "Background under provider logo on game thumb"
+      },
+      "counter-color": {
+        "value": "#E6E6EA",
+        "type": "color",
+        "description": "Color of counter on header of game block"
+      }
+    },
+    "scrollbar": {
+      "dark": {
+        "value": "rgba(1, 3, 47, 0.20)",
+        "type": "color",
+        "description": "for scrollbar on light bg (dropdown)"
+      },
+      "light": {
+        "value": "rgba(250, 248, 255, 0.20)",
+        "type": "color",
+        "description": "for dark bg (regular popups)"
+      },
+      "primary": {
+        "value": "rgba(186, 188, 194, 0.20)",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.2",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "base on primary color (change in themes)"
+      }
+    },
+    "chips": {
+      "type1": {
+        "value": "linear-gradient(272deg, rgba(185, 86, 255, 0.30) 10.9%, rgba(221, 0, 255, 0.30) 99.34%)",
+        "type": "color",
+        "description": "chips bg in mob search "
+      },
+      "type2": {
+        "value": "linear-gradient(274deg, #441B68 3.04%, rgba(71, 135, 255, 0.30) 95.53%)",
+        "type": "color",
+        "description": "chips bg in mob search "
+      },
+      "type3": {
+        "value": "#6C34C2",
+        "type": "color",
+        "description": "active chips bg in mob search "
+      }
+    },
+    "separator": {
+      "primary": {
+        "value": "transparent",
+        "type": "color",
+        "description": "border color for separating groups in registration under tabs"
+      },
+      "tertiary": {
+        "value": "rgba(148, 92, 177, 0.40)",
+        "type": "color",
+        "description": "for line separator in light bg - dropdown/menu item/tooltips/footer"
+      },
+      "secondary": {
+        "value": "rgba(148, 92, 177, 0.40)",
+        "type": "color",
+        "description": "use in mob registation tabs"
+      },
+      "additional": {
+        "value": "rgba(148, 92, 177, 0.40)",
+        "type": "color",
+        "description": "border color for info inside transaction/ separator for items in tables in static page"
+      }
+    },
+    "progressbar": {
+      "type4": {
+        "value": "linear-gradient(121deg, #A43DE8 5.69%, #55ABD6 70.81%)",
+        "type": "color",
+        "description": "Color of progress for strip, gamepage, header (desktop)"
+      },
+      "type5": {
+        "value": "transparent",
+        "type": "color",
+        "description": "border for progressbar in profile/menu mobile"
+      },
+      "type1": {
+        "value": "rgba(255, 255, 255, 0.12)",
+        "type": "color",
+        "description": "use in cards in deals page for bg and stroke"
+      },
+      "type2": {
+        "value": "rgba(255, 255, 255, 0.60)",
+        "type": "color",
+        "description": "use in bonus balances cards for bar"
+      },
+      "type3": {
+        "value": "rgba(255, 255, 255, 0.16)",
+        "type": "color",
+        "description": "use in bonus balances cards for progress bg, in header desktop"
+      }
+    },
+    "label": {
+      "bg": {
+        "value": "linear-gradient(280deg, #571DDC 14.3%, #209F4A 84.26%)",
+        "type": "color",
+        "description": "use for bg in game thumbs"
+      },
+      "content": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "description": "use for icons color in game thumb label"
+      },
+      "bg-additional": {
+        "value": "rgba(177, 66, 242, 0.20)",
+        "type": "color",
+        "description": "use for labels on cards in a main page"
+      },
+      "success": {
+        "value": "#1E8704",
+        "type": "color",
+        "description": "use for success label in cashbox transactions"
+      },
+      "deny": {
+        "value": "#A8030F",
+        "type": "color",
+        "description": "use for deny label in cashbox transactions"
+      },
+      "deny-text": {
+        "value": "#FFF",
+        "type": "color",
+        "description": "use for deny label text in cashbox transactions"
+      },
+      "active": {
+        "value": "#29AE07",
+        "type": "color",
+        "description": "use for active label text in bonus balance cards"
+      },
+      "disable": {
+        "value": "#FFAC09",
+        "type": "color",
+        "description": "use for disable label text in bonus balance cards"
+      },
+      "disable-bg": {
+        "value": "rgba(255, 172, 9, 0.24)",
+        "type": "color",
+        "description": "use for disable label bg  in bonus balance cards"
+      },
+      "active-bg": {
+        "value": "rgba(52, 224, 9, 0.24)",
+        "type": "color",
+        "description": "use for active label bg in bonus balance cards"
+      },
+      "divider": {
+        "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(255, 255, 255, 0.20) 51.92%, rgba(255, 255, 255, 0.00) 100%)",
+        "type": "color",
+        "description": "use for label divider"
+      }
+    },
+    "slider": {
+      "type2": {
+        "value": "#fff",
+        "type": "color",
+        "description": "use for slider curret in mob main page"
+      },
+      "type3": {
+        "value": "#fff",
+        "type": "color",
+        "description": "use for slider curret in welcom bonus"
+      },
+      "type1": {
+        "value": "#fff",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.16",
+              "space": "srgb"
+            }
+          }
+        }
+      },
+      "type4": {
+        "value": "#fff",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "use for slider in welcom bonus"
+      }
+    },
+    "sign": {
+      "value": "#DDC330",
+      "type": "color",
+      "description": "star on game thumb"
+    },
+    "badge": {
+      "type1": {
+        "value": "#0387C2",
+        "type": "color",
+        "description": "use for badge in main tapbar"
+      },
+      "type2": {
+        "value": "#0387C2",
+        "type": "color",
+        "description": "use for badges in navbar, menu top part , lottery tickets sale,check box"
+      },
+      "type3": {
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "use for badges in calendar of event"
+      }
+    },
+    "footer": {
+      "type1": {
+        "value": "#251646",
+        "type": "color",
+        "description": "for social icons bg"
+      },
+      "type2": {
+        "value": "#150C27",
+        "type": "color",
+        "description": "bg under contact zone"
+      },
+      "type3": {
+        "value": "#1E1238",
+        "type": "color",
+        "description": "for social icons bg hover State "
+      }
+    },
+    "check-box": {
+      "accent": {
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "use for check box border"
+      },
+      "fill": {
+        "value": "{bg.secondary}",
+        "type": "color",
+        "description": "radio-button/check-box in lottery/shop cards desktop"
+      },
+      "default": {
+        "value": "rgba(108, 223, 255, 0.40)",
+        "type": "color",
+        "description": "use for border in default state"
+      }
+    },
+    "counter": {
+      "type1": {
+        "value": "{button.bg.primary}",
+        "type": "color",
+        "description": "Color of counter for desktop tournament widget"
+      }
+    },
+    "timer": {
+      "bg": {
+        "value": "rgba(0, 0, 0, 0.32)",
+        "type": "color",
+        "description": "use for timer bg"
+      },
+      "bg-additional": {
+        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.14) 3.13%, rgba(255, 255, 255, 0.06) 18.24%, rgba(255, 255, 255, 0.00) 48.75%, rgba(255, 255, 255, 0.06) 86.05%, rgba(255, 255, 255, 0.14) 100%)",
+        "type": "color",
+        "description": "use for timer bg in 1st deposit"
+      },
+      "content": {
+        "value": "{base.primary}",
+        "type": "color",
+        "description": "use for numbers on timer"
+      },
+      "border": {
+        "value": "rgba(147, 203, 255, 0.25)",
+        "type": "color",
+        "description": "use for border on timer (for dev use)"
+      }
+    },
+    "flow-button": {
+      "accent": {
+        "value": "#83E2FF",
+        "type": "color",
+        "description": "Accent icon and border on floating button"
+      },
+      "hover-bg": {
+        "value": "rgba(220, 179, 252, 0.20)",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.1",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "Bg on hover on floating button"
+      },
+      "bg": {
+        "value": "rgba(220, 179, 252, 0.20)",
+        "type": "color",
+        "description": "Bg on default on floating button"
+      }
+    },
+    "pagination": {
+      "bg": {
+        "value": "rgba(205, 160, 240, 0.20)",
+        "type": "color",
+        "description": "slider, categories pagination"
+      },
+      "content": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "pagination element in mainpage desktop - icon"
+      },
+      "border": {
+        "value": "rgba(94, 94, 94, 0.60)",
+        "type": "color",
+        "description": "pagination element in mainpage desktop - border"
+      }
     }
   },
   "base": {
@@ -2203,336 +2540,6 @@
         "value": "rgba(255, 255, 255, 0.50)",
         "type": "color",
         "description": "Text color on tertiary disabled button"
-      }
-    }
-  },
-  "small-elements": {
-    "thumb": {
-      "provider-logo-bg": {
-        "value": "linear-gradient(0deg, #130329 0%, #130329 41.35%, rgba(19, 3, 41, 0.00) 100%)",
-        "type": "color",
-        "description": "Background under provider logo on game thumb"
-      },
-      "counter-color": {
-        "value": "#E6E6EA",
-        "type": "color",
-        "description": "Color of counter on header of game block"
-      }
-    },
-    "scrollbar": {
-      "dark": {
-        "value": "rgba(1, 3, 47, 0.20)",
-        "type": "color",
-        "description": "for scrollbar on light bg (dropdown)"
-      },
-      "light": {
-        "value": "rgba(250, 248, 255, 0.20)",
-        "type": "color",
-        "description": "for dark bg (regular popups)"
-      },
-      "primary": {
-        "value": "rgba(186, 188, 194, 0.20)",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
-        "description": "base on primary color (change in themes)"
-      }
-    },
-    "chips": {
-      "type1": {
-        "value": "linear-gradient(272deg, rgba(185, 86, 255, 0.30) 10.9%, rgba(221, 0, 255, 0.30) 99.34%)",
-        "type": "color",
-        "description": "chips bg in mob search "
-      },
-      "type2": {
-        "value": "linear-gradient(274deg, #441B68 3.04%, rgba(71, 135, 255, 0.30) 95.53%)",
-        "type": "color",
-        "description": "chips bg in mob search "
-      },
-      "type3": {
-        "value": "#6C34C2",
-        "type": "color",
-        "description": "active chips bg in mob search "
-      }
-    },
-    "separator": {
-      "primary": {
-        "value": "transparent",
-        "type": "color",
-        "description": "border color for separating groups in registration under tabs"
-      },
-      "tertiary": {
-        "value": "rgba(148, 92, 177, 0.40)",
-        "type": "color",
-        "description": "for line separator in light bg - dropdown/menu item/tooltips/footer"
-      },
-      "secondary": {
-        "value": "rgba(148, 92, 177, 0.40)",
-        "type": "color",
-        "description": "use in mob registation tabs"
-      },
-      "additional": {
-        "value": "rgba(148, 92, 177, 0.40)",
-        "type": "color",
-        "description": "border color for info inside transaction/ separator for items in tables in static page"
-      }
-    },
-    "progressbar": {
-      "type4": {
-        "value": "linear-gradient(121deg, #A43DE8 5.69%, #55ABD6 70.81%)",
-        "type": "color",
-        "description": "Color of progress for strip, gamepage, header (desktop)"
-      },
-      "type5": {
-        "value": "transparent",
-        "type": "color",
-        "description": "border for progressbar in profile/menu mobile"
-      },
-      "type1": {
-        "value": "rgba(255, 255, 255, 0.12)",
-        "type": "color",
-        "description": "use in cards in deals page for bg and stroke"
-      },
-      "type2": {
-        "value": "rgba(255, 255, 255, 0.60)",
-        "type": "color",
-        "description": "use in bonus balances cards for bar"
-      },
-      "type3": {
-        "value": "rgba(255, 255, 255, 0.16)",
-        "type": "color",
-        "description": "use in bonus balances cards for progress bg, in header desktop"
-      }
-    },
-    "label": {
-      "bg": {
-        "value": "linear-gradient(280deg, #571DDC 14.3%, #209F4A 84.26%)",
-        "type": "color",
-        "description": "use for bg in game thumbs"
-      },
-      "content": {
-        "value": "#FFFFFF",
-        "type": "color",
-        "description": "use for icons color in game thumb label"
-      },
-      "bg-additional": {
-        "value": "rgba(177, 66, 242, 0.20)",
-        "type": "color",
-        "description": "use for labels on cards in a main page"
-      },
-      "success": {
-        "value": "#1E8704",
-        "type": "color",
-        "description": "use for success label in cashbox transactions"
-      },
-      "deny": {
-        "value": "#A8030F",
-        "type": "color",
-        "description": "use for deny label in cashbox transactions"
-      },
-      "deny-text": {
-        "value": "#FFF",
-        "type": "color",
-        "description": "use for deny label text in cashbox transactions"
-      },
-      "active": {
-        "value": "#29AE07",
-        "type": "color",
-        "description": "use for active label text in bonus balance cards"
-      },
-      "disable": {
-        "value": "#FFAC09",
-        "type": "color",
-        "description": "use for disable label text in bonus balance cards"
-      },
-      "disable-bg": {
-        "value": "rgba(255, 172, 9, 0.24)",
-        "type": "color",
-        "description": "use for disable label bg  in bonus balance cards"
-      },
-      "active-bg": {
-        "value": "rgba(52, 224, 9, 0.24)",
-        "type": "color",
-        "description": "use for active label bg in bonus balance cards"
-      },
-      "divider": {
-        "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(255, 255, 255, 0.20) 51.92%, rgba(255, 255, 255, 0.00) 100%)",
-        "type": "color",
-        "description": "use for label divider"
-      }
-    },
-    "slider": {
-      "type2": {
-        "value": "#fff",
-        "type": "color",
-        "description": "use for slider curret in mob main page"
-      },
-      "type3": {
-        "value": "#fff",
-        "type": "color",
-        "description": "use for slider curret in welcom bonus"
-      },
-      "type1": {
-        "value": "#fff",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.16",
-              "space": "srgb"
-            }
-          }
-        }
-      },
-      "type4": {
-        "value": "#fff",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
-            }
-          }
-        },
-        "description": "use for slider in welcom bonus"
-      }
-    },
-    "sign": {
-      "value": "#DDC330",
-      "type": "color",
-      "description": "star on game thumb"
-    },
-    "badge": {
-      "type1": {
-        "value": "#0387C2",
-        "type": "color",
-        "description": "use for badge in main tapbar"
-      },
-      "type2": {
-        "value": "#0387C2",
-        "type": "color",
-        "description": "use for badges in navbar, menu top part , lottery tickets sale,check box"
-      },
-      "type3": {
-        "value": "{base.accent-primary}",
-        "type": "color",
-        "description": "use for badges in calendar of event"
-      }
-    },
-    "footer": {
-      "type1": {
-        "value": "#251646",
-        "type": "color",
-        "description": "for social icons bg"
-      },
-      "type2": {
-        "value": "#150C27",
-        "type": "color",
-        "description": "bg under contact zone"
-      },
-      "type3": {
-        "value": "#1E1238",
-        "type": "color",
-        "description": "for social icons bg hover State "
-      }
-    },
-    "check-box": {
-      "accent": {
-        "value": "{base.accent-primary}",
-        "type": "color",
-        "description": "use for check box border"
-      },
-      "fill": {
-        "value": "{bg.secondary}",
-        "type": "color",
-        "description": "radio-button/check-box in lottery/shop cards desktop"
-      },
-      "default": {
-        "value": "rgba(108, 223, 255, 0.40)",
-        "type": "color",
-        "description": "use for border in default state"
-      }
-    },
-    "counter": {
-      "type1": {
-        "value": "{button.bg.primary}",
-        "type": "color",
-        "description": "Color of counter for desktop tournament widget"
-      }
-    },
-    "timer": {
-      "bg": {
-        "value": "rgba(0, 0, 0, 0.32)",
-        "type": "color",
-        "description": "use for timer bg"
-      },
-      "bg-additional": {
-        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.14) 3.13%, rgba(255, 255, 255, 0.06) 18.24%, rgba(255, 255, 255, 0.00) 48.75%, rgba(255, 255, 255, 0.06) 86.05%, rgba(255, 255, 255, 0.14) 100%)",
-        "type": "color",
-        "description": "use for timer bg in 1st deposit"
-      },
-      "content": {
-        "value": "{base.primary}",
-        "type": "color",
-        "description": "use for numbers on timer"
-      },
-      "border": {
-        "value": "rgba(147, 203, 255, 0.25)",
-        "type": "color",
-        "description": "use for border on timer (for dev use)"
-      }
-    },
-    "flow-button": {
-      "accent": {
-        "value": "#83E2FF",
-        "type": "color",
-        "description": "Accent icon and border on floating button"
-      },
-      "hover-bg": {
-        "value": "rgba(220, 179, 252, 0.20)",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
-        "description": "Bg on hover on floating button"
-      },
-      "bg": {
-        "value": "rgba(220, 179, 252, 0.20)",
-        "type": "color",
-        "description": "Bg on default on floating button"
-      }
-    },
-    "pagination": {
-      "bg": {
-        "value": "rgba(205, 160, 240, 0.20)",
-        "type": "color",
-        "description": "slider, categories pagination"
-      },
-      "content": {
-        "value": "{base.light}",
-        "type": "color",
-        "description": "pagination element in mainpage desktop - icon"
-      },
-      "border": {
-        "value": "rgba(94, 94, 94, 0.60)",
-        "type": "color",
-        "description": "pagination element in mainpage desktop - border"
       }
     }
   },

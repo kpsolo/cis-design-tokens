@@ -137,7 +137,6 @@
       "bg.other.cashbox-bonus": "d12d6207703094edf96dce752b2f97e799177b37",
       "bg.other.cashbox-bonus-content": "4fad54c70cb768c4b9c29d3e6e47d291160079f9",
       "bg.other.cashbox-bonus-content-opacity": "3b33485bc3e718f92829d90d4ef7a7d64404ec91",
-      "bg.other.tooltip": "7c94f9965c6098f61ab0c0d10a4935e7e6dd2ca3",
       "bg.other.footer": "5f6c101ed656900d765cd4cc304ac1b2a0f442df",
       "bg.other.accent-on-light": "d935a3b0f3c6968c93422f4610405540d0d5e339",
       "bg.other.hover-on-light": "afb78043630bbcf61aecbfa5d4833f293a4eaafd",
@@ -519,7 +518,8 @@
       "icon.prize.type2": "006d0d3c8f95c2324664cc8c179cf8d615163727",
       "text.prize.type1": "2e51de95f6abf268d2db209e7d9642ede546ab37",
       "text.prize.type3": "ed9c90d7e37d4fe2a70136cf08a9ad58e70e8a17",
-      "text.prize.type2": "28dcb0e2cd2acd86ff2143296969dc54d2ff524c"
+      "text.prize.type2": "28dcb0e2cd2acd86ff2143296969dc54d2ff524c",
+      "small-elements.tooltip.type1": "7c94f9965c6098f61ab0c0d10a4935e7e6dd2ca3"
     }
   }
 ]
