@@ -1358,17 +1358,8 @@
       "description": "Gradient for bg in bonus card in cashbox"
     },
     "widget-disabled": {
-      "value": "{bg.widget-default}",
+      "value": "rgba(22, 8, 41, 0.60)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.6",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "for past tournament,lottery"
     },
     "additional-2": {
