@@ -2756,7 +2756,7 @@
       "description": "For social icons in menu "
     },
     "ghost-1": {
-      "value": "rgba(114, 65, 183, 0.60)",
+      "value": "#fffff",
       "type": "color",
       "description": "for mcategories icons mob/desktop"
     },
