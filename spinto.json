@@ -1368,17 +1368,8 @@
       "description": "use for widget with transparent bg - categories on desktop"
     },
     "widget-bonus-additional": {
-      "value": "#000000",
+      "value": "rgba(0, 0, 0, 0.08)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.08",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "use as bg for welcome bonus success item"
     },
     "widget-bonus": {
@@ -1518,17 +1509,8 @@
         "description": "= bg in desktop header/ mob registration/gamepage left sidebar"
       },
       "3": {
-        "value": "{text.content}",
+        "value": "rgba(197, 207, 228, 0.08)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.08",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for bullets bg in text, bg under number bullets in tournaments/lottery winners list, bg under prizes in prize tab in tournaments/lottery"
       },
       "4": {
@@ -1547,17 +1529,8 @@
         "description": "use for bg under tournament/lottery tabs"
       },
       "7": {
-        "value": "{base.light}",
+        "value": "rgba(250, 248, 255, 0.02)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.02",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for stable in first deposite page"
       },
       "8": {
@@ -1830,17 +1803,8 @@
       "description": "use for bottom block in profile "
     },
     "social-icons-additional": {
-      "value": "{bg.social-icons}",
+      "value": "rgba(40, 65, 119, 0.40)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "lighten",
-            "value": "0.1",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "use for bg under social icons in mob menu - hover state"
     }
   },
@@ -2114,31 +2078,13 @@
         "description": "border color for ghost buttons (use in menu)"
       },
       "ghost-hover": {
-        "value": "{button.border.ghost}",
+        "value": "#039EBE",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "border color for ghost buttons hover state (use in menu)"
       },
       "ghost-pressed": {
-        "value": "{button.border.ghost}",
+        "value": "#04B1D6",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "border color for ghost buttons pressed state (use in menu)"
       },
       "tertiary-light": {
@@ -2147,17 +2093,8 @@
         "description": "border color for buttons default in cards"
       },
       "tertiary-light-hover": {
-        "value": "{button.border.tertiary-light}",
+        "value": "rgba(255, 255, 255, 0.9)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "border color for buttons hover"
       },
       "tertiary-light-pressed": {
