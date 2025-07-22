@@ -2616,7 +2616,7 @@
       "description": "For social icons in menu "
     },
     "ghost-1": {
-      "value": "#fffff",
+      "value": "#fff",
       "type": "color",
       "description": "for mcategories icons mob/desktop"
     },
