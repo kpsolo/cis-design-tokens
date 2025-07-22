@@ -1232,7 +1232,7 @@
       "description": "for secret mirror,welcome back popup bg radius "
     },
     "tooltips-notifications": {
-      "value": "10px",
+      "value": "8px",
       "type": "borderRadius",
       "description": "Border radius for tooltips ans notifications"
     },
