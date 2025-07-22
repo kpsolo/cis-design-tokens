@@ -1232,7 +1232,7 @@
       "description": "for secret mirror,welcome back popup bg radius "
     },
     "tooltips-notifications": {
-      "value": "8px",
+      "value": "6px",
       "type": "borderRadius",
       "description": "Border radius for tooltips ans notifications"
     },
@@ -4554,7 +4554,7 @@
   },
   "tech": {
     "bg": {
-      "value": "#2C2732",
+      "value": "#211C26",
       "type": "color",
       "description": "for DIS use, bg for sectioins\n"
     }
