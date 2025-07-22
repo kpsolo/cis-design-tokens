@@ -1317,7 +1317,7 @@
     },
     "popup": {
       "type2": {
-        "value": "linear-gradient(180deg, #130328 34.09%, #261340 100%)",
+        "value": "linear-gradient(180deg, #130328 69.27%, #261340 100%)",
         "type": "color",
         "description": "use for desktop popups bg gradient"
       },
