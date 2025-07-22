@@ -1707,7 +1707,7 @@
         "description": "use for menu banner overlay gradient under title"
       },
       "2": {
-        "value": "linear-gradient(0deg, rgba(6, 21, 53, 0.00) 0%, rgba(6, 21, 53, 0.60) 37.1%, #061535 100%)",
+        "value": "linear-gradient(0deg, rgba(22, 8, 41, 0.00) 0%, rgba(22, 8, 41, 0.60) 37.1%, #160829 100%)",
         "type": "color",
         "description": "use as overlay on messages picture, news cards picture"
       },
