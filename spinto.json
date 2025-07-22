@@ -1888,7 +1888,7 @@
         "description": "for line separator in light bg - dropdown/menu item/tooltips/footer"
       },
       "secondary": {
-        "value": "rgba(33, 175, 232, 0.40)",
+        "value": "#033789",
         "type": "color",
         "description": "use in mob registation tabs"
       },
