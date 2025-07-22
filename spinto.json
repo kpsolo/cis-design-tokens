@@ -1348,8 +1348,17 @@
       "description": "for tournament on main page, news, lottery"
     },
     "top-surface-additional": {
-      "value": "{base.light}",
+      "value": "#F5F1FE",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.9",
+            "space": "srgb"
+          }
+        }
+      },
       "description": "bg for notifications"
     },
     "gradient-additional": {
