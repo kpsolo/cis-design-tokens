@@ -2580,7 +2580,7 @@
       "description": "use icons on primary bg"
     },
     "tertiary": {
-      "value": "rgba(1, 3, 47, 0.80)",
+      "value": "rgba(242, 234, 255, 0.70)",
       "type": "color",
       "description": "icons in inputs (registration, profile)"
     },
