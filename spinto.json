@@ -1247,7 +1247,7 @@
       "description": "Use for inputs, dropdowns bg"
     },
     "game-item-mini": {
-      "value": "8px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Radius for smallest game items"
     },
