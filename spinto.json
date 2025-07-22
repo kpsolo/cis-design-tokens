@@ -1984,7 +1984,7 @@
     },
     "slider": {
       "type2": {
-        "value": "#fff",
+        "value": "#F2EAFF",
         "type": "color",
         "description": "use for slider curret in mob main page"
       },
@@ -1994,17 +1994,18 @@
         "description": "use for slider curret in welcom bonus"
       },
       "type1": {
-        "value": "#fff",
+        "value": "#F2EAFF",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.16",
+              "value": "0.12",
               "space": "srgb"
             }
           }
-        }
+        },
+        "description": "use for bg in slider under carret"
       },
       "type4": {
         "value": "#fff",
