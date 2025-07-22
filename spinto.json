@@ -1503,7 +1503,7 @@
     },
     "overlay": {
       "1": {
-        "value": "#1B1132",
+        "value": "#1F133B",
         "type": "color",
         "description": "for static table headet"
       },
@@ -1513,7 +1513,7 @@
         "description": "= bg in desktop header/ mob registration/gamepage left sidebar"
       },
       "3": {
-        "value": "rgba(179, 158, 255, 0.08)",
+        "value": "rgba(167, 88, 246, 0.08)",
         "type": "color",
         "description": "for bullets bg in text, bg under number bullets in tournaments/lottery winners list, bg under prizes in prize tab in tournaments/lottery"
       },
