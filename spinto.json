@@ -2000,7 +2000,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.12",
+              "value": "0.16",
               "space": "srgb"
             }
           }
