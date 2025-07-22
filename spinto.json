@@ -1806,7 +1806,7 @@
   "small-elements": {
     "tooltip": {
       "type1": {
-        "value": "#251745",
+        "value": "#2F1B5B",
         "type": "color",
         "description": "Use for tooltip background"
       },
