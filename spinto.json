@@ -1382,7 +1382,7 @@
       "description": "use as bg for welcome bonus success item"
     },
     "widget-bonus": {
-      "value": "{bg.additional}",
+      "value": "#321657",
       "type": "color",
       "description": "use as bg for welcome bonus"
     },
