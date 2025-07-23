@@ -1101,7 +1101,7 @@
     },
     "tooltip": {
       "value": {
-        "color": "#251745",
+        "color": "{small-elements.tooltip.type1}",
         "width": "1px",
         "style": "solid"
       },
