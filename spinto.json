@@ -3261,12 +3261,12 @@
     },
     "small-card": {
       "bg": {
-        "value": "linear-gradient(91deg, #AD00A0 10.41%, #4C2DC6 55.85%, #7D1CDE 98.66%)",
+        "value": "linear-gradient(91deg, #21A35F 11.08%, #4C2DC6 65.86%, #7D1CDE 97.84%)",
         "type": "color",
         "description": "use for bg for bonus widget in desktop header"
       },
       "bg-additional": {
-        "value": "linear-gradient(91deg, #573BC7 9.73%, #5806D3 99.49%)",
+        "value": "linear-gradient(91deg, #21A35F 11.08%, #7D1CDE 97.84%)",
         "type": "color",
         "description": "use for bg hover state for bonus widget in desktop header"
       },
