@@ -1338,9 +1338,9 @@
       "description": "bg for menu, bottom sheets,dropdown, calendar"
     },
     "social-icons": {
-      "value": "rgba(40, 65, 119, 0.40)",
+      "value": "#251646",
       "type": "color",
-      "description": "use for bg under social icons in mob menu"
+      "description": "use for bg under social icons "
     },
     "widget-default": {
       "value": "{bg.additional}",
@@ -1807,7 +1807,7 @@
       "description": "use for bottom block in profile "
     },
     "social-icons-additional": {
-      "value": "rgba(40, 65, 119, 0.40)",
+      "value": "#271749",
       "type": "color",
       "description": "use for bg under social icons in mob menu - hover state"
     }
@@ -2611,7 +2611,7 @@
       "description": "For light icons on color background or picture- footer app buttons, icons on menu top part,header.collection cards, tournament/lottery inner card, messages picture"
     },
     "menu-socials": {
-      "value": "#416daf",
+      "value": "#FDFDFD",
       "type": "color",
       "description": "For social icons in menu "
     },
