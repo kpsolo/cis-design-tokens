@@ -3252,7 +3252,7 @@
     },
     "small-card": {
       "bg": {
-        "value": "linear-gradient(91deg, #21A35F 11.08%, #4C2DC6 65.86%, #7D1CDE 97.84%)",
+        "value": "linear-gradient(91deg, #21A35F 14.68%, #1BAAA7 55.2%, #5E0FAC 78.44%)",
         "type": "color",
         "description": "use for bg for bonus widget in desktop header"
       },
