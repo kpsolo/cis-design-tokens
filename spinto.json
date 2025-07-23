@@ -1854,17 +1854,8 @@
         "description": "for dark bg (regular popups)"
       },
       "primary": {
-        "value": "rgba(186, 188, 194, 0.20)",
+        "value": "#744EA8",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "base on primary color (change in themes)"
       }
     },
