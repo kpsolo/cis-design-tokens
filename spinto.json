@@ -1666,7 +1666,7 @@
           "description": "1st deposit widget bg - Desktop"
         },
         "3-additional": {
-          "value": "rgba(99, 41, 133, 0.10)",
+          "value": "rgba(99, 41, 133, 0.16)",
           "type": "color",
           "description": "bg for winnig now, tournament widget on home page - mob"
         },
