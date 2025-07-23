@@ -2712,12 +2712,12 @@
         "description": "Backgrounds for confirmed inputs"
       },
       "accent": {
-        "value": "rgba(0, 61, 187, 0.20)",
+        "value": "#33165A",
         "type": "color",
         "description": "bg for selected item in dropdown (currency registration)"
       },
       "hover": {
-        "value": "#F3F3F3",
+        "value": "#2D144F",
         "type": "color",
         "description": "background for hover state in dropdown items (currency)"
       }
