@@ -2197,7 +2197,7 @@
       "description": "main color for brand bgs"
     },
     "error": {
-      "value": "#C41F43",
+      "value": "#8C0623",
       "type": "color",
       "description": "Indication of unsuccess transactions"
     },
