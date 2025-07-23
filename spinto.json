@@ -3533,7 +3533,7 @@
   "header": {
     "bg": {
       "balance": {
-        "value": "rgba(33, 9, 71, 0.60)",
+        "value": "rgba(120, 66, 204, 0.10)",
         "type": "color",
         "description": "use for bg under balance amount"
       },
