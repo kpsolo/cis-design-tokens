@@ -1721,7 +1721,7 @@
         "description": "use as overlay on messages picture, news cards picture"
       },
       "3": {
-        "value": "linear-gradient(180deg, rgba(10, 3, 24, 0.00) 0%, rgba(10, 3, 24, 0.50) 24.24%, rgba(10, 3, 24, 0.90) 54.36%, #0A0318 100%)",
+        "value": "linear-gradient(180deg, rgba(22, 5, 43, 0.00) 0%, rgba(22, 5, 43, 0.90) 54.36%, #16052B 100%)",
         "type": "color",
         "description": "use under link in messages/in reg banner under check link\n\n[based on primary bg]"
       },
