@@ -1854,7 +1854,7 @@
         "description": "for dark bg (regular popups)"
       },
       "primary": {
-        "value": "#744EA8",
+        "value": "#422766",
         "type": "color",
         "description": "base on primary color (change in themes)"
       }
