@@ -1359,7 +1359,7 @@
           }
         }
       },
-      "description": "bg for notifications"
+      "description": "content"
     },
     "gradient-additional": {
       "value": "{bg.popup.type1}",
