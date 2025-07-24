@@ -1977,7 +1977,7 @@
         "description": "use for active label bg in bonus balance cards"
       },
       "divider": {
-        "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(255, 255, 255, 0.20) 51.92%, rgba(255, 255, 255, 0.00) 100%)",
+        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.00) 0%, rgba(255, 255, 255, 0.20) 54.33%, rgba(255, 255, 255, 0.00) 100%)",
         "type": "color",
         "description": "use for label divider"
       }
