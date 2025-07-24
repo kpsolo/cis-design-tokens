@@ -4283,8 +4283,17 @@
       "type": "color"
     },
     "overlay-additional": {
-      "value": "{bg.overlay.gamepage}",
+      "value": "#000",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.7",
+            "space": "srgb"
+          }
+        }
+      },
       "description": "overlay for game thumb hover state / desktop"
     },
     "overlay-extra": {
