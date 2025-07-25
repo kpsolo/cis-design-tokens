@@ -3528,12 +3528,12 @@
         "type": "color"
       },
       "top-desktop": {
-        "value": "#03112E",
+        "value": "#251646",
         "type": "color",
-        "description": "bg header on top for desktop"
+        "description": "bg header top elements ( buttons support, mobapp) for desktop"
       },
-      "bottom-desktop": {
-        "value": "linear-gradient(180deg, #252D40 0%, rgba(37, 45, 64, 0.00) 100%)",
+      "border": {
+        "value": "linear-gradient(180deg, #C35AFA 0%, #3C1650 100%)",
         "type": "color",
         "description": "bg header on bottom menu for desktop"
       }
@@ -3569,7 +3569,7 @@
         "description": "use for bottom menu categories active state (desktop)"
       },
       "accent-alternative": {
-        "value": "{base.accent-secondary}",
+        "value": "#C35AFA",
         "type": "color",
         "description": "use for bottom menu categories active state (desktop)"
       }
