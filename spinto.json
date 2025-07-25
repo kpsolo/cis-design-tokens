@@ -2109,7 +2109,7 @@
     },
     "flow-button": {
       "accent": {
-        "value": "#83E2FF",
+        "value": "#FFF",
         "type": "color",
         "description": "Accent icon and border on floating button"
       },
@@ -2128,7 +2128,7 @@
         "description": "Bg on hover on floating button"
       },
       "bg": {
-        "value": "rgba(220, 179, 252, 0.20)",
+        "value": "rgba(255, 255, 255, 0.30)",
         "type": "color",
         "description": "Bg on default on floating button"
       }
