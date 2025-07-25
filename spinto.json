@@ -3773,6 +3773,46 @@
         "description": "use for special notification in menu items"
       }
     },
+    "desktop": {
+      "bg": {
+        "type1": {
+          "value": "#0A051A",
+          "type": "color",
+          "description": "use for menu general bg "
+        },
+        "type2": {
+          "value": "#251646",
+          "type": "color",
+          "description": "use for menu items bg "
+        }
+      },
+      "content": {
+        "type1": {
+          "value": "#FFF",
+          "type": "color",
+          "description": "use for menu icons, text color"
+        },
+        "type2": {
+          "value": "#FFF",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.8",
+                "space": "srgb"
+              }
+            }
+          },
+          "description": "use for menu secondary icons, text color"
+        },
+        "accent": {
+          "value": "#C35AFA",
+          "type": "color",
+          "description": "use for menu icons accent  color"
+        }
+      }
+    },
     "item-active": {
       "value": "#BD0F1B",
       "type": "color",
