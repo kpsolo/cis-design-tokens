@@ -2163,12 +2163,12 @@
       "description": "Background for accent elements"
     },
     "accent-secondary": {
-      "value": "#EBAB2E",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "Background for tertiary elements"
     },
     "accent-tertiary": {
-      "value": "#EBAB2E",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "Background for tertiary elements"
     },
