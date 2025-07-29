@@ -4454,7 +4454,7 @@
         "description": "bg for calendar button"
       },
       "primary": {
-        "value": "linear-gradient(180deg, #062F97 0%, rgba(6, 47, 151, 0.12) 97%, rgba(6, 47, 151, 0.12) 100%)",
+        "value": "linear-gradient(180deg, #792FDC 0%, rgba(121, 47, 220, 0.57) 61.06%, rgba(121, 47, 220, 0.12) 100%)",
         "type": "color",
         "description": "bg for default dates calendar widget"
       },
@@ -4504,7 +4504,7 @@
         "description": "border for event calendar widget"
       },
       "primary": {
-        "value": "#062F97",
+        "value": "#8850DF",
         "type": "color",
         "description": "border for default calendar dates"
       },
