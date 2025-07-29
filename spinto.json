@@ -4444,7 +4444,7 @@
   "calendar": {
     "bg": {
       "main": {
-        "value": "rgba(158, 63, 252, 0.30)",
+        "value": "rgba(158, 63, 252, 0.20)",
         "type": "color",
         "description": "bg for event calendar widget"
       },
