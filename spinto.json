@@ -1208,7 +1208,7 @@
       "description": "use for social buttons in footer/menu"
     },
     "prize": {
-      "value": "16px",
+      "value": "8px",
       "type": "borderRadius",
       "description": "use for prize item in tournament/lotery page "
     },
