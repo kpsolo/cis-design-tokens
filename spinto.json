@@ -2188,7 +2188,7 @@
       "description": "main color for brand bgs"
     },
     "error": {
-      "value": "#8C0623",
+      "value": "#b1072c",
       "type": "color",
       "description": "Indication of unsuccess transactions"
     },
@@ -2225,7 +2225,7 @@
   },
   "live-lottery": {
     "live-tip": {
-      "value": "#cf3422",
+      "value": "{base.error}",
       "type": "color",
       "description": "Bg for live icon"
     },
@@ -2240,7 +2240,7 @@
       "description": "text for live icon"
     },
     "timer-bg": {
-      "value": "linear-gradient(180deg, rgba(108, 164, 216, 0.81) 0%, rgba(92, 141, 187, 0.78) 31.25%, rgba(68, 123, 174, 0.85) 63.54%, rgba(82, 122, 160, 0.63) 100%)",
+      "value": "linear-gradient(180deg, #561B9F 0%, rgba(86, 27, 159, 0.78) 31.25%, rgba(86, 27, 159, 0.85) 63.54%, #561B9F 100%)",
       "type": "color",
       "description": "bg for timer"
     },
@@ -2255,7 +2255,7 @@
       "description": "text on place label"
     },
     "place-label-bg": {
-      "value": "linear-gradient(180deg, #FFD37D 0%, #FFDB59 41.67%, #E1BB33 100%)",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "bg on place label"
     }
