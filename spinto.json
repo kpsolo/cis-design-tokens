@@ -1797,7 +1797,7 @@
       "description": "use for bg blur in pagination"
     },
     "blur-elements": {
-      "value": "12px",
+      "value": "16px",
       "type": "dimension",
       "description": "use as blur for calendar bg "
     },
@@ -4444,7 +4444,7 @@
   "calendar": {
     "bg": {
       "main": {
-        "value": "rgba(113, 158, 250, 0.10)",
+        "value": "rgba(158, 63, 252, 0.30)",
         "type": "color",
         "description": "bg for event calendar widget"
       },
@@ -4508,7 +4508,7 @@
     },
     "border": {
       "main": {
-        "value": "rgba(23, 88, 254, 0.48)",
+        "value": "#7B40D8",
         "type": "color",
         "description": "border for event calendar widget"
       },
