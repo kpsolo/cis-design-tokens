@@ -2198,7 +2198,7 @@
       "description": "Indication of warning"
     },
     "gold": {
-      "value": "linear-gradient(99deg, #FFCE64 0%, #916206 100%)",
+      "value": "linear-gradient(99deg, #FFC64A 5.75%, #FFC64A 25.12%, #FFDD9A 48.78%, #D89614 94.25%)",
       "type": "color",
       "description": "Color for winners lottery tickets"
     },
