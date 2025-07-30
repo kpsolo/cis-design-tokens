@@ -4290,17 +4290,8 @@
         "description": "for icon hover state"
       },
       "inactive": {
-        "value": "#FFFFFF",
+        "value": "#423856",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.5",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for inactive items in right sidebar"
       },
       "icon": {
