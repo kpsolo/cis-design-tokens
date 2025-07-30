@@ -4250,7 +4250,7 @@
         }
       },
       "secondary": {
-        "value": "#070707",
+        "value": "{text.light}",
         "type": "color"
       },
       "tertiary": {
@@ -4290,7 +4290,7 @@
         "description": "for icon hover state"
       },
       "inactive": {
-        "value": "#423856",
+        "value": "#776D8B",
         "type": "color",
         "description": "use for inactive items in right sidebar"
       },
