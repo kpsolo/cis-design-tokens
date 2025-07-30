@@ -1854,7 +1854,7 @@
         "description": "for dark bg (regular popups)"
       },
       "primary": {
-        "value": "#422766",
+        "value": "#645774",
         "type": "color",
         "description": "base on primary color (change in themes)"
       }
@@ -4192,7 +4192,7 @@
         "description": "bg under star"
       },
       "extra-additional": {
-        "value": "{gamepage.bg.extra}",
+        "value": "#332A3F",
         "type": "color",
         "description": "bg under star in gamepage top pannel"
       },
