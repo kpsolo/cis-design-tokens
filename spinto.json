@@ -4197,7 +4197,7 @@
         "description": "bg under star in gamepage top pannel"
       },
       "tertiary": {
-        "value": "{bg.additional}",
+        "value": "#130527",
         "type": "color"
       },
       "additional": {
