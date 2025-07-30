@@ -1392,7 +1392,7 @@
       "description": "first level bg"
     },
     "secondary": {
-      "value": "{bg.primary}",
+      "value": "#210D49",
       "type": "color",
       "description": "bg for element above primary bg ( tournament/lottery tabs)"
     },
