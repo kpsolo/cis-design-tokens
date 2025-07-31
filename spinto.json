@@ -1337,6 +1337,11 @@
       "type": "color",
       "description": "bg for menu, bottom sheets,dropdown, calendar"
     },
+    "top-surface-type2": {
+      "value": "#2C134D",
+      "type": "color",
+      "description": "bg in pregame under games"
+    },
     "social-icons": {
       "value": "#251646",
       "type": "color",
@@ -1520,7 +1525,7 @@
       "4": {
         "value": "rgba(147, 74, 250, 0.26)",
         "type": "color",
-        "description": "use for bg in cashbox transaction"
+        "description": "use for bg in cashbox transaction, labels on pregame modal\n"
       },
       "5": {
         "value": "#251747",
@@ -4178,17 +4183,8 @@
         "type": "color"
       },
       "extra": {
-        "value": "#000",
+        "value": "rgba(59, 55, 89, 0.60)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.6",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "bg under star"
       },
       "extra-additional": {
