@@ -1883,14 +1883,14 @@
     },
     "separator": {
       "primary": {
-        "value": "transparent",
+        "value": "rgba(148, 92, 177, 0.40)",
         "type": "color",
-        "description": "border color for separating groups in registration under tabs"
+        "description": "border color transactions in cashbox/ tables header border "
       },
       "tertiary": {
         "value": "rgba(148, 92, 177, 0.40)",
         "type": "color",
-        "description": "for line separator in light bg - dropdown/menu item/tooltips/footer"
+        "description": "for line separator in light bg - dropdowns/tooltips + footer"
       },
       "secondary": {
         "value": "#033789",
@@ -1898,9 +1898,9 @@
         "description": "use in mob registation tabs"
       },
       "additional": {
-        "value": "rgba(148, 92, 177, 0.40)",
+        "value": "transparent",
         "type": "color",
-        "description": "border color for info inside transaction/ separator for items in tables in static page"
+        "description": "border color for separating items in tables in static page/hall of fame"
       }
     },
     "progressbar": {
