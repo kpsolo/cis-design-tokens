@@ -3759,7 +3759,7 @@
         "description": "use as bg in menu info zone"
       },
       "notification": {
-        "value": "#2252D5",
+        "value": "linear-gradient(143deg, #023688 15.87%, #00DBFE 84.13%)",
         "type": "color",
         "description": "use for special notification in menu items"
       },
