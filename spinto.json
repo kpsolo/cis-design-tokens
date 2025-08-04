@@ -3815,7 +3815,7 @@
       }
     },
     "item-active": {
-      "value": "#BD0F1B",
+      "value": "{menu.desktop.content.accent}",
       "type": "color",
       "description": "for menu item icon/text active state"
     },
