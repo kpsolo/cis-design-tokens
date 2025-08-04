@@ -629,7 +629,7 @@
         "type": "dropShadow"
       },
       "type": "boxShadow",
-      "description": "Shadow for drop downs, modals,notifications"
+      "description": "Shadow for notifications"
     },
     "button": {
       "value": [
