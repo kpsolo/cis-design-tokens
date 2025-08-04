@@ -1223,7 +1223,7 @@
       "description": "Radius for extrasmall buttons in gamepage"
     },
     "popup": {
-      "value": "16px",
+      "value": "12px",
       "type": "borderRadius"
     },
     "popup-additional": {
