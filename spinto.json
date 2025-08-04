@@ -3820,7 +3820,7 @@
       "description": "for menu item icon/text active state"
     },
     "accent": {
-      "value": "#EBAB2E",
+      "value": "#70DDFE",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
     },
