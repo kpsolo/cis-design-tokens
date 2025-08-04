@@ -1708,7 +1708,7 @@
           "description": "border for winners/prizes stata in top winners/tournament widget"
         },
         "main-additional": {
-          "value": "rgba(255, 255, 255, 0.08)",
+          "value": "rgba(195, 90, 250, 0.20)",
           "type": "color",
           "description": "border for status block in mob menu"
         }
@@ -3734,12 +3734,12 @@
   "menu": {
     "bg": {
       "main": {
-        "value": "#041A47",
+        "value": "#0A051A",
         "type": "color",
         "description": "use for menu general bg "
       },
       "main-additional": {
-        "value": "#031740",
+        "value": "#160829",
         "type": "color",
         "description": "bg for menu items zone"
       },
@@ -3835,7 +3835,7 @@
       "description": "Color for status and %"
     },
     "separator": {
-      "value": "rgba(255, 255, 255, 0.08)",
+      "value": "rgba(195, 90, 250, 0.20)",
       "type": "color",
       "description": "bg color for separator line"
     }
