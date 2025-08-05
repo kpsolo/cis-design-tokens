@@ -1458,31 +1458,13 @@
         "description": "use for hover state in calendar, cashbox filter"
       },
       "cashbox": {
-        "value": "#528AFF",
+        "value": "rgba(151, 82, 255, 0.08)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.08",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for transaction with bg"
       },
       "cashbox-additional": {
-        "value": "#528AFF",
+        "value": "rgba(151, 82, 255, 0.08)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.12",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for transaction with bg (detailed)"
       },
       "strip": {
