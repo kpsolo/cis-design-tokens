@@ -1366,6 +1366,11 @@
       },
       "description": "content"
     },
+    "top-surface-additional2": {
+      "value": "rgba(222, 207, 255, 0.40)",
+      "type": "color",
+      "description": "content"
+    },
     "gradient-additional": {
       "value": "{bg.popup.type1}",
       "type": "color",
