@@ -1438,7 +1438,7 @@
         "description": "Background color for footer"
       },
       "accent-on-light": {
-        "value": "#0A3093",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use as accent on light bg - filter in cashdesk"
       },
