@@ -1894,12 +1894,12 @@
       "type4": {
         "value": "linear-gradient(121deg, #A43DE8 5.69%, #55ABD6 70.81%)",
         "type": "color",
-        "description": "Color of progress for strip, gamepage, header (desktop)"
+        "description": "indicator for progress for loyalty icon ( menu mob, header desktop )"
       },
       "type5": {
-        "value": "transparent",
+        "value": "rgba(98, 74, 132, 0.30)",
         "type": "color",
-        "description": "border for progressbar in profile/menu mobile"
+        "description": "bg for progress for loyalty icon ( menu mob, header desktop )"
       },
       "type1": {
         "value": "rgba(255, 255, 255, 0.12)",
@@ -3787,7 +3787,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.8",
+                "value": "0.7",
                 "space": "srgb"
               }
             }
@@ -3825,6 +3825,11 @@
       "value": "rgba(195, 90, 250, 0.20)",
       "type": "color",
       "description": "bg color for separator line"
+    },
+    "separator-type2": {
+      "value": "linear-gradient(180deg, rgba(112, 221, 254, 0.40) 0%, rgba(67, 132, 152, 0.00) 100%)",
+      "type": "color",
+      "description": "border for balances in mob menu"
     }
   },
   "max-width": {
