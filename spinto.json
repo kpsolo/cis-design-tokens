@@ -3741,7 +3741,7 @@
         "description": "use for header bg for unlogged "
       },
       "info": {
-        "value": "rgba(193, 170, 255, 0.16)",
+        "value": "rgba(193, 170, 255, 0.08)",
         "type": "color",
         "description": "use as bg in menu info zone"
       },
