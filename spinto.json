@@ -4390,7 +4390,7 @@
         "description": "use for small button horizontal padding - with icons - left padding"
       },
       "large-vertical": {
-        "value": "6px",
+        "value": "2px",
         "type": "dimension",
         "description": "use for large button vertical padding"
       },
