@@ -1418,7 +1418,7 @@
         "description": "Bg for empty error pages"
       },
       "cashbox-bonus": {
-        "value": "#051D40",
+        "value": "{bg.additional}",
         "type": "color",
         "description": "for cashbox bonus popup"
       },
