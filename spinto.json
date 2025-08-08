@@ -4166,7 +4166,7 @@
         "type": "color"
       },
       "extra": {
-        "value": "rgba(85, 85, 85, 0.50)",
+        "value": "#1B1625",
         "type": "color",
         "description": "bg under star"
       },
