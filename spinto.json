@@ -1284,7 +1284,7 @@
       "description": "use for hightlight player in gamepage/tournament "
     },
     "item-additional": {
-      "value": "20px",
+      "value": "8px",
       "type": "borderRadius",
       "description": "use for active operation in cashbox desktop\n"
     },
