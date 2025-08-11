@@ -1648,7 +1648,7 @@
           "description": "bg for promo mini cards on mob"
         },
         "5": {
-          "value": "#0B2969",
+          "value": "{bg.additional}",
           "type": "color",
           "description": "bg for bonus balance card"
         },
@@ -1663,7 +1663,7 @@
           "description": "bg for winnig now, tournament widget on home page - mob"
         },
         "5-additional": {
-          "value": "#081E4E",
+          "value": "#2D154D",
           "type": "color",
           "description": "bg for bonus balance card"
         }
