@@ -486,8 +486,8 @@
       "value": {
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.xs}",
-        "fontSize": "{font-size.2}",
-        "fontFamily": "{font-family.additional}"
+        "fontFamily": "{font-family.additional}",
+        "fontSize": "11px"
       },
       "type": "typography",
       "description": "Notification counter bigger size"
