@@ -2200,7 +2200,7 @@
       "description": "Color for winners"
     },
     "bronze": {
-      "value": "#FFB053",
+      "value": "#FD9820",
       "type": "color",
       "description": "Color for winners"
     },
@@ -2619,7 +2619,7 @@
     },
     "prize": {
       "type1": {
-        "value": "#D2C25A",
+        "value": "#F3B464",
         "type": "color",
         "description": "[delete?]"
       },
@@ -3631,7 +3631,7 @@
     },
     "prize": {
       "type1": {
-        "value": "#D2C25A",
+        "value": "#F3B464",
         "type": "color",
         "description": "use for 1 prize in tournament/lottery winners list\n[delete?]"
       },
