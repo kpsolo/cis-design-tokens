@@ -1324,7 +1324,7 @@
       "type1": {
         "value": "#050318",
         "type": "color",
-        "description": "use for popups bg"
+        "description": "use for popups bg - mobile"
       },
       "type3": {
         "value": "#130921",
