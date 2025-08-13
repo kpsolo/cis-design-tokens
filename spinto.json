@@ -1896,6 +1896,16 @@
         "type": "color",
         "description": "indicator for progress for loyalty icon ( menu mob, header desktop )"
       },
+      "DEV1": {
+        "value": "#56ABD6",
+        "type": "color",
+        "description": "for dev use - start gradient point"
+      },
+      "DEV2": {
+        "value": "#974FE5",
+        "type": "color",
+        "description": "for dev use - stop gradient point"
+      },
       "type5": {
         "value": "rgba(98, 74, 132, 0.30)",
         "type": "color",
