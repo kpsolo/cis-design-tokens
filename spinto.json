@@ -3736,7 +3736,7 @@
         "description": "use for banner bg for unlogged "
       },
       "header": {
-        "value": "linear-gradient(180deg, #061128 0%, rgba(6, 17, 40, 0.00) 100%)",
+        "value": "{header.bg.main}",
         "type": "color",
         "description": "use for header bg for unlogged "
       },
