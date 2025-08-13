@@ -1650,7 +1650,7 @@
         "5": {
           "value": "{bg.additional}",
           "type": "color",
-          "description": "bg for bonus balance card"
+          "description": "bg for bonus balance card/limits card"
         },
         "6": {
           "value": "linear-gradient(270deg, #5E26DD 0%, #1BAAA7 50%, #21A254 100%)",
