@@ -14,9 +14,9 @@
     "caption-extrasmall-strong": {
       "value": {
         "fontFamily": "{font-family.additional}",
-        "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.2}"
+        "fontSize": "{font-size.2}",
+        "fontWeight": "700"
       },
       "type": "typography",
       "description": "Metadata (limited)"
