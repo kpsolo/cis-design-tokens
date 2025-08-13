@@ -2756,7 +2756,7 @@
         "description": "use for text in error field hint"
       },
       "disabled-value": {
-        "value": "#7361A2",
+        "value": "#6B5A98",
         "type": "color",
         "description": "use for text in disabled field "
       },
