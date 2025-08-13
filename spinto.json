@@ -1382,9 +1382,9 @@
       "description": "for past tournament,lottery"
     },
     "additional-2": {
-      "value": "rgba(180, 63, 207, 0.10)",
+      "value": "rgba(180, 63, 207, 0.12)",
       "type": "color",
-      "description": "use for widget with transparent bg - categories on desktop"
+      "description": "status bg in tournament "
     },
     "widget-bonus-additional": {
       "value": "rgba(0, 0, 0, 0.08)",
