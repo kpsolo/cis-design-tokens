@@ -994,7 +994,7 @@
     },
     "input-focus": {
       "value": {
-        "color": "{base.accent-primary}",
+        "color": "#7E38DF",
         "width": "{border-width.input}",
         "style": "solid"
       },
