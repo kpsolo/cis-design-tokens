@@ -1657,6 +1657,11 @@
           "type": "color",
           "description": "1st deposit widget bg - Desktop"
         },
+        "7": {
+          "value": "linear-gradient(96deg, #078BC4 11.58%, #4C0C6B 72.62%)",
+          "type": "color",
+          "description": "mob app widget - Mob / Desktop"
+        },
         "3-additional": {
           "value": "rgba(99, 41, 133, 0.16)",
           "type": "color",
