@@ -3821,15 +3821,15 @@
       "type": "color",
       "description": "for menu item icon/text active state"
     },
-    "accent": {
-      "value": "#70DDFE",
-      "type": "color",
-      "description": "Color of icon and text inside active item menu"
-    },
     "item-default": {
       "value": "#DDDEFF",
       "type": "color",
       "description": "for menu items text/icon default state"
+    },
+    "accent": {
+      "value": "#70DDFE",
+      "type": "color",
+      "description": "Color of icon and text inside active item menu"
     },
     "content": {
       "value": "{text.light}",
