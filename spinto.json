@@ -3619,12 +3619,12 @@
       "description": "use for hover state for messages desktop"
     },
     "link": {
-      "value": "#8ABAFB",
+      "value": "#6CDFFF",
       "type": "color",
       "description": "also use for win tickets in lottery results"
     },
     "link-alternative": {
-      "value": "#8ABAFB",
+      "value": "#6CDFFF",
       "type": "color",
       "description": "use for links on lighter bg (notifications/tooltips), game page"
     },
