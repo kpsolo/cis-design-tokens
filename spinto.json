@@ -1438,7 +1438,7 @@
         "description": "Main banner background"
       },
       "footer": {
-        "value": "#0A0318",
+        "value": "#050318",
         "type": "color",
         "description": "Background color for footer"
       },
