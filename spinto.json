@@ -4186,7 +4186,7 @@
         "description": "bg under star"
       },
       "extra-additional": {
-        "value": "#332A3F",
+        "value": "rgba(104, 89, 129, 0.60)",
         "type": "color",
         "description": "bg under star in gamepage top pannel"
       },
