@@ -1327,9 +1327,9 @@
         "description": "use for popups bg - mobile"
       },
       "type3": {
-        "value": "#130921",
+        "value": "linear-gradient(180deg, #0D021B 0%, #23103C 27.68%)",
         "type": "color",
-        "description": "use for popups bg"
+        "description": "use for profile popups - mobile"
       }
     },
     "top-surface": {
