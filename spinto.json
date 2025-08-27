@@ -3892,7 +3892,7 @@
         "type": "color"
       },
       "sector-2": {
-        "value": "#171819",
+        "value": "rgba(255, 255, 255, 0.70)",
         "type": "color"
       }
     },
@@ -3936,17 +3936,17 @@
         "description": "use for switcher active bg"
       },
       "sector-2": {
-        "value": "radial-gradient(50% 50% at 50% 50%, #E9E8E8 0%, #FBFBFB 100%)",
+        "value": "radial-gradient(#3A266A 0%, #5C37B9 100%)",
         "type": "color",
         "description": "use for sectors bg (type1) - start"
       },
       "sector-3": {
-        "value": "radial-gradient(50% 50% at 50% 50%, #122650 0%, #18355F 13%, #214B77 32.96%, #3885B2 76%, #449ECB 100%)",
+        "value": "radial-gradient(#1F75E7 0%, #59D7EE 100%)",
         "type": "color",
         "description": "use for sectors bg (type3) - win sector - start"
       },
       "sector-1": {
-        "value": "radial-gradient(50% 50% at 50% 50%, #69040B 0%, #7C060E 18.5%, #8A0811 29.66%, #970A14 43.71%, #BF121E 100%)",
+        "value": "radial-gradient(#190B2E 0%, #442079 100%)",
         "type": "color",
         "description": "use for sectors (not white)"
       },
