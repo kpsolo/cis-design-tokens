@@ -3951,7 +3951,7 @@
         "description": "use for sectors (not white)"
       },
       "main": {
-        "value": "{bg.popup.type1}",
+        "value": "linear-gradient(#070025 0%, #0C0248 100%)",
         "type": "color",
         "description": "use as bg on wheel popup"
       }
