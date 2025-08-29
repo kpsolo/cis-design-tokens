@@ -3270,6 +3270,20 @@
         "description": "use for stroke for bonus widget in desktop header"
       }
     },
+    "shake": {
+      "bg": {
+        "type1": {
+          "value": "linear-gradient(180deg, rgba(32, 159, 74, 0.70) 0%, rgba(19, 3, 40, 0.70) 50%, rgba(38, 19, 64, 0.70) 100%)",
+          "type": "color",
+          "description": "use for bg for shake bonus bonus popup"
+        },
+        "type2": {
+          "value": "linear-gradient(180deg, rgba(140, 6, 35, 0.70) 0%, rgba(19, 3, 40, 0.70) 50.36%, rgba(38, 19, 64, 0.70) 100%)",
+          "type": "color",
+          "description": "use for bg for shake bonus error popup"
+        }
+      }
+    },
     "verification-title": {
       "value": {
         "fontFamily": "{font-family.main}",
