@@ -665,15 +665,15 @@
       "value": [
         {
           "x": "0",
-          "y": "0",
-          "blur": "4",
+          "y": "2",
+          "blur": "2",
           "spread": "",
-          "color": "#D7A800",
+          "color": "rgba(140, 6, 35, 0.30)",
           "type": "dropShadow"
         }
       ],
       "type": "boxShadow",
-      "description": "accent blur on popup provider hover state - desktop"
+      "description": "for shake bonus error popup"
     },
     "win-ticket": {
       "value": [
@@ -775,15 +775,15 @@
       "value": [
         {
           "x": "0",
-          "y": "0",
-          "blur": "4",
+          "y": "2",
+          "blur": "2",
           "spread": "",
-          "color": "#DBAD24",
+          "color": "rgba(32, 159, 74, 0.30)",
           "type": "dropShadow"
         }
       ],
       "type": "boxShadow",
-      "description": "use for popup tabs hover state"
+      "description": "use for shake bonus green popup tabs "
     },
     "button-secondary": {
       "value": [
