@@ -3643,7 +3643,7 @@
       "description": "also use for win tickets in lottery results"
     },
     "link-alternative": {
-      "value": "#6CDFFF",
+      "value": "#296BC8",
       "type": "color",
       "description": "use for links on lighter bg (notifications/tooltips), game page"
     },
