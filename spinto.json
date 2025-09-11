@@ -1611,7 +1611,7 @@
         "description": "Background above game image, for recent games widget on desktop"
       },
       "sidebar-gamepage": {
-        "value": "linear-gradient(180deg, rgba(22, 27, 38, 0.00) 0%, rgba(22, 27, 38, 0.95) 63.16%, #161B26 100%)",
+        "value": "linear-gradient(180deg, rgba(6, 2, 14, 0.00) 0%, rgba(6, 2, 14, 0.95) 63.16%, #06020E 100%)",
         "type": "color",
         "description": "use for gradient over picture on right tournament panel"
       },
