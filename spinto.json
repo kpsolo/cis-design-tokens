@@ -3151,7 +3151,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.3}",
         "lineHeight": "{line-height.sm}",
-        "fontSize": "12"
+        "fontSize": "13"
       },
       "type": "typography",
       "description": "x2 x3 icons"
