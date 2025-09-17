@@ -3608,7 +3608,7 @@
       "description": "use for crypto in footer, banners titles/cards titles, tournament/lottery tapbar, for titles in messages ( on picture)"
     },
     "accent-additional": {
-      "value": "{text.accent}",
+      "value": "#FFF15C",
       "type": "color",
       "description": "use for accent text in 1st deposit widget"
     },
