@@ -4611,6 +4611,20 @@
       "value": "#211C26",
       "type": "color",
       "description": "for DIS use, bg for sectioins\n"
+    },
+    "bg-2": {
+      "value": "#211C26",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.06",
+            "space": "srgb"
+          }
+        }
+      },
+      "description": "for DIS use only, bg for sections in sections\n"
     }
   }
 }
