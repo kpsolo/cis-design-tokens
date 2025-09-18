@@ -1567,6 +1567,20 @@
         },
         "description": "overlay for desktop poppups"
       },
+      "ghost-3": {
+        "value": "#0A0318",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.9",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "overlay for custom popup loyalty status"
+      },
       "slider": {
         "value": "#00000000",
         "type": "color",
