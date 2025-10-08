@@ -1848,7 +1848,7 @@
     },
     "thumb": {
       "provider-logo-bg": {
-        "value": "linear-gradient(0deg, #130329 0%, #130329 41.35%, rgba(19, 3, 41, 0.00) 100%)",
+        "value": "linear-gradient(0deg, #130329 0%, #130329 44%, rgba(19, 3, 41, 0.00) 100%)",
         "type": "color",
         "description": "Background under provider logo on game thumb"
       },
