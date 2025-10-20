@@ -114,7 +114,9 @@
       "shadow.button-tertiary": "S:66f00c5219228bc0cb4b4f105398d323783f688f,",
       "shadow.nav-desktop": "S:a2d909bb92c99b15cea21593d30949169d71bcc2,"
     },
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "Spinto": "enabled"
+    },
     "$figmaCollectionId": "VariableCollectionId:57959:171493",
     "$figmaModeId": "57959:0",
     "$figmaVariableReferences": {
@@ -485,6 +487,7 @@
       "calendar.content.main": "20ed789093b8457830cb12a2d5f8f953477f8764",
       "tech.bg": "1ea649548bf0174c2d501096ef2c65dbec3e36d4",
       "tech.bg-2": "229853449e07f23e5f62e2106dd1437cb8f8dca8"
-    }
+    },
+    "group": "SpinTo"
   }
 ]
