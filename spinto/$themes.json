@@ -112,7 +112,10 @@
       "shadow.accent-extra": "S:ffd9e2ff71041f9f7f6938a9d601664b22d09847,",
       "shadow.button-secondary": "S:0d95e5229b065597c4eeac02b2f0e12712e3255b,",
       "shadow.button-tertiary": "S:66f00c5219228bc0cb4b4f105398d323783f688f,",
-      "shadow.nav-desktop": "S:a2d909bb92c99b15cea21593d30949169d71bcc2,"
+      "shadow.nav-desktop": "S:a2d909bb92c99b15cea21593d30949169d71bcc2,",
+      "shadow.thumb": "S:1dbdda4d14381375fc48d960afec773928ca66b2,",
+      "shadow.input": "S:f00fd7c97f0abfd8e962cab8c48ea8d923e2eba8,",
+      "shadow.popup": "S:c75ff5977e86380e81a0b8cb39a10ddba241133f,"
     },
     "selectedTokenSets": {
       "Spinto": "enabled"
