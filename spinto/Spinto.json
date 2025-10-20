@@ -4626,5 +4626,10 @@
       },
       "description": "for DIS use only, bg for sections in sections\n"
     }
+  },
+  "test": {
+    "value": "777",
+    "type": "sizing",
+    "description": "deeete after"
   }
 }
