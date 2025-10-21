@@ -1,7 +1,6 @@
-[
-  {
+{
+  "Spinto": {
     "id": "19e0beef943f558bff3872b5b78949632ebe1853",
-    "name": "Spinto",
     "$figmaStyleReferences": {
       "typography.caption-extrasmall": "S:5d2f495351973b7ae696227b56caca95d74f9ee9,",
       "typography.caption-extrasmall-strong": "S:803deb078174188e803a20d1466094f8d0f09a6e,",
@@ -491,6 +490,7 @@
       "tech.bg": "1ea649548bf0174c2d501096ef2c65dbec3e36d4",
       "tech.bg-2": "229853449e07f23e5f62e2106dd1437cb8f8dca8"
     },
-    "group": "SpinTo"
+    "group": "SpinTo",
+    "type": "other"
   }
-]
+}

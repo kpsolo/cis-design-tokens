@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "newslz/$metadata",
+    "newslz/global",
+    "newslz/newslz",
+    "spinto/$metadata",
+    "spinto/$themes",
+    "spinto/Spinto"
+  ]
+}

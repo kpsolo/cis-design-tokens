@@ -3369,7 +3369,7 @@
           "description": "border for win card"
         },
         "achievements": {
-          "value": "linear-gradient(148deg, rgba(32, 109, 174, 0.40) 15.68%, rgba(32, 109, 174, 0.20) 38.76%, rgba(32, 109, 174, 0.00) 55.25%)",
+          "value": "#160829",
           "type": "color",
           "description": "border for win card"
         },
@@ -3409,26 +3409,26 @@
         }
       },
       "popup-2": {
-        "value": "linear-gradient(180deg, #3B135B 0%, #3B135B 100%)",
+        "value": "#160829",
         "type": "color"
       },
       "popup-1": {
-        "value": "linear-gradient(180deg, #132464 0%, #121B52 100%)",
+        "value": "#160829",
         "type": "color"
       },
       "gradient": {
         "activity": {
-          "value": "rgba(21, 78, 192, 0.30)",
+          "value": "rgba(61, 71, 255, 0.30)",
           "type": "color",
           "description": "radial for activity cards zone"
         },
         "win": {
-          "value": "rgba(235, 13, 255, 0.16)",
+          "value": "rgba(94, 13, 255, 0.16)",
           "type": "color",
           "description": "gradient for win cards zone"
         },
         "achievements": {
-          "value": "rgba(21, 152, 192, 0.20)",
+          "value": "rgba(87, 21, 192, 0.20)",
           "type": "color",
           "description": "gradeint for achievements cards zone "
         },
@@ -3495,12 +3495,12 @@
       },
       "card": {
         "1": {
-          "value": "linear-gradient(148deg, rgba(117, 44, 194, 0.54) 20.63%, rgba(117, 44, 194, 0.20) 40.38%, rgba(117, 44, 194, 0.10) 54.49%)",
+          "value": "linear-gradient(148deg, rgba(77, 28, 143, 1) 0%, rgba(73, 26, 136, 1) 21%, rgba(22, 8, 41, 1) 100%)",
           "type": "color",
           "description": "in progress cards bg in main screen"
         },
         "2": {
-          "value": "linear-gradient(148deg, rgba(18, 70, 172, 0.50) 15.68%, rgba(18, 70, 172, 0.20) 38.76%, rgba(12, 46, 114, 0.10) 92.79%)",
+          "value": "linear-gradient(148deg, rgba(28, 99, 143, 1) 0%, rgba(26, 85, 136, 1) 21%, rgba(8, 8, 41, 1) 100%)",
           "type": "color",
           "description": "last cards bg in main screen"
         },
@@ -3519,17 +3519,17 @@
           "description": "card first deposit bg in main screen"
         },
         "4": {
-          "value": "linear-gradient(158deg, #1E619A 21.57%, rgba(30, 97, 154, 0.43) 48.78%, #1B5484 70.15%)",
+          "value": "#160829",
           "type": "color",
           "description": "bg for achievements cards"
         },
         "5": {
-          "value": "linear-gradient(133deg, rgba(21, 78, 192, 0.40) 12.17%, rgba(21, 78, 192, 0.16) 41.06%, rgba(21, 78, 192, 0.00) 63.64%)",
+          "value": "linear-gradient(148deg, rgba(17, 62, 102, 1) 0%, rgba(8, 8, 41, 1) 100%)",
           "type": "color",
           "description": "bg for activity cards"
         },
         "6": {
-          "value": "linear-gradient(132deg, rgba(140, 49, 144, 0.54) 11.58%, rgba(122, 42, 126, 0.16) 38.1%, rgba(138, 52, 143, 0.00) 58.12%)",
+          "value": "linear-gradient(148deg, rgba(53, 23, 94, 1) 0%, rgba(22, 8, 41, 1) 100%)",
           "type": "color",
           "description": "bg for win cards"
         }
