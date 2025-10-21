@@ -3483,12 +3483,12 @@
           "description": "for bg under 1st desposit in second state"
         },
         "3": {
-          "value": "#09245A",
+          "value": "rgba(8, 8, 41, 0.80)",
           "type": "color",
           "description": "for empty last card"
         },
         "4": {
-          "value": "linear-gradient(90deg, rgba(23, 33, 87, 0.70) 0.31%, rgba(23, 33, 87, 0.00) 98.6%)",
+          "value": "rgba(22, 8, 41, 0.80)",
           "type": "color",
           "description": "for empty progress cards"
         }
