@@ -2399,7 +2399,7 @@
       "description": "Indication of success transactions"
     },
     "surface": {
-      "value": "#02102C",
+      "value": "#1C1E2D",
       "type": "color",
       "description": "main color for brand bgs"
     },
@@ -3768,11 +3768,11 @@
   },
   "font-family": {
     "main": {
-      "value": "Mabry Pro",
+      "value": "Fester",
       "type": "fontFamilies"
     },
     "accent": {
-      "value": "Mabry Pro",
+      "value": "Fester",
       "type": "fontFamilies"
     },
     "additional": {
@@ -5894,7 +5894,7 @@
   },
   "tech": {
     "bg": {
-      "value": "#030B1D",
+      "value": "#121318",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     }
