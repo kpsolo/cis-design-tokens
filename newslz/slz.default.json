@@ -2503,7 +2503,7 @@
   "button": {
     "bg": {
       "primary": {
-        "value": "#BD0F1B",
+        "value": "linear-gradient(96deg, #95BEFF 1.87%, #BF54F5 97.02%)",
         "type": "color",
         "description": "Background for primary buttons"
       },
@@ -2735,7 +2735,7 @@
         "description": "border color for buttons disabled"
       },
       "primary": {
-        "value": "transparent",
+        "value": "linear-gradient(174deg, #C9A9FF 4.21%, #752FF2 95.56%)",
         "type": "color",
         "description": "border color for primary buttons  default"
       },
@@ -4678,7 +4678,7 @@
       "description": "(delete?)"
     },
     "content": {
-      "value": "#C5CFE4",
+      "value": "#E7ECF9",
       "type": "color",
       "description": "use for large text blocks\n\n(delete?) Maybe for small items with darker background?(labels, crypto on footer)"
     },
