@@ -1576,7 +1576,7 @@
       "description": "Radius for select (0)"
     },
     "small-tips": {
-      "value": "4px",
+      "value": "100px",
       "type": "borderRadius",
       "description": "Radius for small elements -  notification in menu item"
     },
@@ -2399,7 +2399,7 @@
       "description": "Indication of success transactions"
     },
     "surface": {
-      "value": "#141414",
+      "value": "#17181B",
       "type": "color",
       "description": "main color for brand bgs"
     },
@@ -2954,12 +2954,12 @@
         "description": "separator for dark bg (mob dropdown providers)"
       },
       "secondary": {
-        "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(245, 245, 245, 0.10) 9.97%, rgba(161, 161, 161, 0.10) 91.97%, rgba(153, 153, 153, 0.00) 100%)",
+        "value": "#425080",
         "type": "color",
         "description": "use in mob registation tabs"
       },
       "additional": {
-        "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(245, 245, 245, 0.10) 9.97%, rgba(161, 161, 161, 0.10) 91.97%, rgba(153, 153, 153, 0.00) 100%)",
+        "value": "#425080",
         "type": "color",
         "description": "border color for info inside transaction/ separator for items in tables in static page"
       },
