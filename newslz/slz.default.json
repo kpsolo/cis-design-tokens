@@ -2777,7 +2777,7 @@
     },
     "text": {
       "primary": {
-        "value": "#ffffff",
+        "value": "#000000",
         "type": "color",
         "description": "Text color on primary button"
       },
@@ -2787,7 +2787,7 @@
         "description": "Text color on secondary button"
       },
       "light-bg": {
-        "value": "{button.text.ghost}",
+        "value": "#95BEFF",
         "type": "color",
         "description": "Text color for buttons on light bg (notification)"
       },
@@ -3848,53 +3848,53 @@
   },
   "font-size": {
     "0": {
-      "value": "8",
-      "type": "fontSizes"
-    },
-    "1": {
       "value": "9",
       "type": "fontSizes"
     },
-    "2": {
+    "1": {
       "value": "10",
       "type": "fontSizes"
     },
-    "3": {
+    "2": {
       "value": "12",
       "type": "fontSizes"
     },
-    "4": {
+    "3": {
       "value": "14",
       "type": "fontSizes"
     },
-    "5": {
+    "4": {
       "value": "16",
       "type": "fontSizes"
     },
+    "5": {
+      "value": "18",
+      "type": "fontSizes"
+    },
     "6": {
-      "value": "20",
+      "value": "22",
       "type": "fontSizes"
     },
     "7": {
-      "value": "24",
-      "type": "fontSizes"
-    },
-    "8": {
       "value": "26",
       "type": "fontSizes"
     },
+    "8": {
+      "value": "28",
+      "type": "fontSizes"
+    },
     "1-desktop": {
-      "value": "13px",
+      "value": "14px",
       "type": "fontSizes",
       "description": "For small captions on desktop"
     },
     "extra": {
-      "value": "18",
+      "value": "20",
       "type": "fontSizes",
       "description": "for main page titles (mob)"
     },
     "extra-2": {
-      "value": "22",
+      "value": "24",
       "type": "fontSizes",
       "description": "for main page titles (mob)"
     }
