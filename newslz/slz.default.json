@@ -2116,17 +2116,17 @@
     },
     "gradients": {
       "main": {
-        "value": "linear-gradient(124deg, #2D73FF 37.1%, rgba(255, 255, 255, 0.00) 71%)",
+        "value": "linear-gradient(124deg, #678CCA 59.59%, rgba(144, 182, 246, 0.00) 89%)",
         "type": "color",
         "description": "use as additional ui overlay gradient"
       },
       "extra": {
-        "value": "linear-gradient(124deg, rgba(185, 208, 255, 0.48) 37.1%, rgba(255, 255, 255, 0.00) 71%)",
+        "value": "linear-gradient(124deg, #678CCA 59.59%, rgba(144, 182, 246, 0.00) 89%)",
         "type": "color",
         "description": "use as additional ui overlay gradient"
       },
       "additional": {
-        "value": "linear-gradient(124deg, #930A2B 48.54%, rgba(255, 255, 255, 0.00) 71%)",
+        "value": "linear-gradient(124deg, #678CCA 59.59%, rgba(144, 182, 246, 0.00) 89%)",
         "type": "color",
         "description": "use as additional ui overlay gradient"
       },
@@ -2374,17 +2374,17 @@
       "description": "Lighttest (white)"
     },
     "accent-primary": {
-      "value": "#FFBF00",
+      "value": "#E0A4FF",
       "type": "color",
       "description": "Background for accent elements"
     },
     "accent-secondary": {
-      "value": "#EBAB2E",
+      "value": "#E0A4FF",
       "type": "color",
       "description": "Background for tertiary elements"
     },
     "accent-tertiary": {
-      "value": "#EBAB2E",
+      "value": "#E0A4FF",
       "type": "color",
       "description": "Background for tertiary elements"
     },
@@ -2399,7 +2399,7 @@
       "description": "Indication of success transactions"
     },
     "surface": {
-      "value": "#1C1E2D",
+      "value": "#141414",
       "type": "color",
       "description": "main color for brand bgs"
     },
@@ -5894,9 +5894,9 @@
   },
   "tech": {
     "bg": {
-      "value": "#121318",
+      "value": "#1B1C22",
       "type": "color",
-      "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
+      "description": "for designer sections bg"
     }
   }
 }
