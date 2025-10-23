@@ -2602,17 +2602,17 @@
     },
     "icon": {
       "primary": {
-        "value": "#ffffff",
+        "value": "{button.text.primary}",
         "type": "color",
         "description": "Icon color on a primary button"
       },
       "secondary": {
-        "value": "#fff",
+        "value": "{button.text.secondary}",
         "type": "color",
         "description": "Icon color on a secondary button"
       },
       "tertiary": {
-        "value": "#fff",
+        "value": "{button.text.tertiary}",
         "type": "color",
         "description": "Icon color on a tertiary button"
       },
@@ -2777,12 +2777,12 @@
     },
     "text": {
       "primary": {
-        "value": "#000000",
+        "value": "#17181B",
         "type": "color",
         "description": "Text color on primary button"
       },
       "secondary": {
-        "value": "#000000",
+        "value": "#17181B",
         "type": "color",
         "description": "Text color on secondary button"
       },
