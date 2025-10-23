@@ -1492,17 +1492,17 @@
   },
   "radius": {
     "card": {
-      "value": "12px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Radius for cards amd widgets"
     },
     "card-extra": {
-      "value": "13px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Radius for cards amd widgets border bg ( 1st deposit card)"
     },
     "game-item": {
-      "value": "12px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Radius for thumbs"
     },
@@ -1527,7 +1527,7 @@
       "description": "Radius for buttons"
     },
     "button-extra": {
-      "value": "4px",
+      "value": "100px",
       "type": "borderRadius",
       "description": "Radius for extrasmall buttons in gamepage"
     },
@@ -1537,16 +1537,16 @@
       "description": "Radius for tapbar"
     },
     "popup": {
-      "value": "16px",
+      "value": "4px",
       "type": "borderRadius"
     },
     "popup-additional": {
-      "value": "9px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "for secret mirror,welcome back popup bg radius "
     },
     "tooltips-notifications": {
-      "value": "10px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Border radius for tooltips ans notifications"
     },
@@ -1561,12 +1561,12 @@
       "description": "No radius"
     },
     "input-base": {
-      "value": "12px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Use for inputs, dropdowns bg"
     },
     "game-item-mini": {
-      "value": "8px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Radius for smallest game items"
     },
@@ -1576,7 +1576,7 @@
       "description": "Radius for select (0)"
     },
     "small-tips": {
-      "value": "16px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Radius for small elements -  notification in menu item"
     },
@@ -1586,7 +1586,7 @@
       "description": "use for elements with large radius ( button in footer, gold tickets in lottery)"
     },
     "live-lottery-tips": {
-      "value": "12px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "use for small tips on final lottery "
     },
