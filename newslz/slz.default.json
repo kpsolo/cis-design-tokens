@@ -1429,7 +1429,7 @@
       "description": "use for border in 1st deposit card"
     },
     "popup": {
-      "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)",
+      "value": "linear-gradient(328deg, rgba(255, 255, 255, 0.00) 19.19%, rgba(149, 171, 245, 0.30) 80.81%)",
       "type": "color"
     },
     "popup-additional": {
