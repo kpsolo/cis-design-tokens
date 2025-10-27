@@ -2403,7 +2403,7 @@
       "description": "main color for brand bgs"
     },
     "error": {
-      "value": "#F3393C",
+      "value": "#FF2124",
       "type": "color",
       "description": "Indication of unsuccess transactions"
     },
@@ -3145,7 +3145,7 @@
     },
     "badge": {
       "1": {
-        "value": "#B62D3E",
+        "value": "#AA87F9",
         "type": "color",
         "description": "use for badge in main tapbar"
       },
@@ -3346,7 +3346,7 @@
         "type": "color"
       },
       "icon": {
-        "value": "#0A3093",
+        "value": "#AA87F9",
         "type": "color"
       }
     }
@@ -3514,7 +3514,7 @@
         }
       },
       "error": {
-        "value": "{base.error}",
+        "value": "#C20C0F",
         "type": "color",
         "description": "Color border for error input"
       },
@@ -3531,7 +3531,7 @@
         "description": "Default backgrounds for inputs"
       },
       "error": {
-        "value": "{base.error}",
+        "value": "#C20C0F",
         "type": "color",
         "description": "Background for error inputs"
       },
