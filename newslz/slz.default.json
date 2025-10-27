@@ -1330,7 +1330,7 @@
     },
     "dropdown": {
       "value": {
-        "color": "rgba(255, 255, 255, 0.08)",
+        "color": "#445282",
         "width": "1px",
         "style": "solid"
       },
@@ -1675,7 +1675,7 @@
       "description": "use for popups bg"
     },
     "top-surface": {
-      "value": "{base.light}",
+      "value": "#24242C",
       "type": "color",
       "description": "bg for menu, bottom sheets,dropdown"
     },
@@ -1966,17 +1966,8 @@
         "description": "social icons bg in desktop header/ mob registration/gamepage left sidebar"
       },
       "3": {
-        "value": "{text.content}",
+        "value": "rgba(95, 108, 140, 0.06)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.08",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for bullets bg in text, bg under number bullets in tournaments/lottery winners list, bg under prizes in prize tab in tournaments/lottery"
       },
       "4": {
