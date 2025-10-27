@@ -1661,7 +1661,7 @@
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
     "additional": {
-      "value": "#061535",
+      "value": "#24242C",
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
@@ -2994,7 +2994,7 @@
       "description": "border for progressbar in profile/menu mobile"
     },
     "progressbar": {
-      "value": "#1E5BFF",
+      "value": "#B45BEE",
       "type": "color"
     },
     "progressbar-bg": {
@@ -4454,17 +4454,8 @@
           "description": "last cards bg in main screen"
         },
         "3": {
-          "value": "#3A478A",
+          "value": "rgba(77, 80, 90, 0.20)",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.20",
-                "space": "srgb"
-              }
-            }
-          },
           "description": "card first deposit bg in main screen"
         },
         "4": {
@@ -4688,7 +4679,7 @@
       "description": "use for hover state for messages desktop"
     },
     "link": {
-      "value": "#8ABAFB",
+      "value": "#95ABF5",
       "type": "color",
       "description": "also use for win tickets in lottery results"
     },
