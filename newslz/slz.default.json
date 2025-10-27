@@ -1602,7 +1602,7 @@
       "description": "use for hightlight player in gamepage/tournament "
     },
     "item-additional": {
-      "value": "20px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "use for active operation in cashbox desktop\n"
     },
@@ -1857,18 +1857,9 @@
         "description": "use for transaction with bg"
       },
       "cashbox-additional": {
-        "value": "#528AFF",
+        "value": "rgba(80, 92, 118, 0.12)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.12",
-              "space": "srgb"
-            }
-          }
-        },
-        "description": "use for transaction with bg (detailed)"
+        "description": "use for transaction with bg "
       },
       "strip": {
         "value": "{bg.additional}",
@@ -1967,7 +1958,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.10",
+              "value": "0.04",
               "space": "srgb"
             }
           }
