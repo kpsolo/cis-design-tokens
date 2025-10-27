@@ -556,7 +556,7 @@
           "y": "4",
           "blur": "8",
           "spread": "0",
-          "color": "rgba(1, 9, 31, 0.40)",
+          "color": "rgba(10, 10, 10, 0.40)",
           "type": "dropShadow"
         }
       ],
@@ -2541,7 +2541,7 @@
         "description": "Background for primary disabled button for lighgt bg"
       },
       "primary-disabled": {
-        "value": "#1E222F",
+        "value": "#292C36",
         "type": "color",
         "description": "Background for primary buttons disabled"
       },
