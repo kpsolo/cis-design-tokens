@@ -800,7 +800,7 @@
           "y": "1",
           "blur": "0",
           "spread": "0",
-          "color": "rgba(185, 17, 28, 0.40)",
+          "color": "#94ABF4",
           "type": "dropShadow"
         },
         "type": "boxShadow",
@@ -1607,7 +1607,7 @@
       "description": "use for active operation in cashbox desktop\n"
     },
     "card-additional": {
-      "value": "12px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Radius for bonus cards in cashbox"
     },
