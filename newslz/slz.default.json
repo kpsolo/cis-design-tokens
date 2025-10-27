@@ -1273,7 +1273,7 @@
     },
     "input-disabled": {
       "value": {
-        "color": "{input.border.disabled}",
+        "color": "#445282",
         "width": "{border-width.input}",
         "style": "solid"
       },
@@ -3597,19 +3597,36 @@
         "description": "Use for active select text"
       },
       "error": {
-        "value": "{base.light}",
+        "value": "#6A7491",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "lch"
+            }
+          }
+        },
         "description": "use for text in error field hint"
       },
       "disabled-value": {
-        "value": "rgba(142,142,142,0.9)",
+        "value": "#6A7491",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "lch"
+            }
+          }
+        },
         "description": "use for text in disabled field "
       },
       "disabled-label": {
-        "value": "rgba(186, 188, 194, 0.40)",
+        "value": "#6A7491",
         "type": "color",
-        "description": "use for text in confirmed field hint",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -3618,7 +3635,8 @@
               "space": "srgb"
             }
           }
-        }
+        },
+        "description": "use for text in confirmed field hint"
       }
     }
   },
