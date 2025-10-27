@@ -1297,12 +1297,11 @@
     },
     "input-default": {
       "value": {
-        "color": "transparent",
+        "color": "#445282",
         "width": "{border-width.input}",
         "style": "solid"
       },
-      "type": "border",
-      "description": "use for light theme inputs"
+      "type": "border"
     },
     "special-blocks": {
       "jackpot-border": {
@@ -3527,7 +3526,7 @@
     },
     "bg": {
       "default": {
-        "value": "{base.light}",
+        "value": "#24242C",
         "type": "color",
         "description": "Default backgrounds for inputs"
       },
@@ -3564,13 +3563,13 @@
     },
     "text": {
       "label": {
-        "value": "{base.dark}",
+        "value": "{base.light}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
-              "type": "lighten",
-              "value": "0.2",
+              "type": "alpha",
+              "value": "0.6",
               "space": "srgb"
             }
           }
@@ -3578,7 +3577,7 @@
         "description": "Label color"
       },
       "value-main": {
-        "value": "{base.dark}",
+        "value": "#F7F7F7",
         "type": "color",
         "description": "Input value text color"
       },
