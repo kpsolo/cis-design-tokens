@@ -2687,7 +2687,7 @@
         "description": "border color for ghost buttons pressed state (use in menu)"
       },
       "tertiary-light": {
-        "value": "{button.text.primary}",
+        "value": "{button.text.ghost}",
         "type": "color",
         "description": "border color for buttons default in cards"
       },
@@ -2812,7 +2812,7 @@
         "description": "Text color on ghost disabled button"
       },
       "tertiary-light": {
-        "value": "{button.text.primary}",
+        "value": "{button.text.ghost}",
         "type": "color",
         "description": "color on tertiary buttons on cards"
       },
@@ -4850,12 +4850,12 @@
   "menu": {
     "bg": {
       "main": {
-        "value": "#041A47",
+        "value": "{base.dark}",
         "type": "color",
         "description": "use for menu general bg "
       },
       "main-additional": {
-        "value": "#031740",
+        "value": "{bg.additional}",
         "type": "color",
         "description": "bg for menu items zone"
       },
