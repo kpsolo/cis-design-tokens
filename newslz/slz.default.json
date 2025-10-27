@@ -1531,7 +1531,7 @@
       "description": "Radius for extrasmall buttons in gamepage"
     },
     "tap-bar": {
-      "value": "16px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Radius for tapbar"
     },
@@ -3301,7 +3301,7 @@
         "description": "Bg on hover on floating button"
       },
       "bg": {
-        "value": "rgba(5, 67, 227, 0.60)",
+        "value": "rgba(206, 157, 255, 0.20)",
         "type": "color",
         "description": "Bg on default on floating button"
       },
@@ -3436,7 +3436,7 @@
       "description": "For social icons in menu "
     },
     "ghost-1": {
-      "value": "rgba(255, 255, 255, 0.80)",
+      "value": "rgba(255, 255, 255, 0.90)",
       "type": "color",
       "description": "for main icons in navbar mob/desktop"
     },
@@ -4742,7 +4742,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.7",
+              "value": "0.8",
               "space": "srgb"
             }
           }
