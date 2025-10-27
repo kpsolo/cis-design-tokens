@@ -2403,7 +2403,7 @@
       "description": "main color for brand bgs"
     },
     "error": {
-      "value": "#BD0F1B",
+      "value": "#F3393C",
       "type": "color",
       "description": "Indication of unsuccess transactions"
     },
@@ -3569,7 +3569,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.6",
+              "value": "0.8",
               "space": "srgb"
             }
           }
