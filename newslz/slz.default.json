@@ -2076,7 +2076,7 @@
         "description": "bg in tournament/lottery under players"
       },
       "light-2": {
-        "value": "#0B255A",
+        "value": "#17181B",
         "type": "color",
         "description": "use for progress bar bg "
       },
@@ -2248,7 +2248,7 @@
         "description": "use as overlay on messages picture, news cards picture"
       },
       "3": {
-        "value": "linear-gradient(180deg, rgba(2, 16, 44, 0.00) 0%, rgba(2, 16, 44, 0.50) 24.24%, rgba(2, 16, 44, 0.90) 54.36%, #02102C 100%)",
+        "value": "linear-gradient(180deg, rgba(23, 24, 27, 0.00) 0%, rgba(23, 24, 27, 0.50) 24.24%, rgba(23, 24, 27, 0.90) 54.36%, #17181B 100%)",
         "type": "color",
         "description": "use under link in messages/in reg banner under check link\n\n[based on primary bg]"
       },
@@ -3151,7 +3151,7 @@
         "description": "use for badge in main tapbar"
       },
       "2": {
-        "value": "#2A69F1",
+        "value": "#AA87F9",
         "type": "color",
         "description": "use for badges in navbar, menu top part , lottery tickets sale,check box"
       },
