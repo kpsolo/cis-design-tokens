@@ -2356,12 +2356,12 @@
   "nav": {
     "tab": {
       "start": {
-        "value": "#06102C",
+        "value": "#17181B",
         "type": "color",
         "description": "gradient on top for popups"
       },
       "stop": {
-        "value": "#0E1B3F",
+        "value": "#17181B",
         "type": "color",
         "description": "gradient on bottom for popups"
       }
@@ -5100,7 +5100,7 @@
       "description": "bg all tabs"
     },
     "bg all": {
-      "value": "#0F1B3B",
+      "value": "#0D0E11",
       "type": "color"
     }
   },
