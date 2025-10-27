@@ -1783,7 +1783,7 @@
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
       "cashbox-bonus": {
-        "value": "#051D40",
+        "value": "#1D1D1E",
         "type": "color",
         "description": "for cashbox bonus popup"
       },
@@ -3373,13 +3373,13 @@
       "description": "use for categories"
     },
     "tertiary": {
-      "value": "{base.dark}",
+      "value": "{base.accent-light}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "alpha",
-            "value": "0.8",
+            "value": "0.4",
             "space": "srgb"
           }
         }
