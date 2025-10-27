@@ -1433,7 +1433,7 @@
       "type": "color"
     },
     "popup-additional": {
-      "value": "rgba(255, 255, 255, 0.10)",
+      "value": "{border.popup}",
       "type": "color",
       "description": "for ptofile popup desktop (without gradient!)"
     },
