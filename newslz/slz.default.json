@@ -2220,7 +2220,7 @@
           "description": "border for all cards - sidebar/main banner"
         },
         "main-additional": {
-          "value": "rgba(255, 255, 255, 0.08)",
+          "value": "linear-gradient(100deg, rgba(149, 171, 245, 0.40) 20.88%, rgba(180, 91, 238, 0.40) 91.94%)",
           "type": "color",
           "description": "border for status block in mob menu"
         }
@@ -2777,7 +2777,7 @@
         "description": "Text color on secondary button"
       },
       "light-bg": {
-        "value": "#576FCF",
+        "value": "#95BEFF",
         "type": "color",
         "description": "Text color for buttons on light bg (notification)"
       },
@@ -4860,12 +4860,12 @@
         "description": "bg for menu items zone"
       },
       "banner": {
-        "value": "#061840",
+        "value": "#24242C",
         "type": "color",
         "description": "use for banner bg for unlogged "
       },
       "header": {
-        "value": "linear-gradient(180deg, #061128 0%, rgba(6, 17, 40, 0.00) 100%)",
+        "value": "rgba(34, 34, 34, 0.00) 100%)",
         "type": "color",
         "description": "use for header bg for unlogged "
       },
@@ -4875,7 +4875,7 @@
         "description": "use as bg in menu info zone"
       },
       "notification": {
-        "value": "#2252D5",
+        "value": "{button.bg.secondary}",
         "type": "color",
         "description": "use for special notification in menu items"
       },
@@ -4886,12 +4886,12 @@
       }
     },
     "item-active": {
-      "value": "#BD0F1B",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "for menu item icon/text active state"
     },
     "accent": {
-      "value": "#EBAB2E",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
     },
@@ -4899,6 +4899,11 @@
       "value": "#DDDEFF",
       "type": "color",
       "description": "for menu items text/icon default state"
+    },
+    "separator": {
+      "value": "linear-gradient(100deg, rgba(149, 171, 245, 0.40) 24.48%, rgba(180, 91, 238, 0.40) 86.76%)",
+      "type": "color",
+      "description": "bg color for separator line"
     },
     "content": {
       "value": "{text.light}",
@@ -4913,11 +4918,6 @@
         }
       },
       "description": "Color for status and %"
-    },
-    "separator": {
-      "value": "rgba(255, 255, 255, 0.08)",
-      "type": "color",
-      "description": "bg color for separator line"
     }
   },
   "max-width": {
