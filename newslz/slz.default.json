@@ -1680,7 +1680,7 @@
       "description": "bg for menu, bottom sheets,dropdown"
     },
     "social-icons": {
-      "value": "rgba(40, 65, 119, 0.40)",
+      "value": "{small-elements.footer.bg-social}",
       "type": "color",
       "description": "use for bg under social icons in mob menu"
     },
@@ -2399,7 +2399,7 @@
       "description": "Indication of unsuccess transactions"
     },
     "warning": {
-      "value": "#FDBB2C",
+      "value": "#E6BA59",
       "type": "color",
       "description": "Indication of warning"
     },
@@ -4156,7 +4156,7 @@
       "description": "for referral cards numbers"
     },
     "dropdown-custom": {
-      "value": "#212121",
+      "value": "#333232",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
@@ -4875,7 +4875,7 @@
         "description": "use as bg in menu info zone"
       },
       "notification": {
-        "value": "{button.bg.secondary}",
+        "value": "#6954F5",
         "type": "color",
         "description": "use for special notification in menu items"
       },
