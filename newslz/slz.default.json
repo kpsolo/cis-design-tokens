@@ -2536,7 +2536,7 @@
         "description": "Background for primary pressed"
       },
       "primary-disabled-additional": {
-        "value": "#1E222F",
+        "value": "rgba(201, 169, 255, 0.60)",
         "type": "color",
         "description": "Background for primary disabled button for lighgt bg"
       },
