@@ -1685,9 +1685,9 @@
       "description": "use for bg under social icons in mob menu"
     },
     "widget-default": {
-      "value": "{bg.additional}",
+      "value": "linear-gradient(131deg, #FFF 34.94%, #97BBFF 70.61%)",
       "type": "color",
-      "description": "for tournament on main page, news, lottery"
+      "description": "quick deposite widget in cashbox page"
     },
     "top-surface-additional": {
       "value": "{base.light}",
@@ -1823,7 +1823,7 @@
         "description": "Background color for outside 1click zone "
       },
       "accent-on-light": {
-        "value": "#0A3093",
+        "value": "#4A78F4",
         "type": "color",
         "description": "use as accent on light bg - filter in cashdesk"
       },
@@ -3533,7 +3533,7 @@
         "description": "Backgrounds for confirmed inputs"
       },
       "accent": {
-        "value": "rgba(0, 61, 187, 0.20)",
+        "value": "rgba(148, 179, 250, 0.20)",
         "type": "color",
         "description": "bg for selected item in dropdown (currency registration)"
       },
@@ -3588,17 +3588,8 @@
         "description": "Use for active select text"
       },
       "error": {
-        "value": "#6A7491",
+        "value": "{base.light}",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.6",
-              "space": "lch"
-            }
-          }
-        },
         "description": "use for text in error field hint"
       },
       "disabled-value": {
@@ -4180,7 +4171,7 @@
       "description": "for jackpot sun in jackpot page"
     },
     "dropdown-custom-fade": {
-      "value": "linear-gradient(180deg, rgba( {special-blocks.dropdown-custom} , 0.00) 0%, {special-blocks.dropdown-custom} 100%)",
+      "value": "linear-gradient(180deg, rgba(36, 36, 44, 0.00) 0%, #24242C 100%)",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
