@@ -2097,7 +2097,7 @@
     },
     "gradients": {
       "main": {
-        "value": "linear-gradient(124deg, #AF7DF9 58.33%, rgba(144, 182, 246, 0.00) 83.89%)",
+        "value": "linear-gradient(124deg, #678CCA 59.59%, rgba(144, 182, 246, 0.00) 89%)",
         "type": "color",
         "description": "use as additional ui overlay gradient"
       },
@@ -4174,7 +4174,7 @@
       "description": "for referral cards numbers"
     },
     "dropdown-custom": {
-      "value": "#333232",
+      "value": "#1F1F1F",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
@@ -4834,7 +4834,7 @@
         "description": "for winner name in winning now block"
       },
       "additional": {
-        "value": "{text.title.accent}",
+        "value": "{button.bg.secondary}",
         "type": "color",
         "description": "use in shop cards"
       },
