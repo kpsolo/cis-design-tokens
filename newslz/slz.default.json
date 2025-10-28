@@ -2561,18 +2561,36 @@
         "description": "Background for secondary buttons disabled"
       },
       "app-default": {
-        "value": "{base.accent-light}",
+        "value": "#C5D3F7",
         "type": "color",
         "description": "Background for bottom part and button in pregame modal"
       },
       "app-hover": {
-        "value": "#f2fcff",
+        "value": "{button.bg.app-default}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.2",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Background for hovered button in pregame modal"
       },
       "app-pressed": {
-        "value": "#cde0e6",
+        "value": "{button.bg.app-default}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.1",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Background for pressed button in pregame modal"
       },
       "ghost": {
@@ -2969,7 +2987,7 @@
       }
     },
     "progressbar-large": {
-      "value": "#0C3092",
+      "value": "{small-elements.progressbar}",
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
     },
@@ -5575,7 +5593,7 @@
         "description": "use for lines in right sidebar"
       },
       "accent-additional": {
-        "value": "{text.title.accent}",
+        "value": "{text.title.additional}",
         "type": "color"
       },
       "hover": {
