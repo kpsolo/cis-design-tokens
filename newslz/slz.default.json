@@ -1767,7 +1767,7 @@
       "description": "Gradient for bg"
     },
     "tertiary": {
-      "value": "#0A1B3B",
+      "value": "#202124",
       "type": "color",
       "description": "bg for element above primary/secondary bg (game empty thumb, player status)"
     },
