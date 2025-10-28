@@ -1778,7 +1778,7 @@
         "description": "Bg for empty error pages"
       },
       "status-bg": {
-        "value": "#0E212E",
+        "value": "#202225",
         "type": "color",
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
