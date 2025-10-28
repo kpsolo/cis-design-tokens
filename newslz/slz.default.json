@@ -2375,7 +2375,7 @@
       "description": "Darkest (black)"
     },
     "success": {
-      "value": "#32BD0F",
+      "value": "#5ECB43",
       "type": "color",
       "description": "Indication of success transactions"
     },
@@ -4839,7 +4839,7 @@
         "description": "use in shop cards"
       },
       "extra": {
-        "value": "{text.title.accent}",
+        "value": "{text.title.additional}",
         "type": "color",
         "description": "welcome bonus popup accent color"
       },
