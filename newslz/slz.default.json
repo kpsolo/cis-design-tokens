@@ -1944,7 +1944,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.04",
+              "value": "0.05",
               "space": "srgb"
             }
           }
