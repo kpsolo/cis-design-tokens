@@ -1778,7 +1778,7 @@
         "description": "Bg for empty error pages"
       },
       "status-bg": {
-        "value": "#0D2048",
+        "value": "#0E212E",
         "type": "color",
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
@@ -2107,7 +2107,7 @@
         "description": "use as additional ui overlay gradient"
       },
       "additional": {
-        "value": "linear-gradient(124deg, #678CCA 59.59%, rgba(144, 182, 246, 0.00) 89%)",
+        "value": "linear-gradient(124deg, #AF7DF9 58.33%, rgba(144, 182, 246, 0.00) 83.89%)",
         "type": "color",
         "description": "use as additional ui overlay gradient"
       },
@@ -2152,7 +2152,7 @@
           "description": "bg for winnig now"
         },
         "5": {
-          "value": "#0B2969",
+          "value": "#0F192E",
           "type": "color",
           "description": "bg for bonus balance card"
         },
@@ -2162,7 +2162,7 @@
           "description": "bg for winnig now - mob"
         },
         "5-additional": {
-          "value": "#081E4E",
+          "value": "#0C0C0C",
           "type": "color",
           "description": "bg for bonus balance card"
         }
