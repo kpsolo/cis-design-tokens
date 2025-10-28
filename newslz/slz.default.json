@@ -2532,7 +2532,7 @@
         "description": "Background for tertiary buttons disabled"
       },
       "secondary": {
-        "value": "linear-gradient(96deg, #6954F5 0%, #95BEFF 97.02%)",
+        "value": "#92B4F7",
         "type": "color",
         "description": "Background for secondary buttons"
       },
@@ -2736,7 +2736,7 @@
         "description": "border color for primary buttons disabled state"
       },
       "secondary": {
-        "value": "linear-gradient(96deg, #95BEFF 0%, #6954F5 97.02%)",
+        "value": "linear-gradient(95deg, #CEE1FF 4.02%, #8373F1 96.71%)",
         "type": "color",
         "description": "border color for secondary buttons default state"
       },
@@ -2746,8 +2746,17 @@
         "description": "border color for secondary buttons pressed state"
       },
       "secondary-hover": {
-        "value": "linear-gradient(96deg, #6954F5 0%, #95BEFF 97.02%)",
+        "value": "{button.bg.secondary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.2",
+              "space": "lch"
+            }
+          }
+        },
         "description": "border color for secondary buttons hover"
       },
       "secondary-disabled": {
