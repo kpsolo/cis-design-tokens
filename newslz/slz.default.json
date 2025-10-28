@@ -3971,8 +3971,17 @@
       "description": "Color of text and icons for custom dropdown"
     },
     "jackpot-border": {
-      "value": "#D2E5FF",
+      "value": "{base.accent-primary}",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.3",
+            "space": "lch"
+          }
+        }
+      },
       "description": "Border-color for jackpot widgets"
     },
     "jackpot-border-2": {
