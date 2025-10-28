@@ -2097,7 +2097,7 @@
     },
     "gradients": {
       "main": {
-        "value": "linear-gradient(124deg, #678CCA 59.59%, rgba(144, 182, 246, 0.00) 89%)",
+        "value": "linear-gradient(124deg, #AF7DF9 58.33%, rgba(144, 182, 246, 0.00) 83.89%)",
         "type": "color",
         "description": "use as additional ui overlay gradient"
       },
@@ -2107,7 +2107,7 @@
         "description": "use as additional ui overlay gradient"
       },
       "additional": {
-        "value": "linear-gradient(124deg, #AF7DF9 58.33%, rgba(144, 182, 246, 0.00) 83.89%)",
+        "value": "linear-gradient(124deg, #678CCA 59.59%, rgba(144, 182, 246, 0.00) 89%)",
         "type": "color",
         "description": "use as additional ui overlay gradient"
       },
