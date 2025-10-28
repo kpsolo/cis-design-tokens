@@ -3505,7 +3505,7 @@
         }
       },
       "error": {
-        "value": "#C20C0F",
+        "value": "#981416",
         "type": "color",
         "description": "Color border for error input"
       },
@@ -3522,7 +3522,7 @@
         "description": "Default backgrounds for inputs"
       },
       "error": {
-        "value": "#C20C0F",
+        "value": "#981416",
         "type": "color",
         "description": "Background for error inputs"
       },
