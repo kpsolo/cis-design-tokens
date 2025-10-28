@@ -1675,7 +1675,7 @@
       "description": "use for popups bg"
     },
     "top-surface": {
-      "value": "#24242C",
+      "value": "{base.light}",
       "type": "color",
       "description": "bg for menu, bottom sheets,dropdown"
     },
