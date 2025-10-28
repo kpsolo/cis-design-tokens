@@ -2152,7 +2152,7 @@
           "description": "bg for winnig now"
         },
         "5": {
-          "value": "#0F192E",
+          "value": "#202225",
           "type": "color",
           "description": "bg for bonus balance card"
         },
@@ -2162,7 +2162,7 @@
           "description": "bg for winnig now - mob"
         },
         "5-additional": {
-          "value": "#0C0C0C",
+          "value": "#202225",
           "type": "color",
           "description": "bg for bonus balance card"
         }
