@@ -4695,7 +4695,7 @@
       "description": "(delete?)"
     },
     "content": {
-      "value": "#E7ECF9",
+      "value": "#e4ebff",
       "type": "color",
       "description": "use for large text blocks\n\n(delete?) Maybe for small items with darker background?(labels, crypto on footer)"
     },
