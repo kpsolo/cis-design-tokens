@@ -5747,8 +5747,17 @@
   "calendar": {
     "bg": {
       "main": {
-        "value": "rgba(113, 158, 250, 0.10)",
+        "value": "#1E232B",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "bg for event calendar widget"
       },
       "main-additional": {
@@ -5766,7 +5775,7 @@
         "description": "bg for calendar button"
       },
       "primary": {
-        "value": "linear-gradient(180deg, #062F97 0%, rgba(6, 47, 151, 0.12) 97%, rgba(6, 47, 151, 0.12) 100%)",
+        "value": "linear-gradient(180deg, #92B4F7 0%, rgba(146, 180, 247, 0.00) 100%)",
         "type": "color",
         "description": "bg for default dates calendar widget"
       },
@@ -5804,34 +5813,25 @@
         "description": "bg for hover badge dates calendar widget"
       },
       "extra": {
-        "value": "#fff",
+        "value": "#819FDB",
         "type": "color",
         "description": "bg for chips active state"
       }
     },
     "border": {
       "main": {
-        "value": "rgba(23, 88, 254, 0.48)",
+        "value": "#699CFF",
         "type": "color",
         "description": "border for event calendar widget"
       },
       "primary": {
-        "value": "#062F97",
+        "value": "#819FDB",
         "type": "color",
         "description": "border for default calendar dates"
       },
       "secondary": {
-        "value": "#fff",
+        "value": "#9fbcf4",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.24",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "border for chips default calendar "
       },
       "tertiaty": {
@@ -5876,7 +5876,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.7",
+              "value": "0.8",
               "space": "srgb"
             }
           }
@@ -5884,12 +5884,12 @@
         "description": "day"
       },
       "tertiary": {
-        "value": "#fff",
+        "value": "#d6e4ff",
         "type": "color",
         "description": "date/chips default"
       },
       "additional": {
-        "value": "#050F28",
+        "value": "#0b0b0b",
         "type": "color",
         "description": "date selected"
       },
