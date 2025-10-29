@@ -2025,7 +2025,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.6",
+              "value": "0.8",
               "space": "srgb"
             }
           }
@@ -2196,7 +2196,7 @@
           "description": "winning now border"
         },
         "4": {
-          "value": "linear-gradient(180deg, #BD0F1B 0%, #000 100%)",
+          "value": "{bg.card.border.main-additional}",
           "type": "color",
           "description": "popup status widget border"
         },
