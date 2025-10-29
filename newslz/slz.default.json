@@ -3415,7 +3415,7 @@
       "description": "Use for show more widget"
     },
     "alternative": {
-      "value": "{base.accent-primary}",
+      "value": "{menu.accent}",
       "type": "color",
       "description": "use for icons in lists (different from accent icons)"
     },
