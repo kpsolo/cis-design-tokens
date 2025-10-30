@@ -1705,17 +1705,8 @@
       "description": "use for popups bg"
     },
     "widget-disabled": {
-      "value": "{bg.widget-default}",
+      "value": "rgba(119, 129, 135, 0.10)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.6",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "for past tournament,lottery"
     },
     "additional-2": {
@@ -1828,7 +1819,7 @@
         "description": "use as accent on light bg - filter in cashdesk"
       },
       "sidebar-desktop": {
-        "value": "#1B1D30",
+        "value": "#24242C",
         "type": "color",
         "description": "color for desktop sidebar"
       },
@@ -1981,7 +1972,7 @@
         "description": "use for active bonus bg in registration popup"
       },
       "6": {
-        "value": "linear-gradient(180deg, rgba(6, 21, 53, 0.00) 0%, rgba(6, 21, 53, 0.60) 44.84%, #061535 100%)",
+        "value": "linear-gradient(180deg, rgba(23, 24, 27, 0.00) 0%, rgba(23, 24, 27, 0.60) 44.84%, #17181B 100%)",
         "type": "color",
         "description": "use for bg under tournament/lottery tabs"
       },
@@ -2052,7 +2043,7 @@
         "description": "Use for game page background on right filter sidebar (under icons)"
       },
       "light-1": {
-        "value": "rgba(210, 229, 255, 0.10)",
+        "value": "rgba(119, 129, 135, 0.15)",
         "type": "color",
         "description": "bg in tournament/lottery under players"
       },
