@@ -3257,7 +3257,7 @@
         "description": "Color of counter for desktop tournament widget"
       },
       "tournament-counter-bg": {
-        "value": "#07142E",
+        "value": "#191A1C",
         "type": "color",
         "description": "bg for tournament counter on desktop widget"
       }
