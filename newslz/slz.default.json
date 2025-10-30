@@ -2182,7 +2182,7 @@
           "description": "1st deopsit card stroke bg"
         },
         "3": {
-          "value": "transparent",
+          "value": "linear-gradient(180deg, rgba(162, 158, 252, 0.00) 0%, #A29EFC 100%)",
           "type": "color",
           "description": "winning now border"
         },
