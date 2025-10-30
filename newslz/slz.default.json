@@ -3610,7 +3610,7 @@
         "description": "Input value text color"
       },
       "accent": {
-        "value": "{base.accent-primary}",
+        "value": "#B930FF",
         "type": "color",
         "description": "Use for active select text"
       },
@@ -4197,7 +4197,7 @@
       "description": "For bg on filter dropdown and language dropdown"
     },
     "dropdown-custom-additional": {
-      "value": "#1C2C50",
+      "value": "{gamepage.bg.additional}",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown for desktop hover state"
     },
