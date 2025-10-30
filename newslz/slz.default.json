@@ -3610,7 +3610,7 @@
         "description": "Input value text color"
       },
       "accent": {
-        "value": "#B930FF",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "Use for active select text"
       },
