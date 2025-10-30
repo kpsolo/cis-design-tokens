@@ -1444,6 +1444,15 @@
     "nav-additional": {
       "value": "linear-gradient(100deg, #95ABF5 20.88%, #B45BEE 91.94%)",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.6",
+            "space": "srgb"
+          }
+        }
+      },
       "description": "for desktop categories border"
     }
   },
@@ -4258,17 +4267,17 @@
     },
     "small-card": {
       "bg": {
-        "value": "linear-gradient(90deg, #153270 1.64%, #081B4D 54.22%, #061232 97.54%)",
+        "value": "linear-gradient(90deg, #B86EF0 3.28%, #E4791B 91.21%)",
         "type": "color",
         "description": "use for bg for bonus widget in desktop header"
       },
       "bg-additional": {
-        "value": "linear-gradient(90deg, #275CCB 1.64%, #081B4D 54.22%, #061232 97.54%)",
+        "value": "linear-gradient(90deg, #E4791B 3.28%, #B86EF0 91.21%)",
         "type": "color",
         "description": "use for bg hover state for bonus widget in desktop header"
       },
       "border": {
-        "value": "#102B6C",
+        "value": "linear-gradient(90deg, #B86EF0 3.28%, #E4791B 91.21%)",
         "type": "color",
         "description": "use for stroke for bonus widget in desktop header"
       }
@@ -4612,7 +4621,7 @@
         "type": "color"
       },
       "top-desktop": {
-        "value": "#03112E",
+        "value": "#202125",
         "type": "color",
         "description": "bg header on top for desktop"
       },
