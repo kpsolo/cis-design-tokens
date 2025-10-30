@@ -2428,12 +2428,21 @@
       "description": "text for live icon"
     },
     "timer-bg": {
-      "value": "linear-gradient(180deg, rgba(108, 164, 216, 0.81) 0%, rgba(92, 141, 187, 0.78) 31.25%, rgba(68, 123, 174, 0.85) 63.54%, rgba(82, 122, 160, 0.63) 100%)",
+      "value": "#000000",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.6",
+            "space": "srgb"
+          }
+        }
+      },
       "description": "bg for timer"
     },
     "empty-ball": {
-      "value": "linear-gradient(180deg, rgba(86, 116, 160, 0.40) 0%, rgba(122, 136, 186, 0.40) 57.33%, rgba(119, 139, 187, 0.34) 91.08%, rgba(116, 162, 206, 0.40) 100%)",
+      "value": "#070A0D",
       "type": "color",
       "description": "bg for empty ball"
     },
