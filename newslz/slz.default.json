@@ -1515,7 +1515,7 @@
       "description": "Radius for thumbs"
     },
     "navbar": {
-      "value": "16px",
+      "value": "6px",
       "type": "borderRadius",
       "description": "use for navbar on main page"
     },
