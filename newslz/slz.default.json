@@ -1892,7 +1892,7 @@
         "description": "bg.other.lootboxes-cof-selected"
       },
       "categories-nav": {
-        "value": "rgba(104, 146, 238, 0.08)",
+        "value": "#191B20",
         "type": "color",
         "description": "Background foe categories on desktop"
       },
@@ -4558,12 +4558,12 @@
   "categories": {
     "bg": {
       "main": {
-        "value": "{bg.other.categories-nav}",
+        "value": "#191B20",
         "type": "color",
         "description": "use for games navigation in mob "
       },
       "additional": {
-        "value": "{bg.other.categories-nav}",
+        "value": "#191B20",
         "type": "color",
         "description": "use for search bg in categories"
       },
