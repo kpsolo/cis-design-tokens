@@ -2863,7 +2863,7 @@
         "description": "Color for label thumb"
       },
       "label-thumb-top": {
-        "value": "linear-gradient(110deg, #EBF1FF 8.57%, #6F68EF 85.18%)",
+        "value": "linear-gradient(90deg, #B86EF0 3.28%, #E4791B 91.21%)",
         "type": "color",
         "description": "Color for label thumb - tournmament"
       },
