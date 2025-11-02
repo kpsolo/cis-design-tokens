@@ -3569,12 +3569,12 @@
         "description": "Backgrounds for confirmed inputs"
       },
       "accent": {
-        "value": "rgba(148, 179, 250, 0.20)",
+        "value": "rgba(148, 179, 250, 0.08)",
         "type": "color",
         "description": "bg for selected item in dropdown (currency registration)"
       },
       "hover": {
-        "value": "#F3F3F3",
+        "value": "rgba(148, 179, 250, 0.10)",
         "type": "color",
         "description": "background for hover state in dropdown items (currency)"
       }
@@ -4216,7 +4216,7 @@
       "description": "for jackpot sun in jackpot page"
     },
     "dropdown-custom-fade": {
-      "value": "linear-gradient(180deg, rgba(36, 36, 44, 0.00) 0%, #24242C 100%)",
+      "value": "linear-gradient(180deg, rgba(36, 36, 44, 0.00) 0%, #24242C 75.59%)",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
