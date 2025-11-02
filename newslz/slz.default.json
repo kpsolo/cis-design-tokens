@@ -2996,7 +2996,7 @@
       }
     },
     "progressbar-large": {
-      "value": "{small-elements.progressbar}",
+      "value": "#7523AB",
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
     },
