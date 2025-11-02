@@ -4197,7 +4197,7 @@
       "description": "For bg on filter dropdown and language dropdown"
     },
     "dropdown-custom-additional": {
-      "value": "#303846",
+      "value": "#2A3240",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown for desktop hover state"
     },
