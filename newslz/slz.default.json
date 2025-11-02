@@ -1442,17 +1442,8 @@
       "description": "for mob navigation"
     },
     "nav-additional": {
-      "value": "linear-gradient(100deg, #95ABF5 20.88%, #B45BEE 91.94%)",
+      "value": "linear-gradient(100deg, rgba(149, 171, 245, 0.60) 24.48%, rgba(180, 91, 238, 0.60) 86.76%)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.6",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "for desktop categories border"
     }
   },
@@ -4201,12 +4192,12 @@
       "description": "for referral cards numbers"
     },
     "dropdown-custom": {
-      "value": "#1F1F1F",
+      "value": "#1E242F",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
     "dropdown-custom-additional": {
-      "value": "{gamepage.bg.additional}",
+      "value": "#303846",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown for desktop hover state"
     },
