@@ -1824,7 +1824,7 @@
         "description": "color for desktop sidebar"
       },
       "sidebar-desktop-additional": {
-        "value": "{bg.other.sidebar-desktop}",
+        "value": "#2F2F39",
         "type": "color",
         "description": "bg for bonus card in desktop sidebar"
       },
@@ -2381,7 +2381,7 @@
       "description": "Indication of unsuccess transactions"
     },
     "warning": {
-      "value": "#E6BA59",
+      "value": "#FFAE00",
       "type": "color",
       "description": "Indication of warning"
     },
