@@ -4335,18 +4335,18 @@
           "description": "border for win card"
         },
         "achievements": {
-          "value": "linear-gradient(148deg, rgba(32, 109, 174, 0.40) 15.68%, rgba(32, 109, 174, 0.20) 38.76%, rgba(32, 109, 174, 0.00) 55.25%)",
+          "value": "#9BB4F7",
           "type": "color",
           "description": "border for win card"
         },
         "achievements-additional": {
-          "value": "#1E619A",
+          "value": "{special-blocks.achievements.border.achievements}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.4",
+                "value": "0.7",
                 "space": "srgb"
               }
             }
@@ -4415,7 +4415,7 @@
         "description": "fill for line in first screen"
       },
       "bg-progressbar": {
-        "value": "rgba(255, 255, 255, 0.08)",
+        "value": "rgba(255, 255, 255, 0.16)",
         "type": "color",
         "description": "for progrees bar bg"
       },
@@ -4467,7 +4467,7 @@
           "description": "card first deposit bg in main screen"
         },
         "4": {
-          "value": "linear-gradient(158deg, #1E619A 21.57%, rgba(30, 97, 154, 0.43) 48.78%, #1B5484 70.15%)",
+          "value": "linear-gradient(158deg, #68458D 26.45%, #2F4C99 66.69%)",
           "type": "color",
           "description": "bg for achievements cards"
         },
