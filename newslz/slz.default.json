@@ -4375,11 +4375,11 @@
         }
       },
       "popup-2": {
-        "value": "linear-gradient(180deg, #3B135B 0%, #3B135B 100%)",
+        "value": "{bg.popup}",
         "type": "color"
       },
       "popup-1": {
-        "value": "linear-gradient(180deg, #132464 0%, #121B52 100%)",
+        "value": "{bg.popup}",
         "type": "color"
       },
       "gradient": {
