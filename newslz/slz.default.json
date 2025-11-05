@@ -4394,7 +4394,7 @@
           "description": "gradient for win cards zone"
         },
         "achievements": {
-          "value": "rgba(21, 152, 192, 0.20)",
+          "value": "transparent",
           "type": "color",
           "description": "gradeint for achievements cards zone "
         },
