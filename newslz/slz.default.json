@@ -4335,7 +4335,7 @@
           "description": "border for win card"
         },
         "achievements": {
-          "value": "#9BB4F7",
+          "value": "transparent",
           "type": "color",
           "description": "border for win card"
         },
@@ -4364,12 +4364,12 @@
           "description": "use as stroke in first deposit widget"
         },
         "main-last": {
-          "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)",
+          "value": "transparent",
           "type": "color",
           "description": "use as stroke in last achievements cards "
         },
         "main-progress": {
-          "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)",
+          "value": "transparent",
           "type": "color",
           "description": "use as stroke in progress achievements cards "
         }
@@ -4404,7 +4404,7 @@
           "description": "for empty cards zone"
         },
         "empty-additional": {
-          "value": "linear-gradient(89deg, rgba(23, 35, 99, 0.87) 0.81%, rgba(27, 41, 112, 0.87) 63.22%, rgba(23, 33, 87, 0.00) 99.19%);",
+          "value": "{special-blocks.achievements.overlay.4}",
           "type": "color",
           "description": "for empty cards zone / desktop"
         }
@@ -4452,12 +4452,12 @@
       },
       "card": {
         "1": {
-          "value": "linear-gradient(148deg, rgba(117, 44, 194, 0.54) 20.63%, rgba(117, 44, 194, 0.20) 40.38%, rgba(117, 44, 194, 0.10) 54.49%)",
+          "value": "linear-gradient(172deg, rgba(179, 110, 246, 0.60) 9.28%, rgba(179, 110, 246, 0.16) 90.72%)",
           "type": "color",
           "description": "in progress cards bg in main screen"
         },
         "2": {
-          "value": "linear-gradient(148deg, rgba(18, 70, 172, 0.50) 15.68%, rgba(18, 70, 172, 0.20) 38.76%, rgba(12, 46, 114, 0.10) 92.79%)",
+          "value": "{special-blocks.achievements.card.4}",
           "type": "color",
           "description": "last cards bg in main screen"
         },
