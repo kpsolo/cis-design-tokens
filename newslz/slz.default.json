@@ -5657,12 +5657,12 @@
         "description": "use for dropdown"
       },
       "overlay-additional": {
-        "value": "linear-gradient(270deg, #162B57 0%, rgba(22, 43, 87, 0.34) 48.5%, rgba(37, 45, 64, 0.00) 100%)",
+        "value": "linear-gradient(270deg, #24242C 0%, rgba(36, 36, 44, 0.60) 48.5%, rgba(36, 36, 44, 0.00) 100%)",
         "type": "color",
         "description": "use for bg under prizes"
       },
       "overlay-gradient": {
-        "value": "linear-gradient(180deg, rgba(2, 16, 44, 0.00) 0%, rgba(2, 16, 44, 0.00) 67%, #02102C 100%)",
+        "value": "linear-gradient(180deg, rgba(23, 24, 27, 0.00) 0%, rgba(23, 24, 27, 0.00) 67%, #17181B 100%)",
         "type": "color",
         "description": "use as overlay under tabs"
       }
@@ -5676,7 +5676,7 @@
     },
     "border": {
       "item": {
-        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #C2A4F7 0%, #8E57EF 100%)",
         "type": "color",
         "description": "use as stroke for dropdown"
       }
