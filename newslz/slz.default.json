@@ -4330,7 +4330,7 @@
           "description": "border for activity card"
         },
         "win": {
-          "value": "linear-gradient(158deg, #8514E8 15.68%, rgba(122, 20, 213, 0.43) 48.53%, #6C12BC 74.32%)",
+          "value": "rgba(179, 110, 246, 0.60)",
           "type": "color",
           "description": "border for win card"
         },
@@ -4384,12 +4384,12 @@
       },
       "gradient": {
         "activity": {
-          "value": "rgba(21, 78, 192, 0.30)",
+          "value": "rgba(108, 138, 219, 0.30)",
           "type": "color",
           "description": "radial for activity cards zone"
         },
         "win": {
-          "value": "rgba(152, 180, 254, 0.30)",
+          "value": "rgba(144, 64, 221, 0.30)",
           "type": "color",
           "description": "gradient for win cards zone"
         },
@@ -4477,7 +4477,7 @@
           "description": "bg for activity cards"
         },
         "6": {
-          "value": "linear-gradient(132deg, rgba(140, 49, 144, 0.54) 11.58%, rgba(122, 42, 126, 0.16) 38.1%, rgba(138, 52, 143, 0.00) 58.12%)",
+          "value": "linear-gradient(133deg, rgba(179, 110, 246, 0.60) 3.21%, rgba(179, 110, 246, 0.16) 48.73%, rgba(179, 110, 246, 0.00) 96.79%)",
           "type": "color",
           "description": "bg for win cards"
         }
