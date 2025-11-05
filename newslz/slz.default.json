@@ -4325,7 +4325,7 @@
     "achievements": {
       "border": {
         "activity": {
-          "value": "linear-gradient(158deg, #144DC0 26.45%, rgba(20, 77, 192, 0.30) 48.99%, #144DC0 66.69%)",
+          "value": "rgba(134, 165, 235, 0.60)",
           "type": "color",
           "description": "border for activity card"
         },
@@ -4389,7 +4389,7 @@
           "description": "radial for activity cards zone"
         },
         "win": {
-          "value": "rgba(235, 13, 255, 0.16)",
+          "value": "rgba(152, 180, 254, 0.30)",
           "type": "color",
           "description": "gradient for win cards zone"
         },
@@ -4440,12 +4440,12 @@
           "description": "for bg under 1st desposit in second state"
         },
         "3": {
-          "value": "#09245A",
+          "value": "#202225",
           "type": "color",
           "description": "for empty last card"
         },
         "4": {
-          "value": "linear-gradient(90deg, rgba(23, 33, 87, 0.70) 0.31%, rgba(23, 33, 87, 0.00) 98.6%)",
+          "value": "linear-gradient(90deg, #202225 0.31%, rgba(32, 34, 37, 0.00) 98.6%)",
           "type": "color",
           "description": "for empty progress cards"
         }
@@ -4472,7 +4472,7 @@
           "description": "bg for achievements cards"
         },
         "5": {
-          "value": "linear-gradient(133deg, rgba(21, 78, 192, 0.40) 12.17%, rgba(21, 78, 192, 0.16) 41.06%, rgba(21, 78, 192, 0.00) 63.64%)",
+          "value": "linear-gradient(133deg, rgba(134, 165, 235, 0.60) 1.63%, rgba(134, 165, 235, 0.16) 48.69%, rgba(134, 165, 235, 0.00) 98.37%)",
           "type": "color",
           "description": "bg for activity cards"
         },
