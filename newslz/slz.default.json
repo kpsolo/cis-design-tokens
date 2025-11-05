@@ -4354,7 +4354,7 @@
           "description": "separatoe in achievements card (for progress)"
         },
         "main": {
-          "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)",
+          "value": "{bg.card.border.main}",
           "type": "color",
           "description": "use as stroke in last/progress achievements cards and info card"
         },
@@ -4435,17 +4435,8 @@
           "description": "for bg under icons in achievement info block"
         },
         "2": {
-          "value": "#38437C",
+          "value": "{bg.other.status-bg}",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.2",
-                "space": "srgb"
-              }
-            }
-          },
           "description": "for bg under 1st desposit in second state"
         },
         "3": {
