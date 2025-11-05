@@ -4435,7 +4435,7 @@
           "description": "for bg under icons in achievement info block"
         },
         "2": {
-          "value": "{bg.other.status-bg}",
+          "value": "#2A2F36",
           "type": "color",
           "description": "for bg under 1st desposit in second state"
         },
