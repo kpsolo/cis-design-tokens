@@ -4340,7 +4340,7 @@
           "description": "border for win card"
         },
         "achievements-additional": {
-          "value": "{special-blocks.achievements.border.achievements}",
+          "value": "{special-blocks.achievements.border.activity}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
