@@ -1521,7 +1521,7 @@
       "description": "use for prize item in tournament/lotery page "
     },
     "button": {
-      "value": "100px",
+      "value": "12px",
       "type": "borderRadius",
       "description": "Radius for buttons"
     },
