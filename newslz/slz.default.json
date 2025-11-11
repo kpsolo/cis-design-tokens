@@ -4883,7 +4883,7 @@
         "description": "use for banner bg for unlogged "
       },
       "header": {
-        "value": "rgba(34, 34, 34, 0.00) 100%)",
+        "value": "{menu.bg.main}",
         "type": "color",
         "description": "use for header bg for unlogged "
       },
