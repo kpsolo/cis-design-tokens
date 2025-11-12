@@ -4840,7 +4840,7 @@
         "description": "use in shop cards"
       },
       "extra": {
-        "value": "{text.title.additional}",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "welcome bonus popup accent color"
       },
