@@ -2499,17 +2499,8 @@
         "description": "Background for primary buttons"
       },
       "primary-hover": {
-        "value": "{button.bg.primary}",
+        "value": "linear-gradient(0deg, #7B1BB0 0%, #AC26C0 48.45%, #D469FF 80%)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.16",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for primary buttons hover"
       },
       "primary-pressed": {
@@ -2547,7 +2538,7 @@
         "description": "Background for secondary buttons"
       },
       "secondary-hover": {
-        "value": "linear-gradient(96deg, #6954F5 0%, #95BEFF 97.02%)",
+        "value": "linear-gradient(180deg, #DC3D57 0%, #E0941A 44.6%, #FFAE85 100%)",
         "type": "color",
         "description": "Background for secondary buttons hover"
       },
@@ -2673,7 +2664,7 @@
         "description": "border color for buttons disabled"
       },
       "ghost": {
-        "value": "{button.text.light-bg}",
+        "value": "#DF8D1F",
         "type": "color",
         "description": "border color for ghost buttons (use in menu)"
       },
@@ -2795,17 +2786,17 @@
     },
     "text": {
       "primary": {
-        "value": "#17181B",
+        "value": "{base.light}",
         "type": "color",
         "description": "Text color on primary button"
       },
       "secondary": {
-        "value": "#17181B",
+        "value": "{base.light}",
         "type": "color",
         "description": "Text color on secondary button"
       },
       "light-bg": {
-        "value": "#95BEFF",
+        "value": "#DF8D1F",
         "type": "color",
         "description": "Text color for buttons on light bg (notification)"
       },
@@ -2815,7 +2806,7 @@
         "description": "color on tertiary buttons"
       },
       "ghost": {
-        "value": "#95BEFF",
+        "value": "#DF8D1F",
         "type": "color",
         "description": "color on ghost buttons"
       },
