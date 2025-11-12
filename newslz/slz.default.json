@@ -1657,7 +1657,7 @@
     "technical": {
       "value": "{bg.additional}",
       "type": "color",
-      "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
+      "description": "for set by admin (card of collection,deals, tournament, lottery,news))"
     },
     "additional": {
       "value": "#24242C",
