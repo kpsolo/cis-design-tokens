@@ -2882,7 +2882,7 @@
         "description": "Color of counter on header of game block"
       },
       "label-thumb-text": {
-        "value": "{base.dark}",
+        "value": "{base.light}",
         "type": "color",
         "description": "Color for label thumb"
       }
