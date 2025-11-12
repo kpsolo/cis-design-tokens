@@ -604,14 +604,24 @@
       "description": "Shadow for drop downs, modals,notifications"
     },
     "button": {
-      "value": {
-        "color": "#27272733",
-        "type": "dropShadow",
-        "x": "0",
-        "y": "2",
-        "blur": "8",
-        "spread": "0"
-      },
+      "value": [
+        {
+          "color": "#27272733",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "2",
+          "blur": "8",
+          "spread": "0"
+        },
+        {
+          "x": "0",
+          "y": "3",
+          "blur": "3",
+          "spread": "0",
+          "color": "rgba(231, 164, 255, 0.40)",
+          "type": "innerShadow"
+        }
+      ],
       "type": "boxShadow",
       "description": "Shadow for button"
     },
@@ -1521,7 +1531,7 @@
       "description": "use for prize item in tournament/lotery page "
     },
     "button": {
-      "value": "12px",
+      "value": "8px",
       "type": "borderRadius",
       "description": "Radius for buttons"
     },
@@ -2484,7 +2494,7 @@
   "button": {
     "bg": {
       "primary": {
-        "value": "linear-gradient(96deg, #95BEFF 1.87%, #BF54F5 97.02%)",
+        "value": "linear-gradient(0deg, #7B1BB0 0%, #AC26C0 48.45%, #D469FF 104.64%)",
         "type": "color",
         "description": "Background for primary buttons"
       },
@@ -2532,7 +2542,7 @@
         "description": "Background for tertiary buttons disabled"
       },
       "secondary": {
-        "value": "#92B4F7",
+        "value": "linear-gradient(180deg, #FFAE85 0%, #E0941A 47.03%, #C31881 129.69%)",
         "type": "color",
         "description": "Background for secondary buttons"
       },
@@ -2734,7 +2744,7 @@
         "description": "border color for buttons disabled"
       },
       "primary": {
-        "value": "linear-gradient(174deg, #C9A9FF 4.21%, #752FF2 95.56%)",
+        "value": "transparent",
         "type": "color",
         "description": "border color for primary buttons  default"
       },
@@ -2754,7 +2764,7 @@
         "description": "border color for primary buttons disabled state"
       },
       "secondary": {
-        "value": "linear-gradient(95deg, #CEE1FF 4.02%, #8373F1 96.71%)",
+        "value": "transparent",
         "type": "color",
         "description": "border color for secondary buttons default state"
       },
