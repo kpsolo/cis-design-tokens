@@ -2477,7 +2477,7 @@
       "button": {
         "value": "#ffffff",
         "type": "color",
-        "description": "use for deposit buttton color on mob/desktopp navbar "
+        "description": "use for deposit buttton color on mob/desktopp navbar ;."
       },
       "button-icon": {
         "value": "#02102C",
