@@ -3496,7 +3496,7 @@
         "description": "Border color for default inputs"
       },
       "focus": {
-        "value": "{base.accent-primary}",
+        "value": "{small-elements.badge.1}",
         "type": "color",
         "description": "Color border for focused input"
       },
