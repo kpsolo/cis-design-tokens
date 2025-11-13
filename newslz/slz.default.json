@@ -5744,21 +5744,12 @@
         "description": "bg for event calendar widget"
       },
       "main-additional": {
-        "value": "#8DADFF",
+        "value": "rgba(255, 169, 99, 0.40)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.3",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "bg for calendar button"
       },
       "primary": {
-        "value": "linear-gradient(180deg, #92B4F7 0%, rgba(146, 180, 247, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #DF7B2D 0%, rgba(223, 123, 45, 0.00) 100%)",
         "type": "color",
         "description": "bg for default dates calendar widget"
       },
@@ -5796,24 +5787,24 @@
         "description": "bg for hover badge dates calendar widget"
       },
       "extra": {
-        "value": "#819FDB",
+        "value": "#FF9945",
         "type": "color",
         "description": "bg for chips active state"
       }
     },
     "border": {
       "main": {
-        "value": "#699CFF",
+        "value": "#DF7C2B",
         "type": "color",
         "description": "border for event calendar widget"
       },
       "primary": {
-        "value": "#819FDB",
+        "value": "#FF9945",
         "type": "color",
         "description": "border for default calendar dates"
       },
       "secondary": {
-        "value": "#9fbcf4",
+        "value": "#FF9945",
         "type": "color",
         "description": "border for chips default calendar "
       },
