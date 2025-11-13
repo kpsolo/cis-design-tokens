@@ -2356,7 +2356,7 @@
       "description": "Lighttest (white)"
     },
     "accent-primary": {
-      "value": "#FFBE57",
+      "value": "#FFA057",
       "type": "color",
       "description": "Background for accent elements"
     },
