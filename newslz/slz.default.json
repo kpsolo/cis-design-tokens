@@ -2356,17 +2356,17 @@
       "description": "Lighttest (white)"
     },
     "accent-primary": {
-      "value": "#E0A4FF",
+      "value": "#FFBE57",
       "type": "color",
       "description": "Background for accent elements"
     },
     "accent-secondary": {
-      "value": "#E0A4FF",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "Background for tertiary elements"
     },
     "accent-tertiary": {
-      "value": "#E0A4FF",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "Background for tertiary elements"
     },
