@@ -4894,7 +4894,7 @@
         "description": "use as bg in menu info zone"
       },
       "notification": {
-        "value": "#6954F5",
+        "value": "{small-elements.badge.1}",
         "type": "color",
         "description": "use for special notification in menu items"
       },
@@ -4910,7 +4910,7 @@
       "description": "for menu item icon/text active state"
     },
     "accent": {
-      "value": "{text.link}",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
     },
