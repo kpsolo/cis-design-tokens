@@ -2765,17 +2765,8 @@
         "description": "border color for secondary buttons pressed state"
       },
       "secondary-hover": {
-        "value": "{button.bg.secondary}",
+        "value": "transparent",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.2",
-              "space": "lch"
-            }
-          }
-        },
         "description": "border color for secondary buttons hover"
       },
       "secondary-disabled": {
