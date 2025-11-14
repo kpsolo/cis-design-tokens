@@ -2765,7 +2765,7 @@
         "description": "border color for secondary buttons pressed state"
       },
       "secondary-hover": {
-        "value": "transparent",
+        "value": "#f00",
         "type": "color",
         "description": "border color for secondary buttons hover"
       },
