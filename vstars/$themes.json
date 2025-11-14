@@ -1,7 +1,7 @@
 [
   {
     "id": "0f28d5163562d1b317e727ed7db2c707ecad5681",
-    "name": "slz",
+    "name": "vstars",
     "$figmaStyleReferences": {
       "border.popup": "S:63f03040a2f3028bc73a2f097e3af3aaca327406,",
       "border.popup-additional": "S:a16a4352642043281972b6f5a0f816568b0e0b40,",
@@ -644,7 +644,7 @@
       "shadow.nav-desktop": "S:9689737fb04855faec2dff3ff15ff82a935a7100,"
     },
     "selectedTokenSets": {
-      "slz.default": "enabled"
+      "vstars.default": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:57716:4480450",
     "$figmaModeId": "57716:0",
@@ -786,6 +786,7 @@
       "Padding.button.large-vertical": "56757529a7b6883346d23a2809b531bf98d5736f",
       "Padding.button.small-vertical": "23d950c8012ef2cb08c52f831b08fbcf37bb2082",
       "Padding.button.x-small-vertical": "4f1d3c2c8b8e3a900d94a615bd9453b9dd3fa46f"
-    }
+    },
+    "group": "VS"
   }
 ]
