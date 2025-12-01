@@ -3637,7 +3637,8 @@
   "min-width": {
     "game-item-block": {
       "value": "122px",
-      "type": "sizing"
+      "type": "sizing",
+      "description": "test comment [!]"
     },
     "button": {
       "value": "64px",
