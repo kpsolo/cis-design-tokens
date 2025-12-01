@@ -2653,7 +2653,7 @@
     },
     "prize": {
       "type1": {
-        "value": "#F3B464",
+        "value": "#FFD485",
         "type": "color",
         "description": "[delete?]"
       },
@@ -3679,7 +3679,7 @@
     },
     "prize": {
       "type1": {
-        "value": "#F3B464",
+        "value": "#FFD485",
         "type": "color",
         "description": "use for 1 prize in tournament/lottery winners list\n[delete?]"
       },
