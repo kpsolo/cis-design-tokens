@@ -3638,7 +3638,7 @@
     "game-item-block": {
       "value": "122px",
       "type": "sizing",
-      "description": "test comment [!]"
+      "description": "test comment "
     },
     "button": {
       "value": "64px",
