@@ -5230,17 +5230,8 @@
     },
     "tip": {
       "hover": {
-        "value": "#ffffff",
+        "value": "linear-gradient(90deg, #292789 0%, #5451E6 60.25%)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use as bg for denominations bet item hover state"
       },
       "active": {
