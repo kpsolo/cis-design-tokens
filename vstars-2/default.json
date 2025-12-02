@@ -5244,17 +5244,8 @@
         "description": "use as bg for denominations bet item hover state"
       },
       "active": {
-        "value": "#6892EE",
+        "value": "linear-gradient(90deg, #292789 0%, #5451E6 100%)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.08",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use as bg for denominations bet item active state"
       },
       "inactive": {
