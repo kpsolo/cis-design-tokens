@@ -397,10 +397,10 @@
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "36px",
-        "fontSize": "32px"
+        "fontSize": "36px"
       },
       "type": "typography",
-      "description": "Email header"
+      "description": "Tournament sum (prize)"
     },
     "title-2": {
       "value": {
