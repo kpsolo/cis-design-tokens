@@ -3393,7 +3393,7 @@
       "description": "Color for error icon"
     },
     "ghost-3": {
-      "value": "#8C9BC2",
+      "value": "#AFBFE9",
       "type": "color",
       "description": "For light icons on color background or picture- footer app buttons, icons on menu top part,header.collection cards, tournament/lottery inner card, messages picture"
     },
