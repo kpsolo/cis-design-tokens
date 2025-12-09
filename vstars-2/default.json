@@ -2432,7 +2432,7 @@
         "description": "Use for bottom navbar on mainpage mob"
       },
       "button": {
-        "value": "#009FE6",
+        "value": "#D11E1E",
         "type": "color",
         "description": "use for deposit buttton color on mob/desktopp navbar ;."
       },
