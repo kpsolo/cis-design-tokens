@@ -4864,7 +4864,7 @@
       "description": "Color of icon and text inside active item menu"
     },
     "item-default": {
-      "value": "#DDDEFF",
+      "value": "#8C9BC2",
       "type": "color",
       "description": "for menu items text/icon default state"
     },
