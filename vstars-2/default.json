@@ -3344,7 +3344,7 @@
       "description": "menu, bottom sheet"
     },
     "primary": {
-      "value": "{base.primary}",
+      "value": "#8C9BC2",
       "type": "color",
       "description": "use for categories"
     },
