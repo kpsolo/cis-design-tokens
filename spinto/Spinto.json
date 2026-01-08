@@ -1267,7 +1267,7 @@
       "description": "use for elements with large radius ( button in footer, gold tickets in lottery)"
     },
     "live-lottery-tips": {
-      "value": "12px",
+      "value": "8px",
       "type": "borderRadius",
       "description": "use for small tips on final lottery "
     },
