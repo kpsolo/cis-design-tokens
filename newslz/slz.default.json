@@ -5175,17 +5175,17 @@
         "description": "use for switcher active bg"
       },
       "sector-2": {
-        "value": "radial-gradient(50% 50% at 50% 50%, #E9E8E8 0%, #FBFBFB 100%)",
+        "value": "radial-gradient(50% 50% at 50% 50%, #7F8EEA 0%, #6C79C4 18.5%, #616DB0 29.66%, #4A5281 43.71%, #17181B 100%)",
         "type": "color",
         "description": "use for sectors bg (type1) - start"
       },
       "sector-3": {
-        "value": "radial-gradient(50% 50% at 50% 50%, #122650 0%, #18355F 13%, #214B77 32.96%, #3885B2 76%, #449ECB 100%)",
+        "value": "radial-gradient(50% 50% at 50% 50%, #B373F7 0%, #B275F8 13%, #B07EF9 32.96%, #AB8BFA 76%, #A792FB 100%)",
         "type": "color",
         "description": "use for sectors bg (type3) - win sector - start"
       },
       "sector-1": {
-        "value": "radial-gradient(50% 50% at 50% 50%, #69040B 0%, #7C060E 18.5%, #8A0811 29.66%, #970A14 43.71%, #BF121E 100%)",
+        "value": "radial-gradient(50% 50% at 50% 50%, #7F8EEA 0%, #6C79C4 18.5%, #616DB0 29.66%, #4A5281 43.71%, #17181B 100%)",
         "type": "color",
         "description": "use for sectors (not white)"
       },
