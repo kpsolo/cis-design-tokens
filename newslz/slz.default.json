@@ -2494,7 +2494,7 @@
   "button": {
     "bg": {
       "primary": {
-        "value": "linear-gradient(0deg, #821FB8 0%, #BD26D3 48.45%, #D261FF 100%)",
+        "value": "linear-gradient(0deg, rgba(130, 31, 184, 1) 0%, rgba(189, 38, 211, 1) 48.45%, rgba(210, 97, 255, 1) 100%)",
         "type": "color",
         "description": "Background for primary buttons"
       },
