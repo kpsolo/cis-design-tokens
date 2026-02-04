@@ -2506,15 +2506,6 @@
       "primary-pressed": {
         "value": "{button.bg.primary}",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.20",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for primary pressed"
       },
       "primary-disabled-additional": {
@@ -2545,15 +2536,6 @@
       "secondary-pressed": {
         "value": "{button.bg.secondary}",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for secondary buttons pressed"
       },
       "secondary-disabled": {
