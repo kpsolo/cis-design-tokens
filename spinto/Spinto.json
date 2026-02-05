@@ -1496,6 +1496,11 @@
         "value": "{bg.other.sidebar-game}",
         "type": "color",
         "description": "Bg for right sidebar on gamepage (desktop)"
+      },
+      "smart-banner": {
+        "value": "linear-gradient(96deg, #240D47 8%, #4C0C6B 61%)",
+        "type": "color",
+        "description": "Bg for right sidebar on gamepage (desktop)"
       }
     },
     "overlay": {
