@@ -13,8 +13,8 @@
     },
     "caption-extrasmall-strong": {
       "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.2}",
+        "fontFamily": "{font-family.additional}",
+        "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.sm}",
         "fontSize": "{font-size.2}"
       },
@@ -155,7 +155,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.xs}",
-        "fontSize": "{font-size.3}"
+        "fontSize": "{font-size.2}"
       },
       "type": "typography"
     },
@@ -196,7 +196,7 @@
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.4}",
-        "textDecoration": "{text-decoration.underline}"
+        "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
       "description": "Link text"
@@ -245,7 +245,7 @@
       "value": {
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.1}",
-        "lineHeight": "{line-height.1}",
+        "lineHeight": "{line-height.2}",
         "fontSize": "{font-size.5}"
       },
       "type": "typography",
@@ -528,9 +528,9 @@
         {
           "x": "0",
           "y": "1",
-          "blur": "0",
+          "blur": "2",
           "spread": "0",
-          "color": "rgba(224, 164, 255, 0.60)",
+          "color": "#96142A",
           "type": "innerShadow"
         }
       ],
@@ -540,10 +540,10 @@
     "card": {
       "value": {
         "x": "0",
-        "y": "2",
-        "blur": "4",
+        "y": "4",
+        "blur": "8",
         "spread": "0",
-        "color": "rgba(0, 0, 0, 0.40)",
+        "color": "rgba(1, 9, 31, 0.40)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -556,7 +556,7 @@
           "y": "4",
           "blur": "8",
           "spread": "0",
-          "color": "rgba(10, 10, 10, 0.40)",
+          "color": "rgba(1, 9, 31, 0.40)",
           "type": "dropShadow"
         }
       ],
@@ -604,24 +604,14 @@
       "description": "Shadow for drop downs, modals,notifications"
     },
     "button": {
-      "value": [
-        {
-          "color": "#27272733",
-          "type": "dropShadow",
-          "x": "0",
-          "y": "2",
-          "blur": "8",
-          "spread": "0"
-        },
-        {
-          "x": "0",
-          "y": "3",
-          "blur": "3",
-          "spread": "0",
-          "color": "rgba(231, 164, 255, 0.40)",
-          "type": "innerShadow"
-        }
-      ],
+      "value": {
+        "color": "#27272733",
+        "type": "dropShadow",
+        "x": "0",
+        "y": "2",
+        "blur": "8",
+        "spread": "0"
+      },
       "type": "boxShadow",
       "description": "Shadow for button"
     },
@@ -678,7 +668,7 @@
           "y": "0",
           "blur": "4",
           "spread": "",
-          "color": "#D688FF",
+          "color": "#D7A800",
           "type": "dropShadow"
         }
       ],
@@ -810,7 +800,7 @@
           "y": "1",
           "blur": "0",
           "spread": "0",
-          "color": "#94ABF4",
+          "color": "rgba(185, 17, 28, 0.40)",
           "type": "dropShadow"
         },
         "type": "boxShadow",
@@ -1283,7 +1273,7 @@
     },
     "input-disabled": {
       "value": {
-        "color": "#445282",
+        "color": "{input.border.disabled}",
         "width": "{border-width.input}",
         "style": "solid"
       },
@@ -1307,11 +1297,12 @@
     },
     "input-default": {
       "value": {
-        "color": "#445282",
+        "color": "transparent",
         "width": "{border-width.input}",
         "style": "solid"
       },
-      "type": "border"
+      "type": "border",
+      "description": "use for light theme inputs"
     },
     "special-blocks": {
       "jackpot-border": {
@@ -1340,7 +1331,7 @@
     },
     "dropdown": {
       "value": {
-        "color": "#445282",
+        "color": "rgba(255, 255, 255, 0.08)",
         "width": "1px",
         "style": "solid"
       },
@@ -1438,21 +1429,21 @@
       "description": "use for border in 1st deposit card"
     },
     "popup": {
-      "value": "linear-gradient(328deg, rgba(255, 255, 255, 0.00) 19.19%, rgba(149, 171, 245, 0.30) 80.81%)",
+      "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)",
       "type": "color"
     },
     "popup-additional": {
-      "value": "{border.popup}",
+      "value": "rgba(255, 255, 255, 0.10)",
       "type": "color",
       "description": "for ptofile popup desktop (without gradient!)"
     },
     "nav": {
-      "value": "linear-gradient(100deg, #95ABF5 20.88%, #B45BEE 91.94%)",
+      "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.00) 100%)",
       "type": "color",
       "description": "for mob navigation"
     },
     "nav-additional": {
-      "value": "linear-gradient(100deg, rgba(149, 171, 245, 0.60) 24.48%, rgba(180, 91, 238, 0.60) 86.76%)",
+      "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0.07) 100%)",
       "type": "color",
       "description": "for desktop categories border"
     }
@@ -1501,22 +1492,22 @@
   },
   "radius": {
     "card": {
-      "value": "4px",
+      "value": "12px",
       "type": "borderRadius",
       "description": "Radius for cards amd widgets"
     },
     "card-extra": {
-      "value": "4px",
+      "value": "13px",
       "type": "borderRadius",
       "description": "Radius for cards amd widgets border bg ( 1st deposit card)"
     },
     "game-item": {
-      "value": "4px",
+      "value": "12px",
       "type": "borderRadius",
       "description": "Radius for thumbs"
     },
     "navbar": {
-      "value": "6px",
+      "value": "16px",
       "type": "borderRadius",
       "description": "use for navbar on main page"
     },
@@ -1531,31 +1522,31 @@
       "description": "use for prize item in tournament/lotery page "
     },
     "button": {
-      "value": "8px",
+      "value": "100px",
       "type": "borderRadius",
       "description": "Radius for buttons"
     },
     "button-extra": {
-      "value": "100px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Radius for extrasmall buttons in gamepage"
     },
     "tap-bar": {
-      "value": "4px",
+      "value": "16px",
       "type": "borderRadius",
       "description": "Radius for tapbar"
     },
     "popup": {
-      "value": "4px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "popup-additional": {
-      "value": "4px",
+      "value": "9px",
       "type": "borderRadius",
       "description": "for secret mirror,welcome back popup bg radius "
     },
     "tooltips-notifications": {
-      "value": "4px",
+      "value": "10px",
       "type": "borderRadius",
       "description": "Border radius for tooltips ans notifications"
     },
@@ -1570,12 +1561,12 @@
       "description": "No radius"
     },
     "input-base": {
-      "value": "4px",
+      "value": "12px",
       "type": "borderRadius",
       "description": "Use for inputs, dropdowns bg"
     },
     "game-item-mini": {
-      "value": "4px",
+      "value": "8px",
       "type": "borderRadius",
       "description": "Radius for smallest game items"
     },
@@ -1585,7 +1576,7 @@
       "description": "Radius for select (0)"
     },
     "small-tips": {
-      "value": "100px",
+      "value": "16px",
       "type": "borderRadius",
       "description": "Radius for small elements -  notification in menu item"
     },
@@ -1595,7 +1586,7 @@
       "description": "use for elements with large radius ( button in footer, gold tickets in lottery)"
     },
     "live-lottery-tips": {
-      "value": "4px",
+      "value": "12px",
       "type": "borderRadius",
       "description": "use for small tips on final lottery "
     },
@@ -1612,12 +1603,12 @@
       "description": "use for hightlight player in gamepage/tournament "
     },
     "item-additional": {
-      "value": "4px",
+      "value": "20px",
       "type": "borderRadius",
       "description": "use for active operation in cashbox desktop\n"
     },
     "card-additional": {
-      "value": "4px",
+      "value": "12px",
       "type": "borderRadius",
       "description": "Radius for bonus cards in cashbox"
     },
@@ -1667,10 +1658,10 @@
     "technical": {
       "value": "{bg.additional}",
       "type": "color",
-      "description": "for set by admin (card of collection,deals, tournament, lottery,news))"
+      "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
     "additional": {
-      "value": "#24242C",
+      "value": "#061535",
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
@@ -1680,7 +1671,7 @@
       "description": "use for secret mirror popups bg gradient"
     },
     "popup": {
-      "value": "#17181B",
+      "value": "linear-gradient(181deg, #06102C 1.35%, #0E1B3F 54.03%, #0E1B3F 97.33%)",
       "type": "color",
       "description": "use for popups bg"
     },
@@ -1690,14 +1681,14 @@
       "description": "bg for menu, bottom sheets,dropdown"
     },
     "social-icons": {
-      "value": "{small-elements.footer.bg-social}",
+      "value": "rgba(40, 65, 119, 0.40)",
       "type": "color",
       "description": "use for bg under social icons in mob menu"
     },
     "widget-default": {
-      "value": "linear-gradient(131deg, #FFF 34.94%, #97BBFF 70.61%)",
+      "value": "{bg.additional}",
       "type": "color",
-      "description": "quick deposite widget in cashbox page"
+      "description": "for tournament on main page, news, lottery"
     },
     "top-surface-additional": {
       "value": "{base.light}",
@@ -1710,13 +1701,22 @@
       "description": "Gradient for bg in bonus card in cashbox"
     },
     "popup-2": {
-      "value": "#1E1E25",
+      "value": "#0A1533",
       "type": "color",
       "description": "use for popups bg"
     },
     "widget-disabled": {
-      "value": "rgba(119, 129, 135, 0.10)",
+      "value": "{bg.widget-default}",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.6",
+            "space": "srgb"
+          }
+        }
+      },
       "description": "for past tournament,lottery"
     },
     "additional-2": {
@@ -1768,23 +1768,23 @@
       "description": "Gradient for bg"
     },
     "tertiary": {
-      "value": "#202124",
+      "value": "#0A1B3B",
       "type": "color",
       "description": "bg for element above primary/secondary bg (game empty thumb, player status)"
     },
     "other": {
       "404": {
-        "value": "{base.dark}",
+        "value": "linear-gradient(181deg, #06102C 2.17%, #0E1B3F 53.96%, #0D1B38 96.53%)",
         "type": "color",
         "description": "Bg for empty error pages"
       },
       "status-bg": {
-        "value": "#202225",
+        "value": "#0D2048",
         "type": "color",
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
       "cashbox-bonus": {
-        "value": "#1D1D1E",
+        "value": "#051D40",
         "type": "color",
         "description": "for cashbox bonus popup"
       },
@@ -1814,7 +1814,7 @@
         "description": "Use for tooltip background"
       },
       "footer": {
-        "value": "#181818",
+        "value": "#071533",
         "type": "color",
         "description": "Background color for footer"
       },
@@ -1824,17 +1824,17 @@
         "description": "Background color for outside 1click zone "
       },
       "accent-on-light": {
-        "value": "#4A78F4",
+        "value": "#0A3093",
         "type": "color",
         "description": "use as accent on light bg - filter in cashdesk"
       },
       "sidebar-desktop": {
-        "value": "#24242C",
+        "value": "linear-gradient(168deg, #0A1937 8.26%, #0D2148 36.54%, #0A1937 93.1%)",
         "type": "color",
         "description": "color for desktop sidebar"
       },
       "sidebar-desktop-additional": {
-        "value": "#2F2F39",
+        "value": "linear-gradient(168deg, rgba(10, 25, 55, 0.40) 8.26%, rgba(13, 33, 72, 0.40) 36.54%, rgba(10, 25, 55, 0.40) 93.1%)",
         "type": "color",
         "description": "bg for bonus card in desktop sidebar"
       },
@@ -1858,9 +1858,18 @@
         "description": "use for transaction with bg"
       },
       "cashbox-additional": {
-        "value": "rgba(80, 92, 118, 0.12)",
+        "value": "#528AFF",
         "type": "color",
-        "description": "use for transaction with bg "
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.12",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "use for transaction with bg (detailed)"
       },
       "strip": {
         "value": "{bg.additional}",
@@ -1902,7 +1911,7 @@
         "description": "bg.other.lootboxes-cof-selected"
       },
       "categories-nav": {
-        "value": "#191B20",
+        "value": "rgba(104, 146, 238, 0.08)",
         "type": "color",
         "description": "Background foe categories on desktop"
       },
@@ -1912,7 +1921,7 @@
         "description": "Bg for background popup on strip desktop"
       },
       "footer-app": {
-        "value": "#272729",
+        "value": "#040C1F",
         "type": "color",
         "description": "bg for app button in footer"
       },
@@ -1945,7 +1954,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.05",
+              "value": "0.04",
               "space": "srgb"
             }
           }
@@ -1959,7 +1968,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.04",
+              "value": "0.10",
               "space": "srgb"
             }
           }
@@ -1967,8 +1976,17 @@
         "description": "social icons bg in desktop header/ mob registration/gamepage left sidebar"
       },
       "3": {
-        "value": "rgba(95, 108, 140, 0.06)",
+        "value": "{text.content}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.08",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "for bullets bg in text, bg under number bullets in tournaments/lottery winners list, bg under prizes in prize tab in tournaments/lottery"
       },
       "4": {
@@ -1977,12 +1995,12 @@
         "description": "use for bg in cashbox transaction"
       },
       "5": {
-        "value": "#576BAD",
+        "value": "{bg.tertiary}",
         "type": "color",
         "description": "use for active bonus bg in registration popup"
       },
       "6": {
-        "value": "linear-gradient(180deg, rgba(23, 24, 27, 0.00) 0%, rgba(23, 24, 27, 0.60) 44.84%, #17181B 100%)",
+        "value": "linear-gradient(180deg, rgba(6, 21, 53, 0.00) 0%, rgba(6, 21, 53, 0.60) 44.84%, #061535 100%)",
         "type": "color",
         "description": "use for bg under tournament/lottery tabs"
       },
@@ -2026,7 +2044,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.8",
+              "value": "0.6",
               "space": "srgb"
             }
           }
@@ -2053,12 +2071,12 @@
         "description": "Use for game page background on right filter sidebar (under icons)"
       },
       "light-1": {
-        "value": "rgba(119, 129, 135, 0.15)",
+        "value": "rgba(210, 229, 255, 0.10)",
         "type": "color",
         "description": "bg in tournament/lottery under players"
       },
       "light-2": {
-        "value": "#17181B",
+        "value": "#0B255A",
         "type": "color",
         "description": "use for progress bar bg "
       },
@@ -2094,21 +2112,35 @@
           }
         },
         "description": "bg for social buttons in header - hover state"
+      },
+      "warning": {
+        "value": "#FDBB2C",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.16",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "bg color in warning items"
       }
     },
     "gradients": {
       "main": {
-        "value": "linear-gradient(124deg, #678CCA 59.59%, rgba(144, 182, 246, 0.00) 89%)",
+        "value": "linear-gradient(124deg, #2D73FF 37.1%, rgba(255, 255, 255, 0.00) 71%)",
         "type": "color",
         "description": "use as additional ui overlay gradient"
       },
       "extra": {
-        "value": "linear-gradient(124deg, #678CCA 59.59%, rgba(144, 182, 246, 0.00) 89%)",
+        "value": "linear-gradient(124deg, rgba(185, 208, 255, 0.48) 37.1%, rgba(255, 255, 255, 0.00) 71%)",
         "type": "color",
         "description": "use as additional ui overlay gradient"
       },
       "additional": {
-        "value": "linear-gradient(124deg, #678CCA 59.59%, rgba(144, 182, 246, 0.00) 89%)",
+        "value": "linear-gradient(124deg, #930A2B 48.54%, rgba(255, 255, 255, 0.00) 71%)",
         "type": "color",
         "description": "use as additional ui overlay gradient"
       },
@@ -2143,7 +2175,7 @@
           "description": "bg for provider card"
         },
         "3": {
-          "value": "{bg.other.sidebar-desktop-additional}",
+          "value": "rgba(8, 26, 63, 0.80)",
           "type": "color",
           "description": "bg for winnig now"
         },
@@ -2153,17 +2185,17 @@
           "description": "bg for winnig now"
         },
         "5": {
-          "value": "#221535",
+          "value": "#0B2969",
           "type": "color",
           "description": "bg for bonus balance card"
         },
         "3-additional": {
-          "value": "{bg.other.sidebar-desktop-additional}",
+          "value": "rgba(43, 80, 157, 0.10)",
           "type": "color",
           "description": "bg for winnig now - mob"
         },
         "5-additional": {
-          "value": "#202225",
+          "value": "#081E4E",
           "type": "color",
           "description": "bg for bonus balance card"
         }
@@ -2192,12 +2224,12 @@
           "description": "1st deopsit card stroke bg"
         },
         "3": {
-          "value": "linear-gradient(180deg, rgba(162, 158, 252, 0.00) 0%, #A29EFC 100%)",
+          "value": "linear-gradient(180deg, rgba(0, 0, 0, 0.00) 0%, rgba(147, 10, 43, 0.60) 100%)",
           "type": "color",
           "description": "winning now border"
         },
         "4": {
-          "value": "{bg.card.border.main-additional}",
+          "value": "linear-gradient(180deg, #BD0F1B 0%, #000 100%)",
           "type": "color",
           "description": "popup status widget border"
         },
@@ -2207,12 +2239,12 @@
           "description": "DEV - 1st deposit card stroke, welcomeback popup border "
         },
         "main": {
-          "value": "linear-gradient(100deg, rgba(149, 171, 245, 0.40) 20.88%, rgba(180, 91, 238, 0.40) 91.94%)",
+          "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)",
           "type": "color",
           "description": "border for all cards - sidebar/main banner"
         },
         "main-additional": {
-          "value": "linear-gradient(100deg, rgba(149, 171, 245, 0.40) 20.88%, rgba(180, 91, 238, 0.40) 91.94%)",
+          "value": "rgba(255, 255, 255, 0.08)",
           "type": "color",
           "description": "border for status block in mob menu"
         }
@@ -2225,12 +2257,12 @@
         "description": "use for menu banner overlay gradient under title"
       },
       "2": {
-        "value": "linear-gradient(0deg, rgba(18, 18, 18, 0.00) 0%, rgba(18, 18, 18, 0.60) 37.1%, #121212 100%)",
+        "value": "linear-gradient(0deg, rgba(6, 21, 53, 0.00) 0%, rgba(6, 21, 53, 0.60) 37.1%, #061535 100%)",
         "type": "color",
         "description": "use as overlay on messages picture, news cards picture"
       },
       "3": {
-        "value": "linear-gradient(180deg, rgba(23, 24, 27, 0.00) 0%, rgba(23, 24, 27, 0.50) 24.24%, rgba(23, 24, 27, 0.90) 54.36%, #17181B 100%)",
+        "value": "linear-gradient(180deg, rgba(2, 16, 44, 0.00) 0%, rgba(2, 16, 44, 0.50) 24.24%, rgba(2, 16, 44, 0.90) 54.36%, #02102C 100%)",
         "type": "color",
         "description": "use under link in messages/in reg banner under check link\n\n[based on primary bg]"
       },
@@ -2338,12 +2370,12 @@
   "nav": {
     "tab": {
       "start": {
-        "value": "#17181B",
+        "value": "#06102C",
         "type": "color",
         "description": "gradient on top for popups"
       },
       "stop": {
-        "value": "#17181B",
+        "value": "#0E1B3F",
         "type": "color",
         "description": "gradient on bottom for popups"
       }
@@ -2356,42 +2388,42 @@
       "description": "Lighttest (white)"
     },
     "accent-primary": {
-      "value": "#FFA057",
+      "value": "#FFBF00",
       "type": "color",
       "description": "Background for accent elements"
     },
     "accent-secondary": {
-      "value": "{base.accent-primary}",
+      "value": "#EBAB2E",
       "type": "color",
       "description": "Background for tertiary elements"
     },
     "accent-tertiary": {
-      "value": "{base.accent-primary}",
+      "value": "#EBAB2E",
       "type": "color",
       "description": "Background for tertiary elements"
     },
     "dark": {
-      "value": "#222222",
+      "value": "#01032F",
       "type": "color",
       "description": "Darkest (black)"
     },
     "success": {
-      "value": "#5ECB43",
+      "value": "#32BD0F",
       "type": "color",
       "description": "Indication of success transactions"
     },
     "surface": {
-      "value": "#17181B",
+      "value": "#02102C",
       "type": "color",
       "description": "main color for brand bgs"
     },
     "error": {
-      "value": "#FF2124",
+      "value": "#BD0F1B",
       "type": "color",
       "description": "Indication of unsuccess transactions"
     },
     "warning": {
-      "value": "#FFAE00",
+      "value": "#FDBB2C",
       "type": "color",
       "description": "Indication of warning"
     },
@@ -2438,21 +2470,12 @@
       "description": "text for live icon"
     },
     "timer-bg": {
-      "value": "#000000",
+      "value": "linear-gradient(180deg, rgba(108, 164, 216, 0.81) 0%, rgba(92, 141, 187, 0.78) 31.25%, rgba(68, 123, 174, 0.85) 63.54%, rgba(82, 122, 160, 0.63) 100%)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.6",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "bg for timer"
     },
     "empty-ball": {
-      "value": "#070A0D",
+      "value": "linear-gradient(180deg, rgba(86, 116, 160, 0.40) 0%, rgba(122, 136, 186, 0.40) 57.33%, rgba(119, 139, 187, 0.34) 91.08%, rgba(116, 162, 206, 0.40) 100%)",
       "type": "color",
       "description": "bg for empty ball"
     },
@@ -2470,14 +2493,14 @@
   "navbar": {
     "bg": {
       "main": {
-        "value": "rgba(19,20,22,0.6)",
+        "value": "rgba(6, 18, 44, 0.60)",
         "type": "color",
         "description": "Use for bottom navbar on mainpage mob"
       },
       "button": {
         "value": "#ffffff",
         "type": "color",
-        "description": "use for deposit buttton color on mob/desktopp navbar ;."
+        "description": "use for deposit buttton color on mob/desktopp navbar "
       },
       "button-icon": {
         "value": "#02102C",
@@ -2486,7 +2509,7 @@
       }
     },
     "menu-item-active": {
-      "value": "{base.accent-primary}",
+      "value": "#BD0F1B",
       "type": "color",
       "description": "color of active item (icon+text)"
     }
@@ -2494,96 +2517,65 @@
   "button": {
     "bg": {
       "primary": {
-        "value": "linear-gradient(0deg, rgba(130, 31, 184, 1) 0%, rgba(189, 38, 211, 1) 48.45%, rgba(210, 97, 255, 1) 100%)",
+        "value": "#BD0F1B",
         "type": "color",
         "description": "Background for primary buttons"
       },
-      "additional": {
+      "primary-hover": {
         "value": "{button.bg.primary}",
         "type": "color",
-        "description": "Background for additional buttons ( cash button in header)"
-      },
-      "primary-hover": {
-        "value": "linear-gradient(0deg, #7B1BB0 0%, #AC26C0 48.45%, #D469FF 80%)",
-        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.16",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Background for primary buttons hover"
-      },
-      "additional-hover": {
-        "value": "{button.bg.primary-hover}",
-        "type": "color",
-        "description": "Background for additional buttons ( cash button in header)"
       },
       "primary-pressed": {
         "value": "{button.bg.primary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.20",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Background for primary pressed"
       },
-      "additional-pressed": {
-        "value": "{button.bg.primary}",
-        "type": "color",
-        "description": "Background for additional buttons ( cash button in header)"
-      },
       "primary-disabled-additional": {
-        "value": "rgba(201, 169, 255, 0.60)",
+        "value": "rgba(62, 72, 98, 0.40)",
         "type": "color",
         "description": "Background for primary disabled button for lighgt bg"
       },
       "primary-disabled": {
-        "value": "#292C36",
+        "value": "rgba(37, 47, 72, 0.90)",
         "type": "color",
         "description": "Background for primary buttons disabled"
       },
-      "additional-disabled": {
-        "value": "{button.bg.primary-disabled}",
-        "type": "color",
-        "description": "Background for additional buttons ( cash button in header)"
-      },
       "tertiary-disabled": {
-        "value": "#1E222F",
+        "value": "rgba(37, 47, 72, 0.90)",
         "type": "color",
         "description": "Background for tertiary buttons disabled"
       },
       "secondary": {
-        "value": "linear-gradient(180deg, #FFAE85 0%, #E0941A 55.4%, #DC3D57 100%)",
+        "value": "#0A3093",
         "type": "color",
         "description": "Background for secondary buttons"
       },
       "secondary-hover": {
-        "value": "linear-gradient(180deg, #DC3D57 0%, #E0941A 44.6%, #FFAE85 100%)",
+        "value": "#0D3394",
         "type": "color",
         "description": "Background for secondary buttons hover"
       },
       "secondary-pressed": {
         "value": "{button.bg.secondary}",
-        "type": "color",
-        "description": "Background for secondary buttons pressed"
-      },
-      "secondary-disabled": {
-        "value": "#1E222F",
-        "type": "color",
-        "description": "Background for secondary buttons disabled"
-      },
-      "app-default": {
-        "value": "#C5D3F7",
-        "type": "color",
-        "description": "Background for bottom part and button in pregame modal"
-      },
-      "app-hover": {
-        "value": "{button.bg.app-default}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
-        "description": "Background for hovered button in pregame modal"
-      },
-      "app-pressed": {
-        "value": "{button.bg.app-default}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -2594,32 +2586,72 @@
             }
           }
         },
+        "description": "Background for secondary buttons pressed"
+      },
+      "secondary-disabled": {
+        "value": "rgba(37, 47, 72, 0.90)",
+        "type": "color",
+        "description": "Background for secondary buttons disabled"
+      },
+      "app-default": {
+        "value": "{base.accent-light}",
+        "type": "color",
+        "description": "Background for bottom part and button in pregame modal"
+      },
+      "app-hover": {
+        "value": "#f2fcff",
+        "type": "color",
+        "description": "Background for hovered button in pregame modal"
+      },
+      "app-pressed": {
+        "value": "#cde0e6",
+        "type": "color",
         "description": "Background for pressed button in pregame modal"
       },
       "ghost": {
         "value": "#ffffff00",
         "type": "color",
         "description": "Background for ghost button"
+      },
+      "additioinal": {
+        "value": "{button.bg.primary}",
+        "type": "color",
+        "description": "Background for additioinal buttons ( cash button in header )"
+      },
+      "additional-hover": {
+        "value": "{button.bg.primary-hover}",
+        "type": "color",
+        "description": "Background for additional buttons ( cash buttons in header )"
+      },
+      "additional-pressed": {
+        "value": "{button.bg.primary-pressed}",
+        "type": "color",
+        "description": "Background for additional buttons ( cash button in header )"
+      },
+      "additional-disabled": {
+        "value": "{button.bg.primary-disabled}",
+        "type": "color",
+        "description": "Background for additioinal buttons ( cash button in header )"
       }
     },
     "icon": {
       "primary": {
-        "value": "{button.text.primary}",
+        "value": "#ffffff",
         "type": "color",
         "description": "Icon color on a primary button"
       },
       "secondary": {
-        "value": "{button.text.secondary}",
+        "value": "#fff",
         "type": "color",
         "description": "Icon color on a secondary button"
       },
       "tertiary": {
-        "value": "{button.text.tertiary}",
+        "value": "#fff",
         "type": "color",
         "description": "Icon color on a tertiary button"
       },
       "ghost": {
-        "value": "{button.text.ghost}",
+        "value": "{button.bg.primary}",
         "type": "color",
         "description": "Icon color on a ghost button"
       },
@@ -2666,7 +2698,7 @@
         "description": "border color for buttons disabled"
       },
       "ghost": {
-        "value": "#DF8D1F",
+        "value": "{button.text.light-bg}",
         "type": "color",
         "description": "border color for ghost buttons (use in menu)"
       },
@@ -2699,7 +2731,7 @@
         "description": "border color for ghost buttons pressed state (use in menu)"
       },
       "tertiary-light": {
-        "value": "{button.text.ghost}",
+        "value": "{button.text.primary}",
         "type": "color",
         "description": "border color for buttons default in cards"
       },
@@ -2779,17 +2811,17 @@
     },
     "text": {
       "primary": {
-        "value": "{base.light}",
+        "value": "#ffffff",
         "type": "color",
         "description": "Text color on primary button"
       },
       "secondary": {
-        "value": "{base.light}",
+        "value": "#fff",
         "type": "color",
         "description": "Text color on secondary button"
       },
       "light-bg": {
-        "value": "#DF8D1F",
+        "value": "{button.text.ghost}",
         "type": "color",
         "description": "Text color for buttons on light bg (notification)"
       },
@@ -2799,7 +2831,7 @@
         "description": "color on tertiary buttons"
       },
       "ghost": {
-        "value": "#DF8D1F",
+        "value": "{button.bg.primary}",
         "type": "color",
         "description": "color on ghost buttons"
       },
@@ -2824,7 +2856,7 @@
         "description": "Text color on ghost disabled button"
       },
       "tertiary-light": {
-        "value": "{button.text.ghost}",
+        "value": "{button.text.primary}",
         "type": "color",
         "description": "color on tertiary buttons on cards"
       },
@@ -2847,17 +2879,17 @@
   "small-elements": {
     "game": {
       "provider-logo-bg": {
-        "value": "linear-gradient(0deg, #000 0%, rgba(0, 0, 0, 0.60) 66.67%, rgba(0, 0, 0, 0.00) 100%)",
+        "value": "linear-gradient(0deg, rgba(31, 36, 80, 0.90) 0%, rgba(17, 20, 45, 0.60) 66.67%, rgba(17, 20, 46, 0.00) 100%)",
         "type": "color",
         "description": "Background for provider logo on game thumb"
       },
       "label-thumb-new": {
-        "value": "linear-gradient(139deg, #79ACFF 4.83%, #8D3ED2 80.26%)",
+        "value": "linear-gradient(180deg, #4B9DE8 0%, #416FB4 100%)",
         "type": "color",
         "description": "Color for label thumb"
       },
       "label-thumb-top": {
-        "value": "linear-gradient(90deg, #B86EF0 3.28%, #E4791B 91.21%)",
+        "value": "#EBAB2E",
         "type": "color",
         "description": "Color for label thumb - tournmament"
       },
@@ -2911,8 +2943,17 @@
         "description": "for dark bg (regular popups)"
       },
       "primary": {
-        "value": "rgba(229, 235, 255, 0.20)",
+        "value": "rgba(186, 188, 194, 0.20)",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.2",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "base on primary color (change in themes)"
       }
     },
@@ -2923,7 +2964,7 @@
         "description": "border color for separating groups in registration under tabs"
       },
       "main": {
-        "value": "#95ABF5",
+        "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(245, 245, 245, 0.10) 9.97%, rgba(161, 161, 161, 0.10) 91.97%, rgba(153, 153, 153, 0.00) 100%)",
         "type": "color",
         "description": "separator in main page categories "
       },
@@ -2942,17 +2983,17 @@
         "description": "for line separator in light bg - dropdown/menu item/tooltips"
       },
       "tertiary": {
-        "value": "#425080",
+        "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(245, 245, 245, 0.10) 9.97%, rgba(161, 161, 161, 0.10) 91.97%, rgba(153, 153, 153, 0.00) 100%)",
         "type": "color",
-        "description": "separator for dark bg (mob dropdown providers), separators in footer"
+        "description": "separator for dark bg (mob dropdown providers)"
       },
       "secondary": {
-        "value": "#425080",
+        "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(245, 245, 245, 0.10) 9.97%, rgba(161, 161, 161, 0.10) 91.97%, rgba(153, 153, 153, 0.00) 100%)",
         "type": "color",
         "description": "use in mob registation tabs"
       },
       "additional": {
-        "value": "#425080",
+        "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(245, 245, 245, 0.10) 9.97%, rgba(161, 161, 161, 0.10) 91.97%, rgba(153, 153, 153, 0.00) 100%)",
         "type": "color",
         "description": "border color for info inside transaction/ separator for items in tables in static page"
       },
@@ -2972,7 +3013,7 @@
       }
     },
     "progressbar-large": {
-      "value": "#7523AB",
+      "value": "#0C3092",
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
     },
@@ -2987,7 +3028,7 @@
       "description": "border for progressbar in profile/menu mobile"
     },
     "progressbar": {
-      "value": "#B45BEE",
+      "value": "#1E5BFF",
       "type": "color"
     },
     "progressbar-bg": {
@@ -3139,12 +3180,12 @@
     },
     "badge": {
       "1": {
-        "value": "#AC26C0",
+        "value": "#B62D3E",
         "type": "color",
         "description": "use for badge in main tapbar"
       },
       "2": {
-        "value": "#AC26C0",
+        "value": "#2A69F1",
         "type": "color",
         "description": "use for badges in navbar, menu top part , lottery tickets sale,check box"
       },
@@ -3176,7 +3217,7 @@
         "description": "for social icons bg"
       },
       "contact": {
-        "value": "rgba(255, 255, 255, 0.02)",
+        "value": "rgba(255, 255, 255, 0.04)",
         "type": "color",
         "description": "for under contacts"
       },
@@ -3242,7 +3283,7 @@
         "description": "Color of counter for desktop tournament widget"
       },
       "tournament-counter-bg": {
-        "value": "#191A1C",
+        "value": "#07142E",
         "type": "color",
         "description": "bg for tournament counter on desktop widget"
       }
@@ -3295,7 +3336,7 @@
         "description": "Bg on hover on floating button"
       },
       "bg": {
-        "value": "rgba(206, 157, 255, 0.20)",
+        "value": "rgba(5, 67, 227, 0.60)",
         "type": "color",
         "description": "Bg on default on floating button"
       },
@@ -3340,7 +3381,7 @@
         "type": "color"
       },
       "icon": {
-        "value": "#AC26C0",
+        "value": "#0A3093",
         "type": "color"
       }
     }
@@ -3376,7 +3417,7 @@
       "description": "use for categories"
     },
     "tertiary": {
-      "value": "{base.accent-light}",
+      "value": "{base.dark}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -3395,12 +3436,12 @@
       "description": "Use for active icons"
     },
     "accent-additional": {
-      "value": "{base.primary}",
+      "value": "{button.text.primary}",
       "type": "color",
       "description": "Use for show more widget"
     },
     "alternative": {
-      "value": "{menu.accent}",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "use for icons in lists (different from accent icons)"
     },
@@ -3430,7 +3471,7 @@
       "description": "For social icons in menu "
     },
     "ghost-1": {
-      "value": "rgba(255, 255, 255, 0.90)",
+      "value": "rgba(255, 255, 255, 0.80)",
       "type": "color",
       "description": "for main icons in navbar mob/desktop"
     },
@@ -3489,7 +3530,7 @@
         "description": "Border color for default inputs"
       },
       "focus": {
-        "value": "{small-elements.badge.1}",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "Color border for focused input"
       },
@@ -3508,7 +3549,7 @@
         }
       },
       "error": {
-        "value": "#981416",
+        "value": "{base.error}",
         "type": "color",
         "description": "Color border for error input"
       },
@@ -3520,12 +3561,12 @@
     },
     "bg": {
       "default": {
-        "value": "#24242C",
+        "value": "{base.light}",
         "type": "color",
         "description": "Default backgrounds for inputs"
       },
       "error": {
-        "value": "#981416",
+        "value": "{base.error}",
         "type": "color",
         "description": "Background for error inputs"
       },
@@ -3545,25 +3586,25 @@
         "description": "Backgrounds for confirmed inputs"
       },
       "accent": {
-        "value": "rgba(148, 179, 250, 0.08)",
+        "value": "rgba(0, 61, 187, 0.20)",
         "type": "color",
         "description": "bg for selected item in dropdown (currency registration)"
       },
       "hover": {
-        "value": "rgba(148, 179, 250, 0.10)",
+        "value": "#F3F3F3",
         "type": "color",
         "description": "background for hover state in dropdown items (currency)"
       }
     },
     "text": {
       "label": {
-        "value": "{base.light}",
+        "value": "{base.dark}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
-              "type": "alpha",
-              "value": "0.8",
+              "type": "lighten",
+              "value": "0.2",
               "space": "srgb"
             }
           }
@@ -3571,7 +3612,7 @@
         "description": "Label color"
       },
       "value-main": {
-        "value": "#F7F7F7",
+        "value": "{base.dark}",
         "type": "color",
         "description": "Input value text color"
       },
@@ -3605,27 +3646,27 @@
         "description": "use for text in error field hint"
       },
       "disabled-value": {
-        "value": "#6A7491",
+        "value": "rgba(255,255,255,0.9)",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.6",
-              "space": "lch"
+              "value": "0.7",
+              "space": "srgb"
             }
           }
         },
         "description": "use for text in disabled field "
       },
       "disabled-label": {
-        "value": "#6A7491",
+        "value": "rgba(255,255,255,0.4)",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.6",
+              "value": "0.7",
               "space": "srgb"
             }
           }
@@ -3693,7 +3734,7 @@
       "description": "use for mobile logo width "
     },
     "logo-desktop": {
-      "value": "124px",
+      "value": "140px",
       "type": "sizing",
       "description": "use for desktop logo width "
     }
@@ -3770,11 +3811,11 @@
   },
   "font-family": {
     "main": {
-      "value": "Fester",
+      "value": "Mabry Pro",
       "type": "fontFamilies"
     },
     "accent": {
-      "value": "Fester",
+      "value": "Mabry Pro",
       "type": "fontFamilies"
     },
     "additional": {
@@ -3831,7 +3872,7 @@
       "type": "fontWeights"
     },
     "1": {
-      "value": "600",
+      "value": "500",
       "type": "fontWeights"
     },
     "2": {
@@ -3843,60 +3884,60 @@
       "type": "fontWeights"
     },
     "4": {
-      "value": "600",
+      "value": "500",
       "type": "fontWeights",
       "description": "use in mob menu sums"
     }
   },
   "font-size": {
     "0": {
-      "value": "9",
+      "value": "8",
       "type": "fontSizes"
     },
     "1": {
-      "value": "10",
+      "value": "9",
       "type": "fontSizes"
     },
     "2": {
-      "value": "12",
+      "value": "10",
       "type": "fontSizes"
     },
     "3": {
-      "value": "14",
+      "value": "12",
       "type": "fontSizes"
     },
     "4": {
-      "value": "16",
+      "value": "14",
       "type": "fontSizes"
     },
     "5": {
-      "value": "18",
+      "value": "16",
       "type": "fontSizes"
     },
     "6": {
-      "value": "22",
+      "value": "20",
       "type": "fontSizes"
     },
     "7": {
-      "value": "26",
+      "value": "24",
       "type": "fontSizes"
     },
     "8": {
-      "value": "28",
+      "value": "26",
       "type": "fontSizes"
     },
     "1-desktop": {
-      "value": "14px",
+      "value": "13px",
       "type": "fontSizes",
       "description": "For small captions on desktop"
     },
     "extra": {
-      "value": "20",
+      "value": "18",
       "type": "fontSizes",
       "description": "for main page titles (mob)"
     },
     "extra-2": {
-      "value": "24",
+      "value": "22",
       "type": "fontSizes",
       "description": "for main page titles (mob)"
     }
@@ -3964,7 +4005,7 @@
       "description": "for secret mirror popup title"
     },
     "bg": {
-      "value": "#1E2129",
+      "value": "#030E2A",
       "type": "color",
       "description": "use for bg search widget for providers popup"
     },
@@ -3974,17 +4015,8 @@
       "description": "Color of text and icons for custom dropdown"
     },
     "jackpot-border": {
-      "value": "{base.accent-primary}",
+      "value": "#D2E5FF",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.3",
-            "space": "lch"
-          }
-        }
-      },
       "description": "Border-color for jackpot widgets"
     },
     "jackpot-border-2": {
@@ -3993,7 +4025,7 @@
       "description": "Border-color for jaclpot amount"
     },
     "jackpot-widget-bg": {
-      "value": "linear-gradient(168deg, rgba(36, 36, 44, 0.40) 14.02%, rgba(36, 36, 44, 0.40) 38.4%, rgba(36, 36, 44, 0.40) 87.15%)",
+      "value": "linear-gradient(180deg, rgba(60, 86, 125, 0.20) 0%, rgba(28, 33, 46, 0.20) 100%)",
       "type": "color",
       "description": "Background for jackpot widget"
     },
@@ -4177,12 +4209,12 @@
       "description": "for referral cards numbers"
     },
     "dropdown-custom": {
-      "value": "#1E242F",
+      "value": "#0C1B3D",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
     "dropdown-custom-additional": {
-      "value": "#2A3240",
+      "value": "#1C2C50",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown for desktop hover state"
     },
@@ -4192,7 +4224,7 @@
       "description": "for jackpot sun in jackpot page"
     },
     "dropdown-custom-fade": {
-      "value": "linear-gradient(180deg, rgba(30, 36, 47, 0.00) 0%, #1E242F 75.59%)",
+      "value": "linear-gradient(180deg, rgba( {special-blocks.dropdown-custom} , 0.00) 0%, {special-blocks.dropdown-custom} 100%)",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
@@ -4243,17 +4275,17 @@
     },
     "small-card": {
       "bg": {
-        "value": "linear-gradient(90deg, #B86EF0 3.28%, #E4791B 91.21%)",
+        "value": "linear-gradient(90deg, #153270 1.64%, #081B4D 54.22%, #061232 97.54%)",
         "type": "color",
         "description": "use for bg for bonus widget in desktop header"
       },
       "bg-additional": {
-        "value": "linear-gradient(90deg, #E4791B 3.28%, #B86EF0 91.21%)",
+        "value": "linear-gradient(90deg, #275CCB 1.64%, #081B4D 54.22%, #061232 97.54%)",
         "type": "color",
         "description": "use for bg hover state for bonus widget in desktop header"
       },
       "border": {
-        "value": "linear-gradient(90deg, #B86EF0 3.28%, #E4791B 91.21%)",
+        "value": "#102B6C",
         "type": "color",
         "description": "use for stroke for bonus widget in desktop header"
       }
@@ -4319,28 +4351,28 @@
     "achievements": {
       "border": {
         "activity": {
-          "value": "rgba(134, 165, 235, 0.60)",
+          "value": "linear-gradient(158deg, #144DC0 26.45%, rgba(20, 77, 192, 0.30) 48.99%, #144DC0 66.69%)",
           "type": "color",
           "description": "border for activity card"
         },
         "win": {
-          "value": "rgba(179, 110, 246, 0.60)",
+          "value": "linear-gradient(158deg, #8514E8 15.68%, rgba(122, 20, 213, 0.43) 48.53%, #6C12BC 74.32%)",
           "type": "color",
           "description": "border for win card"
         },
         "achievements": {
-          "value": "transparent",
+          "value": "linear-gradient(148deg, rgba(32, 109, 174, 0.40) 15.68%, rgba(32, 109, 174, 0.20) 38.76%, rgba(32, 109, 174, 0.00) 55.25%)",
           "type": "color",
           "description": "border for win card"
         },
         "achievements-additional": {
-          "value": "{special-blocks.achievements.border.activity}",
+          "value": "#1E619A",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.7",
+                "value": "0.4",
                 "space": "srgb"
               }
             }
@@ -4348,7 +4380,7 @@
           "description": "separatoe in achievements card (for progress)"
         },
         "main": {
-          "value": "{bg.card.border.main}",
+          "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)",
           "type": "color",
           "description": "use as stroke in last/progress achievements cards and info card"
         },
@@ -4358,37 +4390,37 @@
           "description": "use as stroke in first deposit widget"
         },
         "main-last": {
-          "value": "transparent",
+          "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)",
           "type": "color",
           "description": "use as stroke in last achievements cards "
         },
         "main-progress": {
-          "value": "transparent",
+          "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)",
           "type": "color",
           "description": "use as stroke in progress achievements cards "
         }
       },
       "popup-2": {
-        "value": "{bg.popup}",
+        "value": "linear-gradient(180deg, #3B135B 0%, #3B135B 100%)",
         "type": "color"
       },
       "popup-1": {
-        "value": "{bg.popup}",
+        "value": "linear-gradient(180deg, #132464 0%, #121B52 100%)",
         "type": "color"
       },
       "gradient": {
         "activity": {
-          "value": "rgba(108, 138, 219, 0.30)",
+          "value": "rgba(21, 78, 192, 0.30)",
           "type": "color",
           "description": "radial for activity cards zone"
         },
         "win": {
-          "value": "rgba(144, 64, 221, 0.30)",
+          "value": "rgba(235, 13, 255, 0.16)",
           "type": "color",
           "description": "gradient for win cards zone"
         },
         "achievements": {
-          "value": "transparent",
+          "value": "rgba(21, 152, 192, 0.20)",
           "type": "color",
           "description": "gradeint for achievements cards zone "
         },
@@ -4398,7 +4430,7 @@
           "description": "for empty cards zone"
         },
         "empty-additional": {
-          "value": "{special-blocks.achievements.overlay.4}",
+          "value": "linear-gradient(89deg, rgba(23, 35, 99, 0.87) 0.81%, rgba(27, 41, 112, 0.87) 63.22%, rgba(23, 33, 87, 0.00) 99.19%);",
           "type": "color",
           "description": "for empty cards zone / desktop"
         }
@@ -4409,7 +4441,7 @@
         "description": "fill for line in first screen"
       },
       "bg-progressbar": {
-        "value": "rgba(255, 255, 255, 0.16)",
+        "value": "rgba(255, 255, 255, 0.08)",
         "type": "color",
         "description": "for progrees bar bg"
       },
@@ -4429,49 +4461,67 @@
           "description": "for bg under icons in achievement info block"
         },
         "2": {
-          "value": "#2A2F36",
+          "value": "#38437C",
           "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.2",
+                "space": "srgb"
+              }
+            }
+          },
           "description": "for bg under 1st desposit in second state"
         },
         "3": {
-          "value": "#202225",
+          "value": "#09245A",
           "type": "color",
           "description": "for empty last card"
         },
         "4": {
-          "value": "linear-gradient(90deg, #202225 0.31%, rgba(32, 34, 37, 0.00) 98.6%)",
+          "value": "linear-gradient(90deg, rgba(23, 33, 87, 0.70) 0.31%, rgba(23, 33, 87, 0.00) 98.6%)",
           "type": "color",
           "description": "for empty progress cards"
         }
       },
       "card": {
         "1": {
-          "value": "linear-gradient(172deg, rgba(179, 110, 246, 0.60) 9.28%, rgba(179, 110, 246, 0.16) 90.72%)",
+          "value": "linear-gradient(148deg, rgba(117, 44, 194, 0.54) 20.63%, rgba(117, 44, 194, 0.20) 40.38%, rgba(117, 44, 194, 0.10) 54.49%)",
           "type": "color",
           "description": "in progress cards bg in main screen"
         },
         "2": {
-          "value": "{special-blocks.achievements.card.4}",
+          "value": "linear-gradient(148deg, rgba(18, 70, 172, 0.50) 15.68%, rgba(18, 70, 172, 0.20) 38.76%, rgba(12, 46, 114, 0.10) 92.79%)",
           "type": "color",
           "description": "last cards bg in main screen"
         },
         "3": {
-          "value": "rgba(77, 80, 90, 0.20)",
+          "value": "#3A478A",
           "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.20",
+                "space": "srgb"
+              }
+            }
+          },
           "description": "card first deposit bg in main screen"
         },
         "4": {
-          "value": "linear-gradient(158deg, #68458D 26.45%, #2F4C99 66.69%)",
+          "value": "linear-gradient(158deg, #1E619A 21.57%, rgba(30, 97, 154, 0.43) 48.78%, #1B5484 70.15%)",
           "type": "color",
           "description": "bg for achievements cards"
         },
         "5": {
-          "value": "linear-gradient(133deg, rgba(134, 165, 235, 0.60) 1.63%, rgba(134, 165, 235, 0.16) 48.69%, rgba(134, 165, 235, 0.00) 98.37%)",
+          "value": "linear-gradient(133deg, rgba(21, 78, 192, 0.40) 12.17%, rgba(21, 78, 192, 0.16) 41.06%, rgba(21, 78, 192, 0.00) 63.64%)",
           "type": "color",
           "description": "bg for activity cards"
         },
         "6": {
-          "value": "linear-gradient(133deg, rgba(179, 110, 246, 0.60) 3.21%, rgba(179, 110, 246, 0.16) 48.73%, rgba(179, 110, 246, 0.00) 96.79%)",
+          "value": "linear-gradient(132deg, rgba(140, 49, 144, 0.54) 11.58%, rgba(122, 42, 126, 0.16) 38.1%, rgba(138, 52, 143, 0.00) 58.12%)",
           "type": "color",
           "description": "bg for win cards"
         }
@@ -4534,17 +4584,17 @@
   "categories": {
     "bg": {
       "main": {
-        "value": "#191B20",
+        "value": "{bg.other.categories-nav}",
         "type": "color",
         "description": "use for games navigation in mob "
       },
       "additional": {
-        "value": "#191B20",
+        "value": "{bg.other.categories-nav}",
         "type": "color",
         "description": "use for search bg in categories"
       },
       "extra": {
-        "value": "rgba(255, 255, 255, 0.70)",
+        "value": "#CCCCCC",
         "type": "color",
         "description": "use for search bg in categories"
       }
@@ -4575,20 +4625,20 @@
   "header": {
     "bg": {
       "balance": {
-        "value": "#191919",
+        "value": "linear-gradient(270deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.05) 40.7%, rgba(255, 255, 255, 0.05) 82.26%)",
         "type": "color",
         "description": "use for bg under balance amount"
       },
       "main": {
-        "value": "linear-gradient(180deg, #18191C 0%, rgba(24, 25, 28, 0.80) 39.95%, rgba(24, 25, 28, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #09122E 0%, rgba(9, 18, 46, 0.80) 39.95%, rgba(9, 18, 46, 0.00) 100%)",
         "type": "color"
       },
       "sticky": {
-        "value": "linear-gradient(180deg, #18191C 0%, rgba(24, 25, 28, 0.80) 39.95%, rgba(24, 25, 28, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #09122E 0%, rgba(9, 18, 46, 0.80) 29%, rgba(9, 18, 46, 0.60) 66.5%, rgba(9, 18, 46, 0.00) 100%)",
         "type": "color"
       },
       "top-desktop": {
-        "value": "#202125",
+        "value": "#03112E",
         "type": "color",
         "description": "bg header on top for desktop"
       },
@@ -4671,7 +4721,7 @@
       "description": "(delete?)"
     },
     "content": {
-      "value": "#e4ebff",
+      "value": "#C5CFE4",
       "type": "color",
       "description": "use for large text blocks\n\n(delete?) Maybe for small items with darker background?(labels, crypto on footer)"
     },
@@ -4681,13 +4731,22 @@
       "description": "use for hover state for messages desktop"
     },
     "link": {
-      "value": "#95ABF5",
+      "value": "#8ABAFB",
       "type": "color",
       "description": "also use for win tickets in lottery results"
     },
     "link-alternative": {
-      "value": "#4762CF",
+      "value": "#5087D7",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "srgb"
+          }
+        }
+      },
       "description": "use for links on lighter bg (notifications/tooltips), game page"
     },
     "accent": {
@@ -4745,7 +4804,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.8",
+              "value": "0.7",
               "space": "srgb"
             }
           }
@@ -4828,12 +4887,12 @@
         "description": "for winner name in winning now block"
       },
       "additional": {
-        "value": "{button.bg.secondary}",
+        "value": "{text.title.accent}",
         "type": "color",
         "description": "use in shop cards"
       },
       "extra": {
-        "value": "{base.accent-primary}",
+        "value": "{text.title.accent}",
         "type": "color",
         "description": "welcome bonus popup accent color"
       },
@@ -4862,22 +4921,22 @@
   "menu": {
     "bg": {
       "main": {
-        "value": "{base.dark}",
+        "value": "#041A47",
         "type": "color",
         "description": "use for menu general bg "
       },
       "main-additional": {
-        "value": "{bg.additional}",
+        "value": "#031740",
         "type": "color",
         "description": "bg for menu items zone"
       },
       "banner": {
-        "value": "#24242C",
+        "value": "#061840",
         "type": "color",
         "description": "use for banner bg for unlogged "
       },
       "header": {
-        "value": "{menu.bg.main}",
+        "value": "linear-gradient(180deg, #061128 0%, rgba(6, 17, 40, 0.00) 100%)",
         "type": "color",
         "description": "use for header bg for unlogged "
       },
@@ -4887,7 +4946,7 @@
         "description": "use as bg in menu info zone"
       },
       "notification": {
-        "value": "{small-elements.badge.1}",
+        "value": "#2252D5",
         "type": "color",
         "description": "use for special notification in menu items"
       },
@@ -4898,12 +4957,12 @@
       }
     },
     "item-active": {
-      "value": "{base.accent-primary}",
+      "value": "#BD0F1B",
       "type": "color",
       "description": "for menu item icon/text active state"
     },
     "accent": {
-      "value": "{base.accent-primary}",
+      "value": "#EBAB2E",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
     },
@@ -4911,11 +4970,6 @@
       "value": "#DDDEFF",
       "type": "color",
       "description": "for menu items text/icon default state"
-    },
-    "separator": {
-      "value": "linear-gradient(100deg, rgba(149, 171, 245, 0.40) 24.48%, rgba(180, 91, 238, 0.40) 86.76%)",
-      "type": "color",
-      "description": "bg color for separator line"
     },
     "content": {
       "value": "{text.light}",
@@ -4930,6 +4984,11 @@
         }
       },
       "description": "Color for status and %"
+    },
+    "separator": {
+      "value": "rgba(255, 255, 255, 0.08)",
+      "type": "color",
+      "description": "bg color for separator line"
     }
   },
   "max-width": {
@@ -5102,7 +5161,7 @@
       "description": "bg all tabs"
     },
     "bg all": {
-      "value": "#0D0E11",
+      "value": "#0F1B3B",
       "type": "color"
     }
   },
@@ -5133,7 +5192,7 @@
         "type": "color"
       },
       "sector-2": {
-        "value": "#ffff",
+        "value": "#171819",
         "type": "color"
       }
     },
@@ -5177,17 +5236,17 @@
         "description": "use for switcher active bg"
       },
       "sector-2": {
-        "value": "radial-gradient(50% 50% at 50% 50%, #7F8EEA 0%, #6C79C4 18.5%, #616DB0 29.66%, #4A5281 43.71%, #17181B 100%)",
+        "value": "radial-gradient(50% 50% at 50% 50%, #E9E8E8 0%, #FBFBFB 100%)",
         "type": "color",
         "description": "use for sectors bg (type1) - start"
       },
       "sector-3": {
-        "value": "radial-gradient(50% 50% at 50% 50%, #B373F7 0%, #B275F8 13%, #B07EF9 32.96%, #AB8BFA 76%, #A792FB 100%)",
+        "value": "radial-gradient(50% 50% at 50% 50%, #122650 0%, #18355F 13%, #214B77 32.96%, #3885B2 76%, #449ECB 100%)",
         "type": "color",
         "description": "use for sectors bg (type3) - win sector - start"
       },
       "sector-1": {
-        "value": "radial-gradient(50% 50% at 50% 50%, #7F8EEA 0%, #6C79C4 18.5%, #616DB0 29.66%, #4A5281 43.71%, #17181B 100%)",
+        "value": "radial-gradient(50% 50% at 50% 50%, #69040B 0%, #7C060E 18.5%, #8A0811 29.66%, #970A14 43.71%, #BF121E 100%)",
         "type": "color",
         "description": "use for sectors (not white)"
       },
@@ -5500,7 +5559,7 @@
         "description": "bg for top bg in ingame"
       },
       "thumb": {
-        "value": "#25262A",
+        "value": "#0B1A3B",
         "type": "color",
         "description": "bg for show more thumb/zagluska fo game thumb"
       },
@@ -5569,7 +5628,7 @@
         "description": "use for lines in right sidebar"
       },
       "accent-additional": {
-        "value": "{text.title.additional}",
+        "value": "{text.title.accent}",
         "type": "color"
       },
       "hover": {
@@ -5651,12 +5710,12 @@
         "description": "use for dropdown"
       },
       "overlay-additional": {
-        "value": "linear-gradient(270deg, #24242C 0%, rgba(36, 36, 44, 0.60) 48.5%, rgba(36, 36, 44, 0.00) 100%)",
+        "value": "linear-gradient(270deg, #162B57 0%, rgba(22, 43, 87, 0.34) 48.5%, rgba(37, 45, 64, 0.00) 100%)",
         "type": "color",
         "description": "use for bg under prizes"
       },
       "overlay-gradient": {
-        "value": "linear-gradient(180deg, rgba(23, 24, 27, 0.00) 0%, rgba(23, 24, 27, 0.00) 67%, #17181B 100%)",
+        "value": "linear-gradient(180deg, rgba(2, 16, 44, 0.00) 0%, rgba(2, 16, 44, 0.00) 67%, #02102C 100%)",
         "type": "color",
         "description": "use as overlay under tabs"
       }
@@ -5670,7 +5729,7 @@
     },
     "border": {
       "item": {
-        "value": "linear-gradient(180deg, #C2A4F7 0%, #8E57EF 100%)",
+        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.00) 100%)",
         "type": "color",
         "description": "use as stroke for dropdown"
       }
@@ -5723,26 +5782,26 @@
   "calendar": {
     "bg": {
       "main": {
-        "value": "#1E232B",
+        "value": "rgba(113, 158, 250, 0.10)",
+        "type": "color",
+        "description": "bg for event calendar widget"
+      },
+      "main-additional": {
+        "value": "#8DADFF",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.4",
+              "value": "0.3",
               "space": "srgb"
             }
           }
         },
-        "description": "bg for event calendar widget"
-      },
-      "main-additional": {
-        "value": "rgba(255, 169, 99, 0.40)",
-        "type": "color",
         "description": "bg for calendar button"
       },
       "primary": {
-        "value": "linear-gradient(180deg, #DF7B2D 0%, rgba(223, 123, 45, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #062F97 0%, rgba(6, 47, 151, 0.12) 97%, rgba(6, 47, 151, 0.12) 100%)",
         "type": "color",
         "description": "bg for default dates calendar widget"
       },
@@ -5780,25 +5839,34 @@
         "description": "bg for hover badge dates calendar widget"
       },
       "extra": {
-        "value": "#FF9945",
+        "value": "#fff",
         "type": "color",
         "description": "bg for chips active state"
       }
     },
     "border": {
       "main": {
-        "value": "#DF7C2B",
+        "value": "rgba(23, 88, 254, 0.48)",
         "type": "color",
         "description": "border for event calendar widget"
       },
       "primary": {
-        "value": "#FF9945",
+        "value": "#062F97",
         "type": "color",
         "description": "border for default calendar dates"
       },
       "secondary": {
-        "value": "#FF9945",
+        "value": "#fff",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.24",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "border for chips default calendar "
       },
       "tertiaty": {
@@ -5843,7 +5911,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.8",
+              "value": "0.7",
               "space": "srgb"
             }
           }
@@ -5856,7 +5924,7 @@
         "description": "date/chips default"
       },
       "additional": {
-        "value": "#0b0b0b",
+        "value": "#050F28",
         "type": "color",
         "description": "date selected"
       },
@@ -5869,9 +5937,9 @@
   },
   "tech": {
     "bg": {
-      "value": "#1B1C22",
+      "value": "#030B1D",
       "type": "color",
-      "description": "for designer sections bg"
+      "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     }
   }
 }

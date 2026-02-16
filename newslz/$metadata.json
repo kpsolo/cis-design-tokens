@@ -1,5 +1,7 @@
 {
   "tokenSetOrder": [
-    "slz.default"
+    "cv.default",
+    "cv.v777",
+    "cv.rc"
   ]
 }
