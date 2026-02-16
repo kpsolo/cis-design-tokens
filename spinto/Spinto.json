@@ -1498,7 +1498,7 @@
         "description": "Bg for right sidebar on gamepage (desktop)"
       },
       "smart-banner": {
-        "value": "linear-gradient(96deg, #240D47 8%, #4C0C6B 61%)",
+        "value": "linear-gradient(130deg, #4865AB 4%, #000E2F 96%)",
         "type": "color",
         "description": "Bg for right sidebar on gamepage (desktop)"
       }
