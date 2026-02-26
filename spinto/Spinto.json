@@ -3835,6 +3835,20 @@
           "type": "color",
           "description": "use for menu items bg "
         },
+        "type3": {
+          "value": "#251646",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.8",
+                "space": "srgb"
+              }
+            }
+          },
+          "description": "use for menu items bg hover state"
+        },
         "accent": {
           "value": "linear-gradient(93deg, #5E0FAC 24.6%, #405985 51.79%, #21A35F 84.17%)",
           "type": "color",
