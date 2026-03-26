@@ -553,23 +553,15 @@
       "value": [
         {
           "x": "0",
-          "y": "2",
-          "blur": "2",
+          "y": "4",
+          "blur": "4",
           "spread": "0",
-          "color": "rgba(151, 100, 230, 0.30)",
-          "type": "innerShadow"
-        },
-        {
-          "x": "0",
-          "y": "2",
-          "blur": "16",
-          "spread": "0",
-          "color": "rgba(151, 100, 230, 0.40)",
-          "type": "innerShadow"
+          "color": "rgba(0, 24, 57, 0.80)",
+          "type": "dropShadow"
         }
       ],
       "type": "boxShadow",
-      "description": "use for cards inner shadow "
+      "description": "use for cards shadow "
     },
     "input": {
       "value": {
