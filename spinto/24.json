@@ -3788,7 +3788,7 @@
   "menu": {
     "bg": {
       "main": {
-        "value": "#0A051A",
+        "value": "#06192F",
         "type": "color",
         "description": "use for menu general bg "
       },
