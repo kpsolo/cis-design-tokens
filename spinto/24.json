@@ -3793,7 +3793,7 @@
         "description": "use for menu general bg "
       },
       "main-additional": {
-        "value": "#160829",
+        "value": "#08213D",
         "type": "color",
         "description": "bg for menu items zone"
       },
