@@ -1730,7 +1730,7 @@
           "description": "border for winners/prizes stata in top winners/tournament widget"
         },
         "main-additional": {
-          "value": "rgba(195, 90, 250, 0.20)",
+          "value": "linear-gradient(113deg, #239FFF -11.92%, rgba(35, 159, 255, 0.00) 34.32%, rgba(35, 159, 255, 0.00) 62.68%, #239FFF 109.17%)",
           "type": "color",
           "description": "border for status block in mob menu"
         }
