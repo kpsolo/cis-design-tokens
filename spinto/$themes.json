@@ -651,5 +651,13 @@
       "Padding.button.x-small-vertical": "89789d0bcd470bf65700235e469d2255a871e5a4",
       "test": "c5e805ded4af69f8fe75d151d42d35c5535621ca"
     }
+  },
+  {
+    "id": "5c91d53ec859c12a5c3e2fbf4456d0404338f832",
+    "name": "Spinto",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Spinto": "enabled"
+    }
   }
 ]
