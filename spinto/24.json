@@ -2869,11 +2869,11 @@
   },
   "font-family": {
     "main": {
-      "value": "Onest",
+      "value": "Lato",
       "type": "fontFamilies"
     },
     "accent": {
-      "value": "Onest",
+      "value": "Lato",
       "type": "fontFamilies"
     },
     "additional": {
