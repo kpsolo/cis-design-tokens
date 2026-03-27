@@ -895,9 +895,6 @@
       "type": "boxShadow",
       "description": "Shadow for button"
     },
-    "accent": {
-      "type": "boxShadow"
-    },
     "win-ticket": {
       "value": [
         {
@@ -991,9 +988,6 @@
       },
       "type": "boxShadow",
       "description": "accent blur menu items desktop"
-    },
-    "accent-extra": {
-      "type": "boxShadow"
     },
     "button-secondary": {
       "value": [
@@ -1874,7 +1868,7 @@
           "description": "border for winners/prizes stata in top winners/tournament widget"
         },
         "main-additional": {
-          "value": "linear-gradient(113deg, #239FFF -11.92%, rgba(35, 159, 255, 0.00) 34.32%, rgba(35, 159, 255, 0.00) 62.68%, #239FFF 109.17%)",
+          "value": "linear-gradient(113deg, #239FFF 0%, rgba(35, 159, 255, 0.00) 34.32%, rgba(35, 159, 255, 0.00) 62.68%, #239FFF 100%)",
           "type": "color",
           "description": "border for status block in mob menu"
         }
