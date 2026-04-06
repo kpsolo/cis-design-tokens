@@ -2065,7 +2065,7 @@
         "description": "border for tables header border"
       },
       "tertiary": {
-        "value": "#945cb166",
+        "value": "{menu.separator}",
         "type": "color",
         "description": "for line separator in light bg - dropdowns/tooltips + footer"
       },
