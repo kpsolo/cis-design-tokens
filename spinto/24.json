@@ -3,9 +3,9 @@
     "caption-extrasmall": {
       "value": {
         "fontFamily": "{fontFamilies.lato}",
-        "fontWeight": "{fontWeights.lato-0}",
+        "fontWeight": "300",
         "lineHeight": "{lineHeights.0}",
-        "fontSize": "{fontSize.3}",
+        "fontSize": "{font-size.3}",
         "letterSpacing": "{letterSpacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -123,6 +123,21 @@
       "value": {
         "fontFamily": "{fontFamilies.lato}",
         "fontWeight": "{fontWeights.lato-0}",
+        "lineHeight": "{lineHeights.8}",
+        "fontSize": "{fontSize.7}",
+        "letterSpacing": "{letterSpacing.1}",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.none}",
+        "textDecoration": "{textDecoration.none}"
+      },
+      "type": "typography",
+      "description": "Body"
+    },
+    "body-1-light": {
+      "value": {
+        "fontFamily": "{fontFamilies.lato}",
+        "fontWeight": "300",
         "lineHeight": "{lineHeights.8}",
         "fontSize": "{fontSize.7}",
         "letterSpacing": "{letterSpacing.1}",
@@ -1513,7 +1528,7 @@
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
     "additional": {
-      "value": "#160829",
+      "value": "#0F2C4E",
       "type": "color",
       "description": "use for messages, tournament, shop, faq cards, collection"
     },
@@ -1980,17 +1995,26 @@
   "small-elements": {
     "tooltip": {
       "type1": {
-        "value": "#351c6f",
+        "value": "#fff",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.1",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Use for tooltip background"
       },
       "type2": {
-        "value": "#faf8ffcc",
+        "value": "#303030",
         "type": "color",
         "description": "Use for tooltip content"
       },
       "type3": {
-        "value": "#faf8ff",
+        "value": "#1d1d1d",
         "type": "color",
         "description": "Use for tooltip content"
       }
@@ -2070,7 +2094,7 @@
         "description": "indicator for progress for loyalty icon ( menu mob, header desktop )"
       },
       "DEV1": {
-        "value": "#56abd6",
+        "value": "#67B0F9",
         "type": "color",
         "description": "for dev use - start gradient point"
       },
@@ -2341,7 +2365,7 @@
       "description": "Indication of unsuccess transactions"
     },
     "warning": {
-      "value": "#fdbb2c",
+      "value": "#FFAE00",
       "type": "color",
       "description": "Indication of warning"
     },
@@ -3955,7 +3979,7 @@
         "description": "use for header bg for unlogged"
       },
       "info": {
-        "value": "#c1aaff14",
+        "value": "#17395F",
         "type": "color",
         "description": "use as bg in menu info zone"
       },
@@ -4000,8 +4024,17 @@
           "description": "use for menu icons, text color"
         },
         "type2": {
-          "value": "#ffffffb3",
+          "value": "#fff",
           "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.8",
+                "space": "srgb"
+              }
+            }
+          },
           "description": "use for menu secondary icons, text color"
         },
         "accent": {
@@ -4027,7 +4060,7 @@
       "description": "Color of icon and text inside active item menu"
     },
     "content": {
-      "value": "#faf8ff",
+      "value": "#fff",
       "type": "color",
       "description": "Color for status and %"
     },
