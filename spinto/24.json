@@ -2220,7 +2220,7 @@
     },
     "check-box": {
       "accent": {
-        "value": "#6cdfff",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for check box border"
       },
@@ -2306,17 +2306,17 @@
       "description": "Lighttest (white)"
     },
     "accent-primary": {
-      "value": "#6cdfff",
+      "value": "#6CDFFF",
       "type": "color",
       "description": "Background for accent elements"
     },
     "accent-secondary": {
-      "value": "#6cdfff",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "Background for tertiary elements"
     },
     "accent-tertiary": {
-      "value": "#6cdfff",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "Background for tertiary elements"
     },
@@ -2724,7 +2724,7 @@
       "description": "icons in inputs (registration, profile)"
     },
     "accent": {
-      "value": "#6cdfff",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "Use for active icons"
     },
@@ -2883,7 +2883,7 @@
         "description": "Input value text color"
       },
       "accent": {
-        "value": "#6cdfff",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "Use for active select text"
       },
@@ -3770,7 +3770,7 @@
         "description": "use for  (desktop)"
       },
       "accent": {
-        "value": "#6cdfff",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for bottom menu categories active state (desktop)"
       },
@@ -3828,7 +3828,7 @@
       "description": "use for links on lighter bg (notifications/tooltips), game page"
     },
     "accent": {
-      "value": "#6cdfff",
+      "value": "{base.accent-primary}",
       "type": "color"
     },
     "error": {
@@ -3897,7 +3897,7 @@
         "description": "for main headers"
       },
       "accent": {
-        "value": "#6cdfff",
+        "value": "{base.accent-primary}",
         "type": "color"
       },
       "additional": {
@@ -4022,7 +4022,7 @@
       "description": "for menu items text/icon default state"
     },
     "accent": {
-      "value": "#70ddfe",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
     },
@@ -4384,7 +4384,7 @@
         "type": "color"
       },
       "accent": {
-        "value": "#6cdfff",
+        "value": "{base.accent-primary}",
         "type": "color"
       },
       "additional": {
@@ -4398,7 +4398,7 @@
         "description": "use for lines in right sidebar"
       },
       "accent-additional": {
-        "value": "#6cdfff",
+        "value": "{base.accent-primary}",
         "type": "color"
       },
       "hover": {
@@ -4417,7 +4417,7 @@
         "description": "use for close icon in right sidebar"
       },
       "accent-extra": {
-        "value": "#6cdfff",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for tournament results in right sidebar"
       }
@@ -4474,7 +4474,7 @@
     },
     "content": {
       "accent": {
-        "value": "#6cdfff",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for accent text on card"
       }
