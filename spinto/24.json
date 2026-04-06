@@ -1415,7 +1415,7 @@
       "description": "use for prize item in tournament/lotery page "
     },
     "button": {
-      "value": "8px",
+      "value": "100px",
       "type": "borderRadius",
       "description": "Radius for buttons"
     },
@@ -1550,7 +1550,7 @@
       "description": "bg in pregame under games"
     },
     "social-icons": {
-      "value": "#251646",
+      "value": "rgba(40, 73, 116, 0.40)",
       "type": "color",
       "description": "use for bg under social icons"
     },
