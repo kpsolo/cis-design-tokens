@@ -919,12 +919,12 @@
     },
     "tips": {
       "value": {
-        "color": "#9764e64d",
-        "type": "innerShadow",
-        "x": 0,
-        "y": 1,
-        "blur": 2,
-        "spread": 0
+        "x": "0",
+        "y": "0",
+        "blur": "0",
+        "spread": "0",
+        "color": "transparent",
+        "type": "innerShadow"
       },
       "type": "boxShadow",
       "description": "Shadow for small elements on top of components,labels, small game thumbs"
