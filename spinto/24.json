@@ -1858,27 +1858,27 @@
       },
       "border": {
         "1": {
-          "value": "linear-gradient(158deg, #fff5bf 0%, #e8b1526e 47.85%, #283753 85.44%)",
+          "value": "linear-gradient(113deg, #239FFF -11.92%, rgba(35, 159, 255, 0.00) 34.32%, rgba(35, 159, 255, 0.00) 62.68%, #239FFF 109.17%)",
           "type": "color",
           "description": "1st deopsit card stroke bg"
         },
         "3": {
-          "value": "#65429e",
+          "value": "linear-gradient(113deg, #239FFF -11.92%, rgba(35, 159, 255, 0.00) 34.32%, rgba(35, 159, 255, 0.00) 62.68%, #239FFF 109.17%)",
           "type": "color",
           "description": "label border on cards on a main page\nwinning now border"
         },
         "4": {
-          "value": "linear-gradient(180deg, #bd0f1b 0%, #000000 100%)",
+          "value": "linear-gradient(113deg, #239FFF -11.92%, rgba(35, 159, 255, 0.00) 34.32%, rgba(35, 159, 255, 0.00) 62.68%, #239FFF 109.17%)",
           "type": "color",
           "description": "popup status widget border"
         },
         "1-additional": {
-          "value": "#fff5bf",
+          "value": "linear-gradient(113deg, #239FFF -11.92%, rgba(35, 159, 255, 0.00) 34.32%, rgba(35, 159, 255, 0.00) 62.68%, #239FFF 109.17%)",
           "type": "color",
           "description": "DEV - 1st deposit card stroke, welcomeback popup border"
         },
         "main": {
-          "value": "#00000000",
+          "value": "linear-gradient(113deg, #239FFF -11.92%, rgba(35, 159, 255, 0.00) 34.32%, rgba(35, 159, 255, 0.00) 62.68%, #239FFF 109.17%)",
           "type": "color",
           "description": "border for winners/prizes stata in top winners/tournament widget"
         },
@@ -2000,7 +2000,7 @@
         "$extensions": {
           "studio.tokens": {
             "modify": {
-              "type": "lighten",
+              "type": "alpha",
               "value": "0.1",
               "space": "srgb"
             }
@@ -2009,12 +2009,21 @@
         "description": "Use for tooltip background"
       },
       "type2": {
-        "value": "#303030",
+        "value": "#fff",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.8",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Use for tooltip content"
       },
       "type3": {
-        "value": "#1d1d1d",
+        "value": "#fff",
         "type": "color",
         "description": "Use for tooltip content"
       }
@@ -2454,7 +2463,7 @@
   "button": {
     "bg": {
       "primary": {
-        "value": "linear-gradient(93deg, #023688 2.36%, #1d5ec4 50%, #00b0cd 97.64%)",
+        "value": "linear-gradient(181deg, #FFB1C2 9.45%, #FF0B89 60.88%)",
         "type": "color",
         "description": "Background for primary buttons"
       },
@@ -2484,7 +2493,7 @@
         "description": "Background for tertiary buttons disabled"
       },
       "secondary": {
-        "value": "linear-gradient(97deg, #2d1551 5.78%, #6630b8 100%)",
+        "value": "linear-gradient(181deg, #CBFE89 -3.81%, #169A50 71.47%)",
         "type": "color",
         "description": "Background for secondary buttons"
       },
@@ -2623,7 +2632,7 @@
         "description": "border color for buttons disabled"
       },
       "primary": {
-        "value": "#00000000",
+        "value": "linear-gradient(180deg, #FF6FB6 0%, #FF0A85 100%)",
         "type": "color",
         "description": "border color for primary buttons  default"
       },
@@ -3916,7 +3925,7 @@
     },
     "title": {
       "main": {
-        "value": "#f5edff",
+        "value": "#fff",
         "type": "color",
         "description": "for main headers"
       },
