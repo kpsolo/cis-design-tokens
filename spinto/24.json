@@ -1868,7 +1868,7 @@
           "description": "border for winners/prizes stata in top winners/tournament widget"
         },
         "main-additional": {
-          "value": "linear-gradient(113deg, #239FFF 0%, rgba(35, 159, 255, 0.00) 34.32%, rgba(35, 159, 255, 0.00) 62.68%, #239FFF 100%)",
+          "value": "linear-gradient(113deg, #239FFF -11.92%, rgba(35, 159, 255, 0.00) 34.32%, rgba(35, 159, 255, 0.00) 62.68%, #239FFF 109.17%)",
           "type": "color",
           "description": "border for status block in mob menu"
         }
@@ -3940,7 +3940,7 @@
         "description": "use for menu general bg"
       },
       "main-additional": {
-        "value": "#08213d",
+        "value": "linear-gradient(181deg, rgba(72, 143, 230, 0.20) -15.77%, rgba(30, 45, 107, 0.20) 99.34%)",
         "type": "color",
         "description": "bg for menu items zone"
       },
