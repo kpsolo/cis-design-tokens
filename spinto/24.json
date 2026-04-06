@@ -2102,7 +2102,7 @@
     },
     "label": {
       "bg": {
-        "value": "linear-gradient(-80deg, #571ddc 14.3%, #209f4a 84.26%)",
+        "value": "linear-gradient(91deg, #D5166F 0.84%, #62C2F3 96.41%)",
         "type": "color",
         "description": "use for bg in game thumbs"
       },
@@ -4005,14 +4005,14 @@
           "description": "use for menu secondary icons, text color"
         },
         "accent": {
-          "value": "#c35afa",
+          "value": "{base.accent-primary}",
           "type": "color",
           "description": "use for menu icons accent  color"
         }
       }
     },
     "item-active": {
-      "value": "#c35afa",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "for menu item icon/text active state"
     },
