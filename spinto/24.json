@@ -4032,7 +4032,7 @@
       "description": "Color for status and %"
     },
     "separator": {
-      "value": "#c35afa33",
+      "value": "rgba(49, 165, 242, 0.20)",
       "type": "color",
       "description": "bg color for separator line"
     },
