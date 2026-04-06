@@ -2493,7 +2493,7 @@
         "description": "Background for tertiary buttons disabled"
       },
       "secondary": {
-        "value": "linear-gradient(181deg, #CBFE89 -3.81%, #169A50 71.47%)",
+        "value": "linear-gradient(181deg, #CBFE89 1.2%, #169A50 66.63%)",
         "type": "color",
         "description": "Background for secondary buttons"
       },
@@ -2652,7 +2652,7 @@
         "description": "border color for primary buttons disabled state"
       },
       "secondary": {
-        "value": "#00000000",
+        "value": "linear-gradient(181deg, #0ACF61 9.45%, #179A51 60.88%)",
         "type": "color",
         "description": "border color for secondary buttons default state"
       },
