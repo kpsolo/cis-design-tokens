@@ -1595,7 +1595,7 @@
       "description": "use as bg for welcome bonus"
     },
     "primary": {
-      "value": "#0a0318",
+      "value": "#06192F",
       "type": "color",
       "description": "first level bg"
     },
