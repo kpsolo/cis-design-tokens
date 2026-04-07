@@ -1399,7 +1399,7 @@
       "description": "Radius for thumbs"
     },
     "navbar": {
-      "value": "8px",
+      "value": "100px",
       "type": "borderRadius",
       "description": "use for navbar on main page"
     },
@@ -3470,7 +3470,7 @@
     },
     "small-card": {
       "bg": {
-        "value": "linear-gradient(91deg, #21a35f 14.68%, #1baaa7 55.2%, #5e0fac 78.44%)",
+        "value": "{menu.desktop.bg.accent}",
         "type": "color",
         "description": "use for bg for bonus widget in desktop header"
       },
@@ -3752,16 +3752,16 @@
   "header": {
     "bg": {
       "balance": {
-        "value": "#7842cc1a",
+        "value": "rgba(66, 126, 204, 0.20)",
         "type": "color",
         "description": "use for bg under balance amount"
       },
       "main": {
-        "value": "linear-gradient(180deg, #190631 0%, #19063100 100%)",
+        "value": "rgba(11, 45, 84, 0.20)",
         "type": "color"
       },
       "sticky": {
-        "value": "linear-gradient(180deg, #190631 0%, #19063100 100%)",
+        "value": "{header.bg.main}",
         "type": "color"
       },
       "top-desktop": {
