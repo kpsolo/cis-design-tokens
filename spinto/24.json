@@ -1685,7 +1685,7 @@
         "description": "Bg for sidebar on gamepage (desktop)"
       },
       "footer-app": {
-        "value": "#251646",
+        "value": "rgba(60, 104, 161, 0.50)",
         "type": "color",
         "description": "bg for app button in footer"
       },
