@@ -1511,6 +1511,11 @@
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
+    "technical-additional": {
+      "value": "#18335A",
+      "type": "color",
+      "description": "for letters secondary bg (cards)"
+    },
     "additional": {
       "value": "#0F2C4E",
       "type": "color",

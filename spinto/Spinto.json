@@ -1860,6 +1860,11 @@
       "value": "#2c1c50",
       "type": "color",
       "description": "use for bg under social icons in mob menu - hover state"
+    },
+    "technical-additional": {
+      "value": "#18335A",
+      "type": "color",
+      "description": "for letters secondary bg (cards)"
     }
   },
   "small-elements": {
