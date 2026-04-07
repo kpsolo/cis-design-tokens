@@ -3810,7 +3810,7 @@
       "description": "use for accent text in 1st deposit widget"
     },
     "primary": {
-      "value": "#fcf9ff",
+      "value": "#FEFEFF",
       "type": "color",
       "description": "for titles on images and cards (tournament,lottery,news)"
     },
@@ -3825,7 +3825,7 @@
       "description": "(delete?)"
     },
     "content": {
-      "value": "#c5cfe4",
+      "value": "#F8FCFF",
       "type": "color",
       "description": "use for large text blocks\n\n(delete?) Maybe for small items with darker background?(labels, crypto on footer)"
     },
@@ -3879,12 +3879,12 @@
     },
     "opacity": {
       "1": {
-        "value": "#fcf9ffcc",
+        "value": "#C4CDDD",
         "type": "color",
         "description": "footer seo header text,"
       },
       "2": {
-        "value": "#fcf9ffb3",
+        "value": "rgba(250,253,255,0.7)",
         "type": "color",
         "description": "footer seo text, prize in tournament/lottery list"
       },
