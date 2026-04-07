@@ -1938,7 +1938,7 @@
     "blur": {
       "value": "12px",
       "type": "dimension",
-      "description": "use for bg blue in bottom navbar mob/desktop"
+      "description": "use for bg blue in bottom navbar mob/desktop, header blur "
     },
     "blur-additional": {
       "value": "32px",
@@ -3967,7 +3967,7 @@
         "description": "use for banner bg for unlogged"
       },
       "header": {
-        "value": "linear-gradient(180deg, #190631 0%, #19063100 100%)",
+        "value": "rgba(11, 45, 84, 0.10)",
         "type": "color",
         "description": "use for header bg for unlogged"
       },
