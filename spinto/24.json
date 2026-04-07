@@ -1507,7 +1507,7 @@
   },
   "bg": {
     "technical": {
-      "value": "#160829",
+      "value": "#18335A",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
@@ -4652,7 +4652,7 @@
   },
   "tech": {
     "bg": {
-      "value": "#030b14",
+      "value": "#030E1A",
       "type": "color",
       "description": "for DIS use, bg for sectioins"
     },
