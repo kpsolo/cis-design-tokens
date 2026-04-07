@@ -1384,7 +1384,7 @@
   },
   "radius": {
     "card": {
-      "value": "8px",
+      "value": "12px",
       "type": "borderRadius",
       "description": "Radius for cards amd widgets"
     },
@@ -1815,9 +1815,9 @@
           "description": "bg for promo mini cards on mob"
         },
         "5": {
-          "value": "#160829",
+          "value": "linear-gradient(180deg, rgba(177, 212, 255, 0.30) 0%, rgba(21, 65, 119, 0.30) 100%)",
           "type": "color",
-          "description": "bg for bonus balance card/limits card"
+          "description": "bg for loyaty cards in menu mob"
         },
         "6": {
           "value": "linear-gradient(270deg, #5e26dd 0%, #1baaa7 50%, #21a254 100%)",
