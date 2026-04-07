@@ -3475,7 +3475,7 @@
         "description": "use for bg for bonus widget in desktop header"
       },
       "bg-additional": {
-        "value": "linear-gradient(91deg, #21a35f 11.08%, #7d1cde 97.84%)",
+        "value": "linear-gradient(90deg, #E8198B 0%, #5BC4FC 72.4%)",
         "type": "color",
         "description": "use for bg hover state for bonus widget in desktop header"
       },
@@ -3770,7 +3770,7 @@
         "description": "bg header top elements ( buttons support, mobapp) for desktop"
       },
       "border": {
-        "value": "linear-gradient(109deg, #71BBFF -0.91%, rgba(113, 187, 255, 0.00) 27.75%, rgba(113, 187, 255, 0.00) 67.51%, #71BBFF 100.45%)",
+        "value": "linear-gradient(109deg, #71BBFF -0%, rgba(113, 187, 255, 0.00) 27.75%, rgba(113, 187, 255, 0.00) 67.51%, #71BBFF 100%)",
         "type": "color",
         "description": "bg header on bottom menu for desktop"
       }
