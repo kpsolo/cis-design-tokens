@@ -1963,7 +1963,7 @@
     "blur-elements": {
       "value": "16px",
       "type": "dimension",
-      "description": "use as blur for calendar bg "
+      "description": "use as blur for calendar bg, loyalty promo cards in menu mob"
     },
     "blur-achivements": {
       "value": "16px",
