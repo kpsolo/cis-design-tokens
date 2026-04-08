@@ -1640,7 +1640,7 @@
         "description": "Main banner background"
       },
       "footer": {
-        "value": "#050318",
+        "value": "#06192F",
         "type": "color",
         "description": "Background color for footer"
       },
@@ -1685,7 +1685,7 @@
         "description": "Bg for sidebar on gamepage (desktop)"
       },
       "footer-app": {
-        "value": "rgba(60, 104, 161, 0.50)",
+        "value": "{small-elements.footer.type2}",
         "type": "color",
         "description": "bg for app button in footer"
       },
@@ -1815,9 +1815,9 @@
           "description": "bg for winning now desktop"
         },
         "4": {
-          "value": "linear-gradient(96deg, #240d47 8.01%, #4c0c6b 61.46%)",
+          "value": "linear-gradient(32deg, rgba(15, 37, 64, 0.50) 0%, rgba(31, 75, 128, 0.50) 96.04%)",
           "type": "color",
-          "description": "bg for promo mini cards on mob"
+          "description": "bg for promo mini cards under slider"
         },
         "5": {
           "value": "linear-gradient(180deg, rgba(177, 212, 255, 0.30) 0%, rgba(21, 65, 119, 0.30) 100%)",
@@ -1830,7 +1830,7 @@
           "description": "1st deposit widget bg - Desktop"
         },
         "7": {
-          "value": "linear-gradient(96deg, #078bc4 11.58%, #4c0c6b 72.62%)",
+          "value": "linear-gradient(87deg, rgba(255, 11, 137, 0.80) 15.39%, rgba(98, 194, 243, 0.80) 79.05%)",
           "type": "color",
           "description": "mob app widget - Mob / Desktop"
         },
@@ -2134,7 +2134,7 @@
         "description": "use for icons color in game thumb label"
       },
       "bg-additional": {
-        "value": "#b142f233",
+        "value": "rgba(43, 77, 124, 0.30)",
         "type": "color",
         "description": "use for labels on cards in a main page"
       },
@@ -2230,7 +2230,7 @@
         "description": "for social icons bg"
       },
       "type2": {
-        "value": "#150c27",
+        "value": "{bg.social-icons}",
         "type": "color",
         "description": "bg under contact zone"
       },
