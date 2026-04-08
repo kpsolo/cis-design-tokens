@@ -3995,12 +3995,12 @@
     "desktop": {
       "bg": {
         "type1": {
-          "value": "#0a051a",
+          "value": "rgba(6, 25, 47, 0.20)",
           "type": "color",
           "description": "use for menu general bg"
         },
         "type2": {
-          "value": "#251646",
+          "value": "transparent",
           "type": "color",
           "description": "use for menu items bg"
         },
