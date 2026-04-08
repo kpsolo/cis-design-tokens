@@ -2213,7 +2213,7 @@
         "description": "use for badge in main tapbar"
       },
       "type2": {
-        "value": "#251646",
+        "value": "#233962",
         "type": "color",
         "description": "use for badges in navbar, menu top part , lottery tickets sale,check box"
       },
