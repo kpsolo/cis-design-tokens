@@ -2134,7 +2134,7 @@
         "description": "use for icons color in game thumb label"
       },
       "bg-additional": {
-        "value": "rgba(43, 77, 124, 0.30)",
+        "value": "rgba(56, 109, 180, 0.40)",
         "type": "color",
         "description": "use for labels on cards in a main page"
       },
