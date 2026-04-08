@@ -1419,7 +1419,7 @@
       "description": "Radius for buttons"
     },
     "button-extra": {
-      "value": "4px",
+      "value": "16px",
       "type": "borderRadius",
       "description": "Radius for extrasmall buttons in gamepage"
     },
@@ -1507,7 +1507,7 @@
   },
   "bg": {
     "technical": {
-      "value": "#18335A",
+      "value": "linear-gradient(181deg, rgba(72, 143, 230, 0.20) 0%, rgba(30, 45, 107, 0.20) 99.34%)",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
@@ -1835,7 +1835,7 @@
           "description": "mob app widget - Mob / Desktop"
         },
         "3-additional": {
-          "value": "#63298529",
+          "value": "rgba(50, 51, 96, 0.16)",
           "type": "color",
           "description": "bg for winnig now, tournament widget on home page - mob"
         },
@@ -2247,7 +2247,7 @@
         "description": "use for check box border"
       },
       "fill": {
-        "value": "#210d49",
+        "value": "transparent",
         "type": "color",
         "description": "radio-button/check-box in lottery/shop cards desktop"
       },
@@ -3449,7 +3449,7 @@
       "description": "for referral cards numbers"
     },
     "dropdown-custom": {
-      "value": "#160829e6",
+      "value": "linear-gradient(181deg, rgba(8, 37, 71, 0.40) 1.55%, rgba(8, 37, 71, 0.80) 83.86%)",
       "type": "color",
       "description": "For bg on sort , filter dropdown and language dropdown"
     },
