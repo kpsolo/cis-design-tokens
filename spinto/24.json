@@ -812,12 +812,12 @@
     },
     "card": {
       "value": {
-        "color": "#001839cc",
-        "type": "dropShadow",
-        "x": 0,
-        "y": 4,
-        "blur": 4,
-        "spread": 0
+        "x": "0",
+        "y": "1",
+        "blur": "2",
+        "spread": "0",
+        "color": "rgba(5, 16, 30, 0.80)",
+        "type": "dropShadow"
       },
       "type": "boxShadow",
       "description": "use for cards shadow"
@@ -1517,7 +1517,7 @@
       "description": "for letters secondary bg (cards)"
     },
     "additional": {
-      "value": "#0F2C4E",
+      "value": "linear-gradient(181deg, rgba(72, 143, 230, 0.20) 0.72%, rgba(30, 45, 107, 0.20) 84.44%)",
       "type": "color",
       "description": "use for messages, tournament, shop, faq cards, collection"
     },
@@ -1869,12 +1869,12 @@
         "main": {
           "value": "linear-gradient(124deg, rgba(35, 159, 255, 0.60) 15.41%, rgba(35, 159, 255, 0.00) 30.1%, rgba(35, 159, 255, 0.00) 44.74%, rgba(35, 159, 255, 0.00) 65.44%, rgba(35, 159, 255, 0.60) 73.34%)",
           "type": "color",
-          "description": "border for winners/prizes stata in top winners/tournament widget"
+          "description": "border for large cards"
         },
         "main-additional": {
-          "value": "{bg.card.border.main}",
+          "value": "linear-gradient(101deg, #1E67A9 2.65%, rgba(35, 159, 255, 0.00) 29.91%, rgba(35, 159, 255, 0.00) 69.47%, rgba(35, 159, 255, 0.20) 88.35%, #1E67A9 97.55%)",
           "type": "color",
-          "description": "border for status block in mob menu"
+          "description": "border for small cards"
         }
       }
     },
