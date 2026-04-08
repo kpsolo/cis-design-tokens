@@ -800,12 +800,12 @@
     },
     "thumb": {
       "value": {
-        "color": "#c5a6f266",
-        "type": "innerShadow",
-        "x": 0,
-        "y": 2,
-        "blur": 16,
-        "spread": 0
+        "x": "0",
+        "y": "0",
+        "blur": "0",
+        "spread": "0",
+        "color": "transparent",
+        "type": "innerShadow"
       },
       "type": "boxShadow",
       "description": "games thumbs"
@@ -1394,7 +1394,7 @@
       "description": "Radius for cards amd widgets border bg ( 1st deposit card)"
     },
     "game-item": {
-      "value": "8px",
+      "value": "12px",
       "type": "borderRadius",
       "description": "Radius for thumbs"
     },
@@ -1847,12 +1847,12 @@
       },
       "border": {
         "1": {
-          "value": "{bg.card.border.main}",
+          "value": "linear-gradient(21deg, rgba(35, 159, 255, 0.60) 1.24%, rgba(35, 159, 255, 0.00) 38.27%)",
           "type": "color",
-          "description": "1st deopsit card stroke bg"
+          "description": "thumbs stroke"
         },
         "3": {
-          "value": "{bg.card.border.main}",
+          "value": "linear-gradient(91deg, #67B2FF 0.81%, rgba(103, 178, 255, 0.00) 26.07%, rgba(103, 178, 255, 0.00) 65.48%, #67B2FF 99.48%)",
           "type": "color",
           "description": "label border on cards on a main page\nwinning now border"
         },
@@ -1946,9 +1946,9 @@
       "description": "use for bg blue in bottom navbar mob/desktop, header blur "
     },
     "blur-additional": {
-      "value": "32px",
+      "value": "4px",
       "type": "dimension",
-      "description": "use for bg blue in 1st deposit cards"
+      "description": "use for bg blue ifor small elements (ex labels)"
     },
     "blur-extra": {
       "value": "48px",
@@ -2019,7 +2019,7 @@
     },
     "thumb": {
       "provider-logo-bg": {
-        "value": "linear-gradient(0deg, #130329 0%, #130329 44%, #13032900 100%)",
+        "value": "linear-gradient(0deg, #082547 0%, #082547 41.35%, rgba(8, 37, 71, 0.00) 100%)",
         "type": "color",
         "description": "Background under provider logo on game thumb"
       },
@@ -2124,9 +2124,9 @@
     },
     "label": {
       "bg": {
-        "value": "linear-gradient(91deg, #D5166F 0.84%, #62C2F3 96.41%)",
+        "value": "rgba(56, 109, 180, 0.60)",
         "type": "color",
-        "description": "use for bg in game thumbs"
+        "description": "use for label bg in game thumbs"
       },
       "content": {
         "value": "#ffffff",
@@ -2202,7 +2202,7 @@
       }
     },
     "sign": {
-      "value": "#ebcd20",
+      "value": "#F7D306",
       "type": "color",
       "description": "star on game thumb"
     },
