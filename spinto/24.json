@@ -1805,9 +1805,9 @@
           "description": "1st deposit widget bg - mob"
         },
         "2": {
-          "value": "linear-gradient(180deg, #18023199 0%, #582c9599 100%)",
+          "value": "#183457",
           "type": "color",
-          "description": "bg for banner title , categories cards"
+          "description": "bg for categories cards"
         },
         "3": {
           "value": "#371766e6",
