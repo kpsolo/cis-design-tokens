@@ -3894,7 +3894,7 @@
         "description": "footer seo text, prize in tournament/lottery list"
       },
       "3": {
-        "value": "#fcf9ffb3",
+        "value": "rgba(243, 247, 255, 0.70)",
         "type": "color"
       },
       "4": {
