@@ -934,7 +934,7 @@
         "y": "2",
         "blur": "4",
         "spread": "0",
-        "color": "rgba(24, 52, 87, 0.60)",
+        "color": "rgba(2, 9, 19, 0.60)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
