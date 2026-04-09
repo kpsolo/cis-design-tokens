@@ -3441,7 +3441,7 @@
       "description": "for referral cards numbers"
     },
     "dropdown-custom": {
-      "value": "linear-gradient(181deg, rgba(8, 37, 71, 0.40) 1.55%, rgba(8, 37, 71, 0.80) 83.86%)",
+      "value": "linear-gradient(181deg, rgba(35, 97, 169, 0.70) 2.37%, rgba(8, 37, 71, 0.90) 83.29%)",
       "type": "color",
       "description": "For bg on sort , filter dropdown and language dropdown"
     },
