@@ -1817,7 +1817,7 @@
           "description": "bg for loyaty cards in menu mob"
         },
         "6": {
-          "value": "linear-gradient(270deg, #5e26dd 0%, #1baaa7 50%, #21a254 100%)",
+          "value": "linear-gradient(90deg, rgba(255, 59, 154, 0.60) 0%, rgba(33, 147, 205, 0.60) 57%)",
           "type": "color",
           "description": "1st deposit widget bg - Desktop"
         },
@@ -3453,12 +3453,12 @@
     },
     "small-card": {
       "bg": {
-        "value": "{menu.desktop.bg.accent}",
+        "value": "linear-gradient(90deg, #E8198B 0%, #5BC4FC 90.23%)",
         "type": "color",
         "description": "use for bg for bonus widget in desktop header"
       },
       "bg-additional": {
-        "value": "linear-gradient(88deg, #169A50 20%, #73D0FF 93.85%)",
+        "value": "linear-gradient(90deg, #E8198B 30%, #5BC4FC 90.23%)",
         "type": "color",
         "description": "use for bg hover state for bonus widget in desktop header"
       },
@@ -4051,9 +4051,9 @@
       "description": "bg color for separator line"
     },
     "separator-type2": {
-      "value": "linear-gradient(180deg, #70ddfe66 0%, #43849800 100%)",
+      "value": "rgba(54, 98, 144, 0.80)",
       "type": "color",
-      "description": "border for balances in mob menu"
+      "description": "border for desktop menu sidebar"
     }
   },
   "max-width": {
