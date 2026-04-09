@@ -1835,7 +1835,7 @@
           "description": "mob app widget - Mob / Desktop"
         },
         "3-additional": {
-          "value": "rgba(50, 51, 96, 0.16)",
+          "value": "rgba(56, 109, 180, 0.40)",
           "type": "color",
           "description": "bg for winnig now, tournament widget on home page - mob"
         },
