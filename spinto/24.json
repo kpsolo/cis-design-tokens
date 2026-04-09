@@ -930,12 +930,12 @@
     },
     "header": {
       "value": {
-        "color": "#2626264d",
-        "type": "dropShadow",
-        "x": 0,
-        "y": 0,
-        "blur": 0,
-        "spread": 0
+        "x": "0",
+        "y": "2",
+        "blur": "4",
+        "spread": "0",
+        "color": "rgba(24, 52, 87, 0.60)",
+        "type": "dropShadow"
       },
       "type": "boxShadow",
       "description": "Shadow for header"
