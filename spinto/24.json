@@ -4000,22 +4000,13 @@
       },
       "content": {
         "type1": {
-          "value": "#ffffff",
+          "value": "#E5F6FF",
           "type": "color",
           "description": "use for menu icons, text color"
         },
         "type2": {
-          "value": "#fff",
+          "value": "#E5F6FF",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.8",
-                "space": "srgb"
-              }
-            }
-          },
           "description": "use for menu secondary icons, text color"
         },
         "accent": {
