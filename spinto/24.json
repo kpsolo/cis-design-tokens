@@ -1294,7 +1294,7 @@
     },
     "tooltip": {
       "value": {
-        "color": "{bg.card.border.main-additional}",
+        "color": "linear-gradient(107deg, #239FFF 2.91%, rgba(35, 159, 255, 0.00) 37.32%, rgba(35, 159, 255, 0.00) 58.43%, #239FFF 93.01%)",
         "width": "1px",
         "style": "solid"
       },
@@ -1976,17 +1976,8 @@
   "small-elements": {
     "tooltip": {
       "type1": {
-        "value": "#fff",
+        "value": "rgba(73, 120, 179, 0.60)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Use for tooltip background"
       },
       "type2": {
