@@ -3988,7 +3988,7 @@
           "description": "use for menu items bg"
         },
         "type3": {
-          "value": "#251646cc",
+          "value": "transparent",
           "type": "color",
           "description": "use for menu items bg hover state"
         },
