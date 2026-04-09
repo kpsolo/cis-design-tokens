@@ -3993,7 +3993,7 @@
           "description": "use for menu items bg hover state"
         },
         "accent": {
-          "value": "linear-gradient(91deg, #D5166F 0%, #62C2F3 97.21%)",
+          "value": "linear-gradient(88deg, #169A50 1.87%, #73D0FF 93.85%)",
           "type": "color",
           "description": "use for menu promo items bg"
         }
