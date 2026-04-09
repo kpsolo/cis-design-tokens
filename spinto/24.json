@@ -1294,7 +1294,7 @@
     },
     "tooltip": {
       "value": {
-        "color": "{small-elements.tooltip.type1}",
+        "color": "{bg.card.border.main-additional}",
         "width": "1px",
         "style": "solid"
       },
