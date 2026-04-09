@@ -3744,12 +3744,12 @@
   "header": {
     "bg": {
       "balance": {
-        "value": "rgba(66, 126, 204, 0.20)",
+        "value": "rgba(48, 109, 189, 0.40)",
         "type": "color",
         "description": "use for bg under balance amount"
       },
       "main": {
-        "value": "rgba(11, 45, 84, 0.20)",
+        "value": "rgba(11, 45, 84, 0.60)",
         "type": "color"
       },
       "sticky": {
