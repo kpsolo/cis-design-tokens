@@ -3153,7 +3153,7 @@
       "type": "color"
     },
     "amount-jackpot": {
-      "value": "linear-gradient(180deg, #bcdaf6 0%, #ffffff 100%)",
+      "value": "#FFF",
       "type": "color"
     },
     "secret-mirror-title": {
@@ -3249,14 +3249,14 @@
     "jackpot-title": {
       "value": {
         "fontFamily": "{fontFamilies.lato}",
-        "fontWeight": "{fontWeights.lato-5}",
+        "fontWeight": "800",
         "lineHeight": "{lineHeights.39}",
         "fontSize": "{fontSize.15}",
-        "letterSpacing": "{letterSpacing.3}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.uppercase}",
-        "textDecoration": "{textDecoration.none}"
+        "textDecoration": "{textDecoration.none}",
+        "letterSpacing": "0.5"
       },
       "type": "typography",
       "description": "Title for jackpot widget"
@@ -3264,10 +3264,10 @@
     "jackpot-title-additional": {
       "value": {
         "fontFamily": "{fontFamilies.lato}",
-        "fontWeight": "{fontWeights.lato-5}",
+        "fontWeight": "800",
         "lineHeight": "{lineHeights.30}",
         "fontSize": "{fontSize.14}",
-        "letterSpacing": "{letterSpacing.4}",
+        "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.none}",
