@@ -1802,9 +1802,9 @@
           "description": "bg for categories cards"
         },
         "3": {
-          "value": "#371766e6",
+          "value": "rgba(73, 120, 179, 0.60)",
           "type": "color",
-          "description": "bg for winning now desktop"
+          "description": "bg for cookies"
         },
         "4": {
           "value": "linear-gradient(32deg, rgba(15, 37, 64, 0.50) 0%, rgba(31, 75, 128, 0.50) 96.04%)",
