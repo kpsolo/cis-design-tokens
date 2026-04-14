@@ -1520,7 +1520,7 @@
         "description": "use for desktop popups bg gradient"
       },
       "type1": {
-        "value": "#050318",
+        "value": "linear-gradient(180deg, #071E39 0%, #092546 100%)",
         "type": "color",
         "description": "use for popups bg - mobile"
       },
