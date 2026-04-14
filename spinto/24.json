@@ -1556,7 +1556,7 @@
       "description": "for tournament on main page, news, lottery"
     },
     "top-surface-additional": {
-      "value": "#f5f1fee6",
+      "value": "#fff",
       "type": "color",
       "description": "content"
     },
