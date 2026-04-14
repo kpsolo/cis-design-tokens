@@ -1792,7 +1792,7 @@
     "card": {
       "bg": {
         "1": {
-          "value": "linear-gradient(270deg, #7942c7e6 0%, #733fbde6 46.99%, #7942c7e6 100%)",
+          "value": "linear-gradient(88deg, #169A50 1.87%, #73D0FF 93.85%)",
           "type": "color",
           "description": "1st deposit widget bg - mob"
         },
