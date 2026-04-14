@@ -4010,7 +4010,7 @@
           "description": "use for menu secondary icons, text color"
         },
         "accent": {
-          "value": "{base.accent-primary}",
+          "value": "#F2E125",
           "type": "color",
           "description": "use for menu icons accent  color"
         }
