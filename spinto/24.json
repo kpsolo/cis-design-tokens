@@ -2416,12 +2416,12 @@
   "navbar": {
     "bg": {
       "main": {
-        "value": "#5a27a933",
+        "value": "rgba(94, 146, 218, 0.20)",
         "type": "color",
         "description": "Use for bottom navbar on mainpage mob"
       },
       "button": {
-        "value": "linear-gradient(93deg, #570288 -9.84%, #B546FF 120.24%)",
+        "value": "rgba(94, 146, 218, 0.20)",
         "type": "color",
         "description": "use for deposit/reg buttton color on mob/desktopp navbar "
       }
