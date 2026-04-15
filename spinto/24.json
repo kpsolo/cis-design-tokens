@@ -2416,7 +2416,7 @@
   "navbar": {
     "bg": {
       "main": {
-        "value": "rgba(94, 146, 218, 0.20)",
+        "value": "rgba(23, 52, 93, 0.60)",
         "type": "color",
         "description": "Use for bottom navbar on mainpage mob"
       },
