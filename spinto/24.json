@@ -4022,7 +4022,7 @@
       "description": "for menu item icon/text active state"
     },
     "item-default": {
-      "value": "#dddeff",
+      "value": "#E5F6FF",
       "type": "color",
       "description": "for menu items text/icon default state"
     },
