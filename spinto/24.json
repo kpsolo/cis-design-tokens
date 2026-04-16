@@ -2203,7 +2203,7 @@
       "type3": {
         "value": "#6cdfff",
         "type": "color",
-        "description": "use for badges in calendar of event"
+        "description": "use for badges in calendar of event, border for mobile/desktop menu badges"
       }
     },
     "footer": {
