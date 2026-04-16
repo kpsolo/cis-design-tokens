@@ -3740,7 +3740,7 @@
         "description": "use for bg under balance amount"
       },
       "main": {
-        "value": "rgba(11, 45, 84, 0.60)",
+        "value": "linear-gradient(180deg, rgba(11, 45, 84, 0.60) 0%, rgba(11, 45, 84, 0.00) 100%)",
         "type": "color"
       },
       "sticky": {
