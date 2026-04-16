@@ -734,7 +734,7 @@
         "fontFamily": "{fontFamilies.arial}",
         "fontWeight": "{fontWeights.arial-4}",
         "lineHeight": "{lineHeights.15}",
-        "fontSize": "{fontSize.4}",
+        "fontSize": "{font-size.2}",
         "letterSpacing": "{letterSpacing.1}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
