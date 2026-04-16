@@ -2107,7 +2107,7 @@
     },
     "label": {
       "bg": {
-        "value": "rgba(56, 109, 180, 0.60)",
+        "value": "rgba(30, 90, 171, 0.60)",
         "type": "color",
         "description": "use for label bg in game thumbs"
       },
