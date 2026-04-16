@@ -2196,7 +2196,7 @@
         "description": "use for badge in main tapbar"
       },
       "type2": {
-        "value": "#233962",
+        "value": "rgba(35, 57, 98, 0.20)",
         "type": "color",
         "description": "use for badges in navbar, menu top part , lottery tickets sale,check box"
       },
