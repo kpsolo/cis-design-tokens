@@ -2016,7 +2016,7 @@
         "description": "for dark bg (regular popups)"
       },
       "primary": {
-        "value": "#1C2F47",
+        "value": "#3365A5",
         "type": "color",
         "description": "base on primary color (change in themes)"
       }
@@ -2796,7 +2796,7 @@
   "input": {
     "border": {
       "default": {
-        "value": "#4b2978",
+        "value": "#2685DA",
         "type": "color",
         "description": "Border color for default inputs"
       },
@@ -2823,7 +2823,7 @@
     },
     "bg": {
       "default": {
-        "value": "#160829",
+        "value": "#0F3766",
         "type": "color",
         "description": "Default backgrounds for inputs"
       },
