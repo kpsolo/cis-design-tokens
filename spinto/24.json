@@ -1357,7 +1357,7 @@
       "description": "use for border in 1st deposit card"
     },
     "popup": {
-      "value": "linear-gradient(180deg, #8753bb99 0%, #8753bb2e 100%)",
+      "value": "linear-gradient(180deg, #196FB5 0%, rgba(25, 111, 181, 0.18) 100%)",
       "type": "color"
     },
     "popup-additional": {
@@ -1507,7 +1507,7 @@
     },
     "popup": {
       "type2": {
-        "value": "linear-gradient(180deg, #130328 69.27%, #261340 100%)",
+        "value": "linear-gradient(180deg, #071F3A 69.27%, #092546 100%)",
         "type": "color",
         "description": "use for desktop popups bg gradient"
       },
