@@ -816,12 +816,12 @@
     },
     "input": {
       "value": {
-        "color": "#9764e64d",
-        "type": "innerShadow",
-        "x": 0,
-        "y": 2,
-        "blur": 16,
-        "spread": 0
+        "x": "0",
+        "y": "2",
+        "blur": "16",
+        "spread": "0",
+        "color": "transparent",
+        "type": "innerShadow"
       },
       "type": "boxShadow",
       "description": "inner shadow for inputs"
@@ -2860,12 +2860,12 @@
     },
     "text": {
       "label": {
-        "value": "#f7f4ffb3",
+        "value": "rgba(232, 245, 255, 0.70)",
         "type": "color",
         "description": "Label color"
       },
       "value-main": {
-        "value": "#faf8ff",
+        "value": "#E4EEFF",
         "type": "color",
         "description": "Input value text color"
       },
