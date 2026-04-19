@@ -2023,7 +2023,7 @@
     },
     "chips": {
       "type1": {
-        "value": "linear-gradient(-88deg, #b956ff4d 10.9%, #dd00ff4d 99.34%)",
+        "value": "linear-gradient(272deg, #2C73C7 12.17%, rgba(21, 129, 255, 0.30) 97.73%)",
         "type": "color",
         "description": "chips bg in mob search"
       },
