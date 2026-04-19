@@ -4628,7 +4628,7 @@
       "description": "for DIS use, bg for sectioins"
     },
     "bg-2": {
-      "value": "#071F39",
+      "value": "#051526",
       "type": "color",
       "description": "for DIS use only, bg for sections in sections"
     }
