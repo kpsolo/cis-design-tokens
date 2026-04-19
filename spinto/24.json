@@ -2541,7 +2541,7 @@
     },
     "border": {
       "tertiary": {
-        "value": "#faf8ff",
+        "value": "#D8E7FF",
         "type": "color",
         "description": "border color for buttons default"
       },
@@ -2653,7 +2653,7 @@
         "description": "Text color for buttons on light bg (notification)"
       },
       "tertiary": {
-        "value": "#faf8ff",
+        "value": "#D8E7FF",
         "type": "color",
         "description": "color on tertiary buttons"
       },
