@@ -829,20 +829,12 @@
     "popup": {
       "value": [
         {
-          "color": "#9764e64d",
+          "color": "transparent",
           "type": "innerShadow",
-          "x": 0,
-          "y": 2,
-          "blur": 2,
-          "spread": 0
-        },
-        {
-          "color": "#9764e666",
-          "type": "innerShadow",
-          "x": 0,
-          "y": 2,
-          "blur": 16,
-          "spread": 0
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "0"
         }
       ],
       "type": "boxShadow",
