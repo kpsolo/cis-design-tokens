@@ -3740,7 +3740,7 @@
         "type": "color"
       },
       "top-desktop": {
-        "value": "rgba(60, 104, 161, 0.50)",
+        "value": "rgba(71, 123, 191, 0.50)",
         "type": "color",
         "description": "bg header top elements ( buttons support, mobapp) for desktop"
       },
