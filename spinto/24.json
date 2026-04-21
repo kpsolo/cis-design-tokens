@@ -3242,8 +3242,8 @@
       "value": {
         "fontFamily": "{fontFamilies.lato}",
         "fontWeight": "800",
-        "lineHeight": "{lineHeights.39}",
-        "fontSize": "{fontSize.15}",
+        "lineHeight": "24",
+        "fontSize": "24",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.uppercase}",
@@ -3257,8 +3257,8 @@
       "value": {
         "fontFamily": "{fontFamilies.lato}",
         "fontWeight": "800",
-        "lineHeight": "{lineHeights.30}",
-        "fontSize": "{fontSize.14}",
+        "lineHeight": "24",
+        "fontSize": "24",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
