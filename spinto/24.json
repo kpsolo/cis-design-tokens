@@ -2028,7 +2028,7 @@
         "description": "chips bg in mob search"
       },
       "type2": {
-        "value": "#174F91",
+        "value": "{small-elements.chips.type1}",
         "type": "color",
         "description": "chips bg in mob search"
       },
