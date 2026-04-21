@@ -2033,7 +2033,7 @@
         "description": "chips bg in mob search"
       },
       "type3": {
-        "value": "#2172D1",
+        "value": "#10B7DF",
         "type": "color",
         "description": "active chips bg in mob search"
       }
