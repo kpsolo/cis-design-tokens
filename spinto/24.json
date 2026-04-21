@@ -2028,7 +2028,7 @@
         "description": "chips bg in mob search"
       },
       "type2": {
-        "value": "linear-gradient(2deg, #3D5EC9 1.69%, #7363D1 36.53%, #FF70E5 98.32%)",
+        "value": "#174F91",
         "type": "color",
         "description": "chips bg in mob search"
       },
