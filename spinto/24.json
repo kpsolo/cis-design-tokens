@@ -2023,7 +2023,7 @@
     },
     "chips": {
       "type1": {
-        "value": "rgba(37, 109, 194, 0.70)",
+        "value": "rgba(39, 100, 173, 0.80)",
         "type": "color",
         "description": "chips bg in mob search"
       },
@@ -3424,7 +3424,7 @@
       "description": "for referral cards numbers"
     },
     "dropdown-custom": {
-      "value": "linear-gradient(181deg, rgba(35, 97, 169, 0.70) 3.17%, rgba(13, 64, 123, 0.90) 99.16%)",
+      "value": "rgba(13, 59, 111, 0.80)",
       "type": "color",
       "description": "For bg on sort , filter dropdown and language dropdown"
     },
