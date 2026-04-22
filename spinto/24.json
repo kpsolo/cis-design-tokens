@@ -3772,7 +3772,7 @@
         "description": "use for bottom menu categories active state (desktop)"
       },
       "accent-alternative": {
-        "value": "{base.accent-primary}",
+        "value": "#fff",
         "type": "color",
         "description": "use for bottom menu categories active state (desktop)"
       }
