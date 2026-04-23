@@ -1588,12 +1588,12 @@
       "description": "first level bg"
     },
     "secondary": {
-      "value": "#210d49",
+      "value": "#0F2C4E",
       "type": "color",
       "description": "bg for element above primary bg ( tournament/lottery tabs)"
     },
     "tertiary": {
-      "value": "#23103d",
+      "value": "#0F2C4E",
       "type": "color",
       "description": "bg for element above primary/secondary bg (game empty thumb, player status)"
     },
