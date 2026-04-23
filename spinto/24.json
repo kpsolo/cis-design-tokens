@@ -1259,7 +1259,7 @@
     },
     "dropdown": {
       "value": {
-        "color": "rgba(255, 255, 255, 0.08)",
+        "color": "{bg.card.border.main}",
         "width": "1px",
         "style": "solid"
       },
@@ -1528,7 +1528,7 @@
       }
     },
     "top-surface": {
-      "value": "#160829e6",
+      "value": "{small-elements.tooltip.type1}",
       "type": "color",
       "description": "bg for menu, bottom sheets,dropdown, calendar"
     },
@@ -1553,7 +1553,7 @@
       "description": "content"
     },
     "top-surface-additional2": {
-      "value": "#decfff66",
+      "value": "rgba(207, 239, 255, 0.40)",
       "type": "color",
       "description": "content"
     },
@@ -2858,7 +2858,7 @@
         "description": "bg for selected item in dropdown (currency registration)"
       },
       "hover": {
-        "value": "#2d144f",
+        "value": "#142F4F",
         "type": "color",
         "description": "background for hover state in dropdown items (currency)"
       }
@@ -3834,7 +3834,7 @@
       "type": "color"
     },
     "error": {
-      "value": "#b1072c",
+      "value": "#D91A44",
       "type": "color"
     },
     "success": {
