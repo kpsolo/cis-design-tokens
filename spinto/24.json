@@ -1701,7 +1701,7 @@
         "description": "for bullets bg in text, bg under number bullets in tournaments/lottery winners list, bg under prizes in prize tab in tournaments/lottery"
       },
       "4": {
-        "value": "#934afa42",
+        "value": "#0F3766",
         "type": "color",
         "description": "use for bg in cashbox transaction, labels on pregame modal"
       },
@@ -2045,7 +2045,7 @@
     },
     "separator": {
       "primary": {
-        "value": "#945cb1cc",
+        "value": "rgba(49, 165, 242, 0.20)",
         "type": "color",
         "description": "border for tables header border"
       },
