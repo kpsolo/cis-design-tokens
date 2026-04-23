@@ -2045,7 +2045,7 @@
     },
     "separator": {
       "primary": {
-        "value": "rgba(49, 165, 242, 0.20)",
+        "value": "rgba(49, 165, 242, 0.60)",
         "type": "color",
         "description": "border for tables header border"
       },
@@ -2060,7 +2060,7 @@
         "description": "use in mob registation tabs"
       },
       "additional": {
-        "value": "#945cb14d",
+        "value": "rgba(49, 165, 242, 0.30)",
         "type": "color",
         "description": "border color for separating items in tables in static page/hall of fame/cashboх transactions"
       }
