@@ -1696,7 +1696,7 @@
         "description": "= bg in desktop header/ mob registration/gamepage left sidebar"
       },
       "3": {
-        "value": "#a758f614",
+        "value": "#0B284A",
         "type": "color",
         "description": "for bullets bg in text, bg under number bullets in tournaments/lottery winners list, bg under prizes in prize tab in tournaments/lottery"
       },
