@@ -1528,7 +1528,7 @@
       }
     },
     "top-surface": {
-      "value": "{small-elements.tooltip.type1}",
+      "value": "rgba(13, 59, 111, 0.80)",
       "type": "color",
       "description": "bg for menu, bottom sheets,dropdown, calendar"
     },
@@ -2858,7 +2858,7 @@
         "description": "bg for selected item in dropdown (currency registration)"
       },
       "hover": {
-        "value": "#142F4F",
+        "value": "#1F4B80",
         "type": "color",
         "description": "background for hover state in dropdown items (currency)"
       }
