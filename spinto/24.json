@@ -2437,12 +2437,12 @@
         "description": "Background for primary buttons"
       },
       "primary-hover": {
-        "value": "linear-gradient(93deg, #023688 2.36%, #0188c3 40.84%, #00dbfe 97.64%)",
+        "value": "linear-gradient(181deg, #FFB1C2 19.28%, #FF0B89 84.5%)",
         "type": "color",
         "description": "Background for primary buttons hover"
       },
       "primary-pressed": {
-        "value": "linear-gradient(92deg, #023688 1.92%, #00dbfe 100%)",
+        "value": "linear-gradient(181deg, #FFB1C2 19.28%, #FF0B89 99.16%)",
         "type": "color",
         "description": "Background for primary pressed"
       },
@@ -2452,12 +2452,12 @@
         "description": "Background for primary disabled button for lighgt bg"
       },
       "primary-disabled": {
-        "value": "#201946",
+        "value": "#1C4163",
         "type": "color",
         "description": "Background for primary buttons disabled"
       },
       "tertiary-disabled": {
-        "value": "#201946",
+        "value": "{button.bg.primary-disabled}",
         "type": "color",
         "description": "Background for tertiary buttons disabled"
       },
@@ -2467,17 +2467,17 @@
         "description": "Background for secondary buttons"
       },
       "secondary-hover": {
-        "value": "linear-gradient(93deg, #2d1551 18.38%, #6630b8 93.49%)",
+        "value": "linear-gradient(181deg, #CBFE89 14.55%, #169A50 77.89%)",
         "type": "color",
         "description": "Background for secondary buttons hover"
       },
       "secondary-pressed": {
-        "value": "linear-gradient(97deg, #2d1551 29.91%, #6630b8 100%)",
+        "value": "linear-gradient(181deg, #CBFE89 14.55%, #169A50 99.16%)",
         "type": "color",
         "description": "Background for secondary buttons pressed"
       },
       "secondary-disabled": {
-        "value": "#201946",
+        "value": "{button.bg.primary-disabled}",
         "type": "color",
         "description": "Background for secondary buttons disabled"
       },
@@ -2606,12 +2606,12 @@
         "description": "border color for primary buttons  default"
       },
       "primary-hover": {
-        "value": "#00000000",
+        "value": "{button.border.primary}",
         "type": "color",
         "description": "border color for primary buttons  default"
       },
       "primary-pressed": {
-        "value": "#00000000",
+        "value": "linear-gradient(180deg, #FF6FB6 0%, #FF0A85 100%)",
         "type": "color",
         "description": "border color for primary buttons  pressed state"
       },
@@ -2626,12 +2626,12 @@
         "description": "border color for secondary buttons default state"
       },
       "secondary-pressed": {
-        "value": "#00000000",
+        "value": "{button.border.secondary}",
         "type": "color",
         "description": "border color for secondary buttons pressed state"
       },
       "secondary-hover": {
-        "value": "#00000000",
+        "value": "{button.border.secondary}",
         "type": "color",
         "description": "border color for secondary buttons hover"
       },
