@@ -1801,7 +1801,7 @@
         "4": {
           "value": "linear-gradient(32deg, rgba(15, 37, 64, 0.50) 0%, rgba(31, 75, 128, 0.50) 96.04%)",
           "type": "color",
-          "description": "bg for promo mini cards under slider"
+          "description": "bg for promo mini cards under slider, bonus balance cards active"
         },
         "5": {
           "value": "linear-gradient(180deg, rgba(177, 212, 255, 0.30) 0%, rgba(21, 65, 119, 0.30) 100%)",
@@ -1817,6 +1817,11 @@
           "value": "linear-gradient(87deg, rgba(255, 11, 137, 0.80) 15.39%, rgba(98, 194, 243, 0.80) 79.05%)",
           "type": "color",
           "description": "mob app widget - Mob / Desktop"
+        },
+        "4-additional": {
+          "value": "linear-gradient(32deg, rgba(8, 22, 38, 0.30) 7.21%, rgba(22, 57, 99, 0.30) 89.4%)",
+          "type": "color",
+          "description": "bonus balance nonactive state cards"
         },
         "3-additional": {
           "value": "rgba(56, 109, 180, 0.40)",

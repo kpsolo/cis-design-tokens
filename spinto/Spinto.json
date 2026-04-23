@@ -1724,6 +1724,11 @@
           "value": "#2D154D",
           "type": "color",
           "description": "bg for bonus balance card"
+        },
+        "4-additional": {
+          "value": "linear-gradient(32deg, rgba(15, 37, 64, 0.50) 0%, rgba(31, 75, 128, 0.50) 96.04%)",
+          "type": "color",
+          "description": "bonus balance nonactive state cards"
         }
       },
       "border": {
