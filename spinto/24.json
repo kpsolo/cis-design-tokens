@@ -2801,12 +2801,12 @@
   "input": {
     "border": {
       "default": {
-        "value": "#2685DA",
+        "value": "transparent",
         "type": "color",
         "description": "Border color for default inputs"
       },
       "focus": {
-        "value": "#7e38df",
+        "value": "#2685DA",
         "type": "color",
         "description": "Color border for focused input"
       },
