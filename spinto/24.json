@@ -2853,7 +2853,7 @@
         "description": "Backgrounds for confirmed inputs"
       },
       "accent": {
-        "value": "#33165a",
+        "value": "#225490",
         "type": "color",
         "description": "bg for selected item in dropdown (currency registration)"
       },
