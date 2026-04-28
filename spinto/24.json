@@ -2811,7 +2811,7 @@
         "description": "Color border for focused input"
       },
       "disabled": {
-        "value": "#574781",
+        "value": "#1D5AA1",
         "type": "color",
         "description": "Color border for disabled input"
       },
