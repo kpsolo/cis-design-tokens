@@ -2452,7 +2452,7 @@
         "description": "Background for primary disabled button for lighgt bg"
       },
       "primary-disabled": {
-        "value": "#1C4163",
+        "value": "#1F5485",
         "type": "color",
         "description": "Background for primary buttons disabled"
       },
@@ -3838,7 +3838,7 @@
       "type": "color"
     },
     "success": {
-      "value": "#209f4a",
+      "value": "#27C15A",
       "type": "color"
     },
     "warning": {
