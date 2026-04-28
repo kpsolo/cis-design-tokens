@@ -2895,12 +2895,12 @@
         "description": "use for text in error field hint"
       },
       "disabled-value": {
-        "value": "#574781",
+        "value": "#6A87A6",
         "type": "color",
         "description": "use for text in disabled field"
       },
       "disabled-label": {
-        "value": "#746491",
+        "value": "#6A87A6",
         "type": "color",
         "description": "use for text in confirmed field hint"
       }
