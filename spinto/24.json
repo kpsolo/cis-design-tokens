@@ -1221,7 +1221,7 @@
     },
     "input-default": {
       "value": {
-        "color": "#4B2978",
+        "color": "transparent",
         "width": "{border-width.input}",
         "style": "solid"
       },
