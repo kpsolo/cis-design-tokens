@@ -2751,7 +2751,7 @@
       "description": "Color of warning icon"
     },
     "error": {
-      "value": "#b1072c",
+      "value": "#CF113A",
       "type": "color",
       "description": "Color for error icon"
     },
