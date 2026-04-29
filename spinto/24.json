@@ -1789,7 +1789,7 @@
           "description": "1st deposit widget bg - mob"
         },
         "2": {
-          "value": "#183457",
+          "value": "rgba(44, 83, 133, 0.60)",
           "type": "color",
           "description": "bg for categories cards"
         },
