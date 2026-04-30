@@ -2246,12 +2246,12 @@
     },
     "timer": {
       "bg": {
-        "value": "#00000052",
+        "value": "rgba(45, 83, 152, 0.40)",
         "type": "color",
         "description": "use for timer bg"
       },
       "bg-additional": {
-        "value": "linear-gradient(180deg, #ffffff24 3.13%, #ffffff0f 18.24%, #ffffff00 48.75%, #ffffff0f 86.05%, #ffffff24 100%)",
+        "value": "rgba(45, 83, 152, 0.40)",
         "type": "color",
         "description": "use for timer bg in 1st deposit"
       },
