@@ -629,7 +629,7 @@
         "fontFamily": "{fontFamilies.lato}",
         "fontWeight": "{fontWeights.lato-2}",
         "lineHeight": "{lineHeights.36}",
-        "fontSize": "{fontSize.11}",
+        "fontSize": "18px",
         "letterSpacing": "{letterSpacing.1}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -643,13 +643,13 @@
       "value": {
         "fontFamily": "{fontFamilies.lato}",
         "fontWeight": "{fontWeights.lato-3}",
-        "lineHeight": "{lineHeights.29}",
-        "fontSize": "{fontSize.10}",
+        "lineHeight": "24px",
         "letterSpacing": "{letterSpacing.1}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
+        "textDecoration": "{textDecoration.none}",
+        "fontSize": "18px"
       },
       "type": "typography",
       "description": "main banner mob title"
