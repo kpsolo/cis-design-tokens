@@ -3805,7 +3805,7 @@
       "description": "use for menu items text, 1click text, footer all button"
     },
     "tertiary": {
-      "value": "#8e8699",
+      "value": "#9CACBE",
       "type": "color",
       "description": "(delete?)"
     },
