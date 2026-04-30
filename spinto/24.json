@@ -1458,7 +1458,7 @@
     },
     "special-blocks": {
       "jackpot-radius": {
-        "value": "8px",
+        "value": "12px",
         "type": "borderRadius",
         "description": "Radius for jackpot widget"
       }
@@ -3257,6 +3257,21 @@
       },
       "type": "typography",
       "description": "Title for jackpot widget"
+    },
+    "jackpot-title-mobile": {
+      "value": {
+        "fontFamily": "{fontFamilies.lato}",
+        "fontWeight": "800",
+        "lineHeight": "16",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.uppercase}",
+        "textDecoration": "{textDecoration.none}",
+        "letterSpacing": "0.3",
+        "fontSize": "16"
+      },
+      "type": "typography",
+      "description": "Title for jackpot widget - mob"
     },
     "jackpot-title-additional": {
       "value": {
