@@ -3403,18 +3403,18 @@
           "description": "border for win card"
         },
         "achievements-additional": {
-          "value": "#1E619A",
+          "value": "#d6bcf3",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.4",
+                "value": "0.2",
                 "space": "srgb"
               }
             }
           },
-          "description": "separatoe in achievements card (for progress)"
+          "description": "separator in achievements card"
         },
         "main": {
           "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)",
