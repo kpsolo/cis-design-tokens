@@ -512,21 +512,6 @@
       },
       "type": "typography",
       "description": "Link text in strip widget on gamepage (under title)"
-    },
-    "body-1-light": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.0}",
-        "lineHeight": "24px",
-        "fontSize": "{font-size.5}",
-        "letterSpacing": "{letterSpacing.2}",
-        "paragraphSpacing": "24px",
-        "paragraphIndent": "16px",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
-      },
-      "type": "typography",
-      "description": "Body"
     }
   },
   "shadow": {

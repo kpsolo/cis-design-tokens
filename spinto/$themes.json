@@ -770,6 +770,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Spinto": "enabled"
-    }
+    },
+    "$figmaVariableReferences": {}
   }
 ]
