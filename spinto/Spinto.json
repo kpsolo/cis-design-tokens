@@ -515,14 +515,14 @@
     },
     "body-1-light": {
       "value": {
-        "fontFamily": "{fontFamilies.lato}",
-        "fontWeight": "300",
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
         "lineHeight": "{lineHeights.8}",
-        "fontSize": "{fontSize.7}",
-        "letterSpacing": "{letterSpacing.1}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
+        "fontSize": "{font-size.5}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraphIndent.0}",
         "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
+        "textCase": "{text-case.none}",
         "textDecoration": "{textDecoration.none}"
       },
       "type": "typography",
