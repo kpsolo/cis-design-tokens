@@ -519,9 +519,9 @@
         "fontWeight": "{font-weight.0}",
         "lineHeight": "24px",
         "fontSize": "{font-size.5}",
-        "letterSpacing": "{letterSpacing.1}",
-        "paragraphSpacing": "{paragraphIndent.0}",
-        "paragraphIndent": "{paragraphIndent.0}",
+        "letterSpacing": "{letterSpacing.2}",
+        "paragraphSpacing": "24px",
+        "paragraphIndent": "16px",
         "textCase": "{text-case.none}",
         "textDecoration": "{text-decoration.none}"
       },
