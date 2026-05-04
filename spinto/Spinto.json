@@ -517,13 +517,13 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
-        "lineHeight": "{lineHeights.8}",
+        "lineHeight": "24px",
         "fontSize": "{font-size.5}",
-        "letterSpacing": "{letter-spacing.0}",
+        "letterSpacing": "{letterSpacing.1}",
         "paragraphSpacing": "{paragraphIndent.0}",
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{text-case.none}",
-        "textDecoration": "{textDecoration.none}"
+        "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
       "description": "Body"
