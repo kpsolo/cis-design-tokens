@@ -4474,7 +4474,7 @@
         "description": "use for bullets bg"
       },
       "additioinal": {
-        "value": "#194375",
+        "value": "rgba(54, 106, 167, 0.40)",
         "type": "color",
         "description": "use for dropdown"
       },
