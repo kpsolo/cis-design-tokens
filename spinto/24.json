@@ -1751,7 +1751,7 @@
         "description": "Use for game page background on right filter sidebar (under icons)"
       },
       "light-1": {
-        "value": "rgba(228, 242, 255, 0.08)",
+        "value": "rgba(228, 242, 255, 0.16)",
         "type": "color",
         "description": "bg in tournament/lottery under players, under tournament lock"
       },
