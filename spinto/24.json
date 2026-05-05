@@ -4464,7 +4464,7 @@
   "lootboxes": {
     "bg": {
       "primary": {
-        "value": "#160829",
+        "value": "{bg.additional}",
         "type": "color",
         "description": "use for cards bg"
       },
