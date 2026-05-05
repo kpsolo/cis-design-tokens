@@ -107,7 +107,7 @@
     "caption-small-stronger": {
       "value": {
         "fontFamily": "{fontFamilies.lato}",
-        "fontWeight": "{fontWeights.lato-2}",
+        "fontWeight": "{font-weight.3}",
         "lineHeight": "{lineHeights.7}",
         "fontSize": "{fontSize.5}",
         "letterSpacing": "{letterSpacing.1}",
@@ -182,7 +182,7 @@
     "body-1-stronger": {
       "value": {
         "fontFamily": "{fontFamilies.lato}",
-        "fontWeight": "{fontWeights.lato-2}",
+        "fontWeight": "800px",
         "lineHeight": "{lineHeights.8}",
         "fontSize": "{fontSize.7}",
         "letterSpacing": "{letterSpacing.1}",
