@@ -2016,7 +2016,7 @@
         "description": "for scrollbar on light bg (dropdown)"
       },
       "light": {
-        "value": "#faf8ff33",
+        "value": "rgba(237, 245, 255, 0.10)",
         "type": "color",
         "description": "for dark bg (regular popups)"
       },
