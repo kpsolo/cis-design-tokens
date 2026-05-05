@@ -1501,7 +1501,7 @@
       "description": "for letters secondary bg (cards)"
     },
     "additional": {
-      "value": "linear-gradient(181deg, rgba(72, 143, 230, 0.20) 0.72%, rgba(30, 45, 107, 0.20) 84.44%)",
+      "value": "rgba(72, 143, 230, 0.20)",
       "type": "color",
       "description": "use for messages, tournament, shop, faq cards, collection"
     },
