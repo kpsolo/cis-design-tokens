@@ -1286,7 +1286,7 @@
     },
     "tooltip": {
       "value": {
-        "color": "linear-gradient(107deg, #239FFF 2.91%, rgba(35, 159, 255, 0.00) 37.32%, rgba(35, 159, 255, 0.00) 58.43%, #239FFF 93.01%)",
+        "color": "transparent",
         "width": "1px",
         "style": "solid"
       },
