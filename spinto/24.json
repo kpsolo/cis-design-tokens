@@ -1543,7 +1543,7 @@
       "description": "use for bg under social icons"
     },
     "widget-default": {
-      "value": "#160829",
+      "value": "{bg.additional}",
       "type": "color",
       "description": "for tournament on main page, news, lottery"
     },
