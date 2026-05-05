@@ -1809,7 +1809,7 @@
           "description": "bg for loyaty cards in menu mob"
         },
         "6": {
-          "value": "linear-gradient(90deg, rgba(255, 59, 154, 0.80) 0%, rgba(33, 147, 205, 0.80) 57%)",
+          "value": "{bg.card.bg.1}",
           "type": "color",
           "description": "1st deposit widget bg - Desktop"
         },
