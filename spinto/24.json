@@ -4551,7 +4551,7 @@
   "calendar": {
     "bg": {
       "main": {
-        "value": "rgba(50, 99, 169, 0.60)",
+        "value": "rgba(50, 99, 169, 0.50)",
         "type": "color",
         "description": "bg for event calendar widget"
       },
@@ -4561,7 +4561,7 @@
         "description": "bg for calendar button"
       },
       "primary": {
-        "value": "linear-gradient(180deg, #792fdc 0%, #792fdc91 61.06%, #792fdc1f 100%)",
+        "value": "linear-gradient(180deg, #3AAD5B 0%, rgba(58, 173, 91, 0.30) 61.06%)",
         "type": "color",
         "description": "bg for default dates calendar widget"
       },
@@ -4593,7 +4593,7 @@
         "description": "border for event calendar widget"
       },
       "primary": {
-        "value": "#8850df",
+        "value": "#41B874",
         "type": "color",
         "description": "border for default calendar dates"
       },
