@@ -1533,7 +1533,7 @@
       "description": "bg for menu, bottom sheets,dropdown, calendar"
     },
     "top-surface-type2": {
-      "value": "#2c134d",
+      "value": "{bg.additional}",
       "type": "color",
       "description": "bg in pregame under games"
     },
