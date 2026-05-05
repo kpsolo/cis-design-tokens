@@ -4551,7 +4551,7 @@
   "calendar": {
     "bg": {
       "main": {
-        "value": "#9e3ffc33",
+        "value": "rgba(50, 99, 169, 0.60)",
         "type": "color",
         "description": "bg for event calendar widget"
       },
@@ -4588,7 +4588,7 @@
     },
     "border": {
       "main": {
-        "value": "#7b40d8",
+        "value": "#71BBFF",
         "type": "color",
         "description": "border for event calendar widget"
       },
