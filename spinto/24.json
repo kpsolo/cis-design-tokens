@@ -1691,7 +1691,7 @@
         "description": "for static table headet"
       },
       "2": {
-        "value": "#b872ff1a",
+        "value": "rgba(130, 205, 252, 0.12)",
         "type": "color",
         "description": "= bg in desktop header/ mob registration/gamepage left sidebar"
       },
