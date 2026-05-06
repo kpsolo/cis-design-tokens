@@ -1393,7 +1393,7 @@
       "description": "use for social buttons in footer/menu"
     },
     "prize": {
-      "value": "8px",
+      "value": "12px",
       "type": "borderRadius",
       "description": "use for prize item in tournament/lotery page "
     },
@@ -1721,7 +1721,7 @@
         "description": "for stable in first deposite page"
       },
       "8": {
-        "value": "#ffffff0f",
+        "value": "rgba(112, 184, 255, 0.12)",
         "type": "color",
         "description": "bg under prize places in tournament/lottery"
       },
@@ -3820,7 +3820,7 @@
       "description": "use for menu items text, 1click text, footer all button"
     },
     "tertiary": {
-      "value": "#9CACBE",
+      "value": "#e0edfc",
       "type": "color",
       "description": "(delete?)"
     },
