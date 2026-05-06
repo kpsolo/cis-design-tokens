@@ -2390,7 +2390,7 @@
       "description": "text for live icon"
     },
     "timer-bg": {
-      "value": "linear-gradient(180deg, #561b9f 0%, #561b9fc7 31.25%, #561b9fd9 63.54%, #561b9f 100%)",
+      "value": "linear-gradient(180deg, #54BEDB 0%, rgba(68, 141, 161, 0.78) 27.21%, rgba(54, 122, 142, 0.85) 74.01%, #5ABFDB 100%)",
       "type": "color",
       "description": "bg for timer"
     },
