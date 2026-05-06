@@ -2380,7 +2380,7 @@
       "description": "Bg for live icon"
     },
     "card-bg": {
-      "value": "{bg.card.bg.2}",
+      "value": "{bg.technical}",
       "type": "color",
       "description": "Bg for card"
     },
