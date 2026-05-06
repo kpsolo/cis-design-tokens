@@ -1568,7 +1568,7 @@
       "description": "for past tournament,lottery"
     },
     "additional-2": {
-      "value": "#b43fcf1f",
+      "value": "#0B2C53",
       "type": "color",
       "description": "status bg in tournament"
     },
@@ -1711,7 +1711,7 @@
         "description": "use for active bonus bg in registration popup"
       },
       "6": {
-        "value": "linear-gradient(180deg, #1a093c00 0%, #1a093cf2 63.16%, #1a093c 100%)",
+        "value": "linear-gradient(180deg, rgba(7, 33, 62, 0.00) 0%, rgba(7, 33, 62, 0.95) 63.16%, #07213E 100%)",
         "type": "color",
         "description": "use for bg under tournament/lottery tabs"
       },
