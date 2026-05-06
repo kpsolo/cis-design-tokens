@@ -1563,7 +1563,7 @@
       "description": "Gradient for bg in bonus card in cashbox"
     },
     "widget-disabled": {
-      "value": "rgba(13, 38, 65, 0.60)",
+      "value": "rgba(20, 55, 94, 0.60)",
       "type": "color",
       "description": "for past tournament,lottery"
     },
