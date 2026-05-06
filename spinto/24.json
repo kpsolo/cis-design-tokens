@@ -1563,7 +1563,7 @@
       "description": "Gradient for bg in bonus card in cashbox"
     },
     "widget-disabled": {
-      "value": "#16082999",
+      "value": "rgba(13, 38, 65, 0.60)",
       "type": "color",
       "description": "for past tournament,lottery"
     },
@@ -1731,7 +1731,7 @@
         "description": "use for results inner tournament card"
       },
       "ghost-2": {
-        "value": "#00000099",
+        "value": "rgba(58, 78, 123, 0.60)",
         "type": "color",
         "description": "overlay for desktop poppups"
       },
@@ -1751,7 +1751,7 @@
         "description": "Use for game page background on right filter sidebar (under icons)"
       },
       "light-1": {
-        "value": "rgba(228, 242, 255, 0.16)",
+        "value": "rgba(120, 186, 248, 0.26)",
         "type": "color",
         "description": "bg in tournament/lottery under players, under tournament lock"
       },
