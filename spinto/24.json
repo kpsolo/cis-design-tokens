@@ -3815,7 +3815,7 @@
       "description": "for titles on images and cards (tournament,lottery,news)"
     },
     "secondary": {
-      "value": "#01032f",
+      "value": "#022041",
       "type": "color",
       "description": "use for menu items text, 1click text, footer all button"
     },
