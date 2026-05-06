@@ -2663,7 +2663,7 @@
         "description": "color on tertiary buttons"
       },
       "ghost": {
-        "value": "#04c5ee",
+        "value": "#62D8F1",
         "type": "color",
         "description": "color on ghost buttons"
       },
