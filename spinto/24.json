@@ -3247,8 +3247,8 @@
       "value": {
         "fontFamily": "{fontFamilies.lato}",
         "fontWeight": "800",
-        "lineHeight": "20",
-        "fontSize": "20",
+        "lineHeight": "24",
+        "fontSize": "24",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.uppercase}",
@@ -3337,8 +3337,8 @@
       "value": {
         "fontFamily": "{fontFamilies.lato}",
         "fontWeight": "{fontWeights.lato-5}",
-        "lineHeight": "{lineHeights.59}",
-        "fontSize": "{fontSize.19}",
+        "lineHeight": "32px",
+        "fontSize": "32px",
         "letterSpacing": "{letterSpacing.2}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -3387,8 +3387,8 @@
       "value": {
         "fontFamily": "{fontFamilies.lato}",
         "fontWeight": "{fontWeights.lato-0}",
-        "lineHeight": "{lineHeights.61}",
-        "fontSize": "{fontSize.19}",
+        "lineHeight": "32px",
+        "fontSize": "32px",
         "letterSpacing": "{letterSpacing.1}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
