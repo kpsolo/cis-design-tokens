@@ -3336,7 +3336,7 @@
     "jackpot-amount": {
       "value": {
         "fontFamily": "{fontFamilies.lato}",
-        "fontWeight": "{fontWeights.lato-5}",
+        "fontWeight": "{fontWeights.arial-1}",
         "lineHeight": "32px",
         "fontSize": "32px",
         "letterSpacing": "{letterSpacing.2}",
