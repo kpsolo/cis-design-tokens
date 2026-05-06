@@ -3820,7 +3820,7 @@
       "description": "use for menu items text, 1click text, footer all button"
     },
     "tertiary": {
-      "value": "#e0edfc",
+      "value": "#0b1928",
       "type": "color",
       "description": "(delete?)"
     },
