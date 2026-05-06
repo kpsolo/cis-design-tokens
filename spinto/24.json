@@ -1548,7 +1548,7 @@
       "description": "for tournament on main page, news, lottery"
     },
     "top-surface-additional": {
-      "value": "#fff",
+      "value": "#F6FBFF",
       "type": "color",
       "description": "content"
     },
@@ -2653,7 +2653,7 @@
         "description": "Text color on secondary button"
       },
       "light-bg": {
-        "value": "#04c5ee",
+        "value": "#14B3D5",
         "type": "color",
         "description": "Text color for buttons on light bg (notification)"
       },
