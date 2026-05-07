@@ -3583,12 +3583,12 @@
     "achievements": {
       "border": {
         "activity": {
-          "value": "linear-gradient(158deg, #144dc0 26.45%, #144dc04d 48.99%, #144dc0 66.69%)",
+          "value": "linear-gradient(124deg, rgba(35, 159, 255, 0.60) 9.91%, rgba(35, 159, 255, 0.00) 28.12%, rgba(35, 159, 255, 0.00) 63.42%, rgba(35, 159, 255, 0.60) 81.05%)",
           "type": "color",
           "description": "border for activity card"
         },
         "win": {
-          "value": "linear-gradient(158deg, #8514e8 15.68%, #7a14d56e 48.53%, #6c12bc 74.32%)",
+          "value": "linear-gradient(124deg, rgba(249, 94, 174, 0.60) 9.91%, rgba(249, 94, 174, 0.00) 28.12%, rgba(249, 94, 174, 0.00) 63.42%, rgba(249, 94, 174, 0.60) 81.05%)",
           "type": "color",
           "description": "border for win card"
         },
@@ -3680,24 +3680,33 @@
           "description": "for bg under 1st desposit in second state"
         },
         "3": {
-          "value": "#080829cc",
+          "value": "{special-blocks.achievements.card.2}",
           "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.7",
+                "space": "srgb"
+              }
+            }
+          },
           "description": "for empty last card"
         },
         "4": {
-          "value": "#160829cc",
+          "value": "{special-blocks.achievements.overlay.3}",
           "type": "color",
           "description": "for empty progress cards"
         }
       },
       "card": {
         "1": {
-          "value": "linear-gradient(180deg, #2DB465 -14.91%, #2B7C6A 8.48%, #28436E 57.36%)",
+          "value": "{special-blocks.achievements.card.2}",
           "type": "color",
           "description": "in progress cards bg in main screen"
         },
         "2": {
-          "value": "linear-gradient(180deg, #BA4B8F -9.65%, #28436E 25.97%)",
+          "value": "#183457",
           "type": "color",
           "description": "last cards bg in main screen"
         },
@@ -3707,7 +3716,7 @@
           "description": "card first deposit bg in main screen"
         },
         "4": {
-          "value": "linear-gradient(180deg, #25B1D1 -14.91%, #25B1D1 8.48%, #1A3868 57.36%)",
+          "value": "linear-gradient(180deg, #1D8DA6 0%, #067F9B 37.15%, #1A3868 100%)",
           "type": "color",
           "description": "bg for achievements cards"
         },
@@ -3717,7 +3726,7 @@
           "description": "bg for activity cards"
         },
         "6": {
-          "value": "linear-gradient(148deg, #35175e 0%, #160829 100%)",
+          "value": "#0F4D81",
           "type": "color",
           "description": "bg for win cards"
         }
