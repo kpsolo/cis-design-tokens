@@ -1731,7 +1731,7 @@
         "description": "use for results inner tournament card"
       },
       "ghost-2": {
-        "value": "rgba(58, 78, 123, 0.60)",
+        "value": "rgba(2, 10, 27, 0.70)",
         "type": "color",
         "description": "overlay for desktop poppups"
       },
