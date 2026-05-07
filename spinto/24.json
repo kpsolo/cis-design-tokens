@@ -3692,22 +3692,22 @@
       },
       "card": {
         "1": {
-          "value": "linear-gradient(148deg, #4d1c8f 0%, #491a88 21%, #160829 100%)",
+          "value": "linear-gradient(180deg, #2DB465 -14.91%, #2B7C6A 8.48%, #28436E 57.36%)",
           "type": "color",
           "description": "in progress cards bg in main screen"
         },
         "2": {
-          "value": "linear-gradient(148deg, #1c638f 0%, #1a5588 21%, #080829 100%)",
+          "value": "linear-gradient(180deg, #BA4B8F -9.65%, #28436E 25.97%)",
           "type": "color",
           "description": "last cards bg in main screen"
         },
         "3": {
-          "value": "{bg.card.border.main}",
+          "value": "{bg.additional}",
           "type": "color",
           "description": "card first deposit bg in main screen"
         },
         "4": {
-          "value": "#160829",
+          "value": "linear-gradient(180deg, #25B1D1 -14.91%, #25B1D1 8.48%, #1A3868 57.36%)",
           "type": "color",
           "description": "bg for achievements cards"
         },
@@ -3853,7 +3853,7 @@
       "type": "color"
     },
     "success": {
-      "value": "#27C15A",
+      "value": "#38F175",
       "type": "color"
     },
     "warning": {
