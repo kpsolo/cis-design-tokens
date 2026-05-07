@@ -2134,7 +2134,7 @@
         "description": "use for deny label text in cashbox transactions"
       },
       "active": {
-        "value": "#29ae07",
+        "value": "#38D211",
         "type": "color",
         "description": "use for active label text in bonus balance cards"
       },
