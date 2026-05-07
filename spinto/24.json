@@ -4353,7 +4353,7 @@
         "type": "color"
       },
       "additional": {
-        "value": "#976dff29",
+        "value": "rgba(109, 165, 255, 0.16)",
         "type": "color",
         "description": "bg for progressbar"
       },
