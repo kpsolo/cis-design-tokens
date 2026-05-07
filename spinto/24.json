@@ -4331,11 +4331,11 @@
   "gamepage": {
     "bg": {
       "primary": {
-        "value": "#23103d",
+        "value": "#0A2D55",
         "type": "color"
       },
       "secondary": {
-        "value": "#0a0318",
+        "value": "#06192F",
         "type": "color"
       },
       "extra": {
@@ -4349,7 +4349,7 @@
         "description": "bg under star in gamepage top pannel"
       },
       "tertiary": {
-        "value": "#130527",
+        "value": "#092648",
         "type": "color"
       },
       "additional": {
