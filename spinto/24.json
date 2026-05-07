@@ -3721,7 +3721,7 @@
           "description": "bg for achievements cards"
         },
         "5": {
-          "value": "linear-gradient(148deg, #0f386e 0%, #080829 100%)",
+          "value": "linear-gradient(180deg, #07AEDD 0%, #226095 40.87%, #183457 100%)",
           "type": "color",
           "description": "bg for activity cards"
         },
