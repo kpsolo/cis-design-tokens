@@ -1799,7 +1799,7 @@
           "description": "bg for cookies"
         },
         "4": {
-          "value": "linear-gradient(32deg, rgba(15, 37, 64, 0.90) 7.21%, rgba(31, 75, 128, 0.80) 89.4%)",
+          "value": "linear-gradient(32deg, rgba(15, 37, 64, 0.90) 13.38%, rgba(29, 98, 181, 0.80) 83.72%)",
           "type": "color",
           "description": "bg for promo mini cards under slider, bonus balance cards active"
         },
