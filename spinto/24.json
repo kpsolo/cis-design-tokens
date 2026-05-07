@@ -1501,7 +1501,7 @@
       "description": "for letters secondary bg (cards)"
     },
     "additional": {
-      "value": "rgba(18, 50, 89, 0.80)",
+      "value": "rgba(20, 58, 104, 0.80)",
       "type": "color",
       "description": "use for messages, tournament, shop, faq cards, collection"
     },
