@@ -1799,7 +1799,7 @@
           "description": "bg for cookies"
         },
         "4": {
-          "value": "rgba(87, 151, 236, 0.40)",
+          "value": "linear-gradient(32deg, rgba(15, 37, 64, 0.90) 7.21%, rgba(31, 75, 128, 0.80) 89.4%)",
           "type": "color",
           "description": "bg for promo mini cards under slider, bonus balance cards active"
         },
@@ -1819,7 +1819,7 @@
           "description": "mob app widget - Mob / Desktop"
         },
         "4-additional": {
-          "value": "linear-gradient(32deg, rgba(8, 22, 38, 0.30) 7.21%, rgba(22, 57, 99, 0.30) 89.4%)",
+          "value": "linear-gradient(32deg, rgba(8, 22, 38, 0.80) 13.38%, rgba(22, 57, 99, 0.80) 83.72%)",
           "type": "color",
           "description": "bonus balance nonactive state cards"
         },
