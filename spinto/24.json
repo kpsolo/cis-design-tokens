@@ -1634,7 +1634,7 @@
         "description": "use as accent on light bg - filter in cashdesk"
       },
       "widget-additional": {
-        "value": "#5b1a8066",
+        "value": "#132C48",
         "type": "color",
         "description": "bg for jackpot amount"
       },
