@@ -2705,11 +2705,6 @@
       "type": "color",
       "description": "use for disabled icons in lists (loyalty)"
     },
-    "ghost-4": {
-      "value": "#000000",
-      "type": "color",
-      "description": "use for message icon in desktop header"
-    },
     "secondary": {
       "value": "#01032f",
       "type": "color",
