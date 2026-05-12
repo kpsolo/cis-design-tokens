@@ -1649,7 +1649,7 @@
         "description": "use for transaction with bg"
       },
       "cashbox-additional": {
-        "value": "#9752ff14",
+        "value": "#0F335B",
         "type": "color",
         "description": "use for transaction with bg (detailed)"
       },
