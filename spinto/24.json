@@ -1644,7 +1644,7 @@
         "description": "use for hover state in calendar, cashbox filter"
       },
       "cashbox": {
-        "value": "#9752ff14",
+        "value": "#0F335B",
         "type": "color",
         "description": "use for transaction with bg"
       },
