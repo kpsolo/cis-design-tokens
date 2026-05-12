@@ -2827,6 +2827,20 @@
         "type": "color",
         "description": "Default backgrounds for inputs"
       },
+      "dropdown": {
+        "value": "#0D3B6F",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.8",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "backgrounds for inputs with have dropdowns"
+      },
       "error": {
         "value": "#b1072c",
         "type": "color",
