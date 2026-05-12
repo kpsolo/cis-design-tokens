@@ -2716,7 +2716,7 @@
       "description": "menu, bottom sheet"
     },
     "primary": {
-      "value": "#f2eaff",
+      "value": "#fff",
       "type": "color",
       "description": "use icons on primary bg"
     },
