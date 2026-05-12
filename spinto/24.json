@@ -3809,7 +3809,7 @@
   },
   "text": {
     "light": {
-      "value": "#faf8ff",
+      "value": "#F8FBFF",
       "type": "color",
       "description": "use for crypto in footer, banners titles/cards titles, tournament/lottery tapbar, for titles in messages ( on picture)"
     },
