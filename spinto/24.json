@@ -1604,7 +1604,7 @@
         "description": "Bg for empty error pages"
       },
       "cashbox-bonus": {
-        "value": "#160829",
+        "value": "{bg.popup.type1}",
         "type": "color",
         "description": "for cashbox bonus popup"
       },
@@ -2261,8 +2261,17 @@
         "description": "use for numbers on timer"
       },
       "border": {
-        "value": "#93cbff40",
+        "value": "#6CDFFF",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.8",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "use for border on timer (for dev use)"
       }
     },
