@@ -1706,7 +1706,7 @@
         "description": "use for bg in cashbox transaction, labels on pregame modal"
       },
       "5": {
-        "value": "#27184a",
+        "value": "#1D4674",
         "type": "color",
         "description": "use for active bonus bg in registration popup"
       },
