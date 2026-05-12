@@ -2860,8 +2860,17 @@
     },
     "text": {
       "label": {
-        "value": "rgba(232, 245, 255, 0.70)",
+        "value": "#FFFFFF",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Label color"
       },
       "value-main": {
