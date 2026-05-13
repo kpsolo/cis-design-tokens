@@ -1578,7 +1578,7 @@
       "description": "use as bg for welcome bonus success item"
     },
     "widget-bonus": {
-      "value": "#321657",
+      "value": "linear-gradient(90deg, #DF1D88 0%, #2DAFF4 100%)",
       "type": "color",
       "description": "use as bg for welcome bonus"
     },
@@ -2745,7 +2745,7 @@
       "description": "use for icons in lists (different from accent icons)"
     },
     "success": {
-      "value": "#209f4a",
+      "value": "#33D368",
       "type": "color",
       "description": "Success icon"
     },
