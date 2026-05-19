@@ -4426,7 +4426,7 @@
     },
     "content": {
       "primary": {
-        "value": "#faf8ff",
+        "value": "{icon.primary}",
         "type": "color"
       },
       "primary-additional": {
@@ -4465,7 +4465,7 @@
         "description": "for icon hover state"
       },
       "inactive": {
-        "value": "{icon.ghost-3}",
+        "value": "#A9B5CF",
         "type": "color",
         "description": "use for inactive items in right sidebar"
       },
