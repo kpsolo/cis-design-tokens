@@ -844,10 +844,10 @@
       "value": {
         "color": "#191e2d99",
         "type": "dropShadow",
-        "x": 0,
-        "y": 8,
-        "blur": 16,
-        "spread": 0
+        "x": "0",
+        "y": "8",
+        "blur": "16",
+        "spread": "0"
       },
       "type": "boxShadow",
       "description": "use for cards/popups dropshadow"
@@ -856,10 +856,10 @@
       "value": {
         "color": "#00000033",
         "type": "dropShadow",
-        "x": 0,
-        "y": 4,
-        "blur": 24,
-        "spread": 0
+        "x": "0",
+        "y": "4",
+        "blur": "24",
+        "spread": "0"
       },
       "type": "boxShadow",
       "description": "Shadow for notifications"
@@ -883,18 +883,18 @@
         {
           "color": "#ffce2166",
           "type": "dropShadow",
-          "x": 0,
-          "y": 0,
-          "blur": 8,
-          "spread": 0
+          "x": "0",
+          "y": "0",
+          "blur": "8",
+          "spread": "0"
         },
         {
           "color": "#ffce21cc",
           "type": "dropShadow",
-          "x": 0,
-          "y": 0,
-          "blur": 4,
-          "spread": 0
+          "x": "0",
+          "y": "0",
+          "blur": "4",
+          "spread": "0"
         }
       ],
       "type": "boxShadow",
@@ -928,10 +928,10 @@
       "value": {
         "color": "#00000066",
         "type": "dropShadow",
-        "x": 0,
-        "y": 6,
-        "blur": 12,
-        "spread": 0
+        "x": "0",
+        "y": "6",
+        "blur": "12",
+        "spread": "0"
       },
       "type": "boxShadow",
       "description": "Shadow for header desktop"
@@ -940,10 +940,10 @@
       "value": {
         "color": "#2727271a",
         "type": "dropShadow",
-        "x": 0,
-        "y": -4,
-        "blur": 8,
-        "spread": 0
+        "x": "0",
+        "y": "-4",
+        "blur": "8",
+        "spread": "0"
       },
       "type": "boxShadow",
       "description": "Shadow for sticky bar"
@@ -952,10 +952,10 @@
       "value": {
         "color": "#000000e6",
         "type": "dropShadow",
-        "x": 0,
-        "y": 8,
-        "blur": 32,
-        "spread": 0
+        "x": "0",
+        "y": "8",
+        "blur": "32",
+        "spread": "0"
       },
       "type": "boxShadow",
       "description": "Shadow for mob app screenshots"
@@ -964,10 +964,10 @@
       "value": {
         "color": "#29e95a",
         "type": "dropShadow",
-        "x": 0,
-        "y": 0,
-        "blur": 4,
-        "spread": 0
+        "x": "0",
+        "y": "0",
+        "blur": "4",
+        "spread": "0"
       },
       "type": "boxShadow",
       "description": "accent blur menu items desktop"
@@ -977,26 +977,26 @@
         {
           "color": "#27272733",
           "type": "dropShadow",
-          "x": 0,
-          "y": 2,
-          "blur": 8,
-          "spread": 0
+          "x": "0",
+          "y": "2",
+          "blur": "8",
+          "spread": "0"
         },
         {
           "color": "#e089fe1f",
           "type": "innerShadow",
-          "x": 0,
-          "y": 2,
-          "blur": 12,
-          "spread": 0
+          "x": "0",
+          "y": "2",
+          "blur": "12",
+          "spread": "0"
         },
         {
           "color": "#e089fe40",
           "type": "innerShadow",
-          "x": 0,
-          "y": 1,
-          "blur": 8,
-          "spread": 0
+          "x": "0",
+          "y": "1",
+          "blur": "8",
+          "spread": "0"
         }
       ],
       "type": "boxShadow",
@@ -1006,10 +1006,10 @@
       "value": {
         "color": "#00000000",
         "type": "dropShadow",
-        "x": 0,
-        "y": 0,
-        "blur": 0,
-        "spread": 0
+        "x": "0",
+        "y": "0",
+        "blur": "0",
+        "spread": "0"
       },
       "type": "boxShadow",
       "description": "Shadow for tertiary button"
@@ -4100,6 +4100,11 @@
       "value": "256",
       "type": "sizing",
       "description": "use for tooltips"
+    },
+    "input": {
+      "value": "368px",
+      "type": "sizing",
+      "description": "use for inputs"
     }
   },
   "tab": {
@@ -4706,299 +4711,299 @@
   },
   "lineHeights": {
     "0": {
-      "value": 14,
+      "value": "14",
       "type": "lineHeights"
     },
     "1": {
-      "value": 16,
+      "value": "16",
       "type": "lineHeights"
     },
     "2": {
-      "value": 16,
+      "value": "16",
       "type": "lineHeights"
     },
     "3": {
-      "value": 16,
+      "value": "16",
       "type": "lineHeights"
     },
     "4": {
-      "value": 16,
+      "value": "16",
       "type": "lineHeights"
     },
     "5": {
-      "value": 16,
+      "value": "16",
       "type": "lineHeights"
     },
     "6": {
-      "value": 16,
+      "value": "16",
       "type": "lineHeights"
     },
     "7": {
-      "value": 18,
+      "value": "18",
       "type": "lineHeights"
     },
     "8": {
-      "value": 22,
+      "value": "22",
       "type": "lineHeights"
     },
     "9": {
-      "value": 20,
+      "value": "20",
       "type": "lineHeights"
     },
     "10": {
-      "value": 22,
+      "value": "22",
       "type": "lineHeights"
     },
     "11": {
-      "value": 22,
+      "value": "22",
       "type": "lineHeights"
     },
     "12": {
-      "value": 18,
+      "value": "18",
       "type": "lineHeights"
     },
     "13": {
-      "value": 22,
+      "value": "22",
       "type": "lineHeights"
     },
     "14": {
-      "value": 22,
+      "value": "22",
       "type": "lineHeights"
     },
     "15": {
-      "value": 12,
+      "value": "12",
       "type": "lineHeights"
     },
     "16": {
-      "value": 16,
+      "value": "16",
       "type": "lineHeights"
     },
     "17": {
-      "value": 16,
+      "value": "16",
       "type": "lineHeights"
     },
     "18": {
-      "value": 18,
+      "value": "18",
       "type": "lineHeights"
     },
     "19": {
-      "value": 22,
+      "value": "22",
       "type": "lineHeights"
     },
     "20": {
-      "value": 22,
+      "value": "22",
       "type": "lineHeights"
     },
     "21": {
-      "value": 14,
+      "value": "14",
       "type": "lineHeights"
     },
     "22": {
-      "value": 18,
+      "value": "18",
       "type": "lineHeights"
     },
     "23": {
-      "value": 22,
+      "value": "22",
       "type": "lineHeights"
     },
     "24": {
-      "value": 22,
+      "value": "22",
       "type": "lineHeights"
     },
     "25": {
-      "value": 16,
+      "value": "16",
       "type": "lineHeights"
     },
     "26": {
-      "value": 22,
+      "value": "22",
       "type": "lineHeights"
     },
     "27": {
-      "value": 12,
+      "value": "12",
       "type": "lineHeights"
     },
     "28": {
-      "value": 12,
+      "value": "12",
       "type": "lineHeights"
     },
     "29": {
-      "value": 24,
+      "value": "24",
       "type": "lineHeights"
     },
     "30": {
-      "value": 32,
+      "value": "32",
       "type": "lineHeights"
     },
     "31": {
-      "value": 32,
+      "value": "32",
       "type": "lineHeights"
     },
     "32": {
-      "value": 32,
+      "value": "32",
       "type": "lineHeights"
     },
     "33": {
-      "value": 26,
+      "value": "26",
       "type": "lineHeights"
     },
     "34": {
-      "value": 32,
+      "value": "32",
       "type": "lineHeights"
     },
     "35": {
-      "value": 32,
+      "value": "32",
       "type": "lineHeights"
     },
     "36": {
-      "value": 28,
+      "value": "28",
       "type": "lineHeights"
     },
     "37": {
-      "value": 28,
+      "value": "28",
       "type": "lineHeights"
     },
     "38": {
-      "value": 32,
+      "value": "32",
       "type": "lineHeights"
     },
     "39": {
-      "value": 40,
+      "value": "40",
       "type": "lineHeights"
     },
     "40": {
-      "value": 26,
+      "value": "26",
       "type": "lineHeights"
     },
     "41": {
-      "value": 28,
+      "value": "28",
       "type": "lineHeights"
     },
     "42": {
-      "value": 24,
+      "value": "24",
       "type": "lineHeights"
     },
     "43": {
-      "value": 26,
+      "value": "26",
       "type": "lineHeights"
     },
     "44": {
-      "value": 24,
+      "value": "24",
       "type": "lineHeights"
     },
     "45": {
-      "value": 28,
+      "value": "28",
       "type": "lineHeights"
     },
     "46": {
-      "value": 24,
+      "value": "24",
       "type": "lineHeights"
     },
     "47": {
-      "value": 12,
+      "value": "12",
       "type": "lineHeights"
     },
     "48": {
-      "value": 12,
+      "value": "12",
       "type": "lineHeights"
     },
     "49": {
-      "value": 14,
+      "value": "14",
       "type": "lineHeights"
     },
     "50": {
-      "value": 22,
+      "value": "22",
       "type": "lineHeights"
     },
     "51": {
-      "value": 38,
+      "value": "38",
       "type": "lineHeights"
     },
     "52": {
-      "value": 32,
+      "value": "32",
       "type": "lineHeights"
     },
     "53": {
-      "value": 24,
+      "value": "24",
       "type": "lineHeights"
     },
     "54": {
-      "value": 40,
+      "value": "40",
       "type": "lineHeights"
     },
     "55": {
-      "value": 32,
+      "value": "32",
       "type": "lineHeights"
     },
     "56": {
-      "value": 32,
+      "value": "32",
       "type": "lineHeights"
     },
     "57": {
-      "value": 18,
+      "value": "18",
       "type": "lineHeights"
     },
     "58": {
-      "value": 16,
+      "value": "16",
       "type": "lineHeights"
     },
     "59": {
-      "value": 60,
+      "value": "60",
       "type": "lineHeights"
     },
     "60": {
-      "value": 36,
+      "value": "36",
       "type": "lineHeights"
     },
     "61": {
-      "value": 44,
+      "value": "44",
       "type": "lineHeights"
     },
     "62": {
-      "value": 44,
+      "value": "44",
       "type": "lineHeights"
     },
     "63": {
-      "value": 250,
+      "value": "250",
       "type": "lineHeights"
     },
     "64": {
-      "value": 140,
+      "value": "140",
       "type": "lineHeights"
     },
     "65": {
-      "value": 60,
+      "value": "60",
       "type": "lineHeights"
     },
     "66": {
-      "value": 20,
+      "value": "20",
       "type": "lineHeights"
     },
     "67": {
-      "value": 16,
+      "value": "16",
       "type": "lineHeights"
     },
     "68": {
-      "value": 20,
+      "value": "20",
       "type": "lineHeights"
     },
     "69": {
-      "value": 14,
+      "value": "14",
       "type": "lineHeights"
     },
     "70": {
-      "value": 18,
+      "value": "18",
       "type": "lineHeights"
     },
     "71": {
-      "value": 7,
+      "value": "7",
       "type": "lineHeights"
     },
     "72": {
-      "value": 16,
+      "value": "16",
       "type": "lineHeights"
     },
     "73": {
-      "value": 24,
+      "value": "24",
       "type": "lineHeights"
     }
   },
@@ -5030,101 +5035,101 @@
   },
   "fontSize": {
     "0": {
-      "value": 6,
+      "value": "6",
       "type": "fontSizes"
     },
     "1": {
-      "value": 8,
+      "value": "8",
       "type": "fontSizes"
     },
     "2": {
-      "value": 9,
+      "value": "9",
       "type": "fontSizes"
     },
     "3": {
-      "value": 10,
+      "value": "10",
       "type": "fontSizes"
     },
     "4": {
-      "value": 11,
+      "value": "11",
       "type": "fontSizes"
     },
     "5": {
-      "value": 12,
+      "value": "12",
       "type": "fontSizes"
     },
     "6": {
-      "value": 13,
+      "value": "13",
       "type": "fontSizes"
     },
     "7": {
-      "value": 14,
+      "value": "14",
       "type": "fontSizes"
     },
     "8": {
-      "value": 16,
+      "value": "16",
       "type": "fontSizes"
     },
     "9": {
-      "value": 18,
+      "value": "18",
       "type": "fontSizes"
     },
     "10": {
-      "value": 20,
+      "value": "20",
       "type": "fontSizes"
     },
     "11": {
-      "value": 22,
+      "value": "22",
       "type": "fontSizes"
     },
     "12": {
-      "value": 24,
+      "value": "24",
       "type": "fontSizes"
     },
     "13": {
-      "value": 26,
+      "value": "26",
       "type": "fontSizes"
     },
     "14": {
-      "value": 30,
+      "value": "30",
       "type": "fontSizes"
     },
     "15": {
-      "value": 32,
+      "value": "32",
       "type": "fontSizes"
     },
     "16": {
-      "value": 34,
+      "value": "34",
       "type": "fontSizes"
     },
     "17": {
-      "value": 36,
+      "value": "36",
       "type": "fontSizes"
     },
     "18": {
-      "value": 38,
+      "value": "38",
       "type": "fontSizes"
     },
     "19": {
-      "value": 40,
+      "value": "40",
       "type": "fontSizes"
     },
     "20": {
-      "value": 52,
+      "value": "52",
       "type": "fontSizes"
     },
     "21": {
-      "value": 160,
+      "value": "160",
       "type": "fontSizes"
     },
     "22": {
-      "value": 280,
+      "value": "280",
       "type": "fontSizes"
     }
   },
   "letterSpacing": {
     "0": {
-      "value": -0.2,
+      "value": "-0.2",
       "type": "letterSpacing"
     },
     "1": {
@@ -5132,25 +5137,25 @@
       "type": "letterSpacing"
     },
     "2": {
-      "value": 0,
+      "value": "0",
       "type": "letterSpacing"
     },
     "3": {
-      "value": 1,
+      "value": "1",
       "type": "letterSpacing"
     },
     "4": {
-      "value": -0.48,
+      "value": "-0.48",
       "type": "letterSpacing"
     },
     "5": {
-      "value": -0.16,
+      "value": "-0.16",
       "type": "letterSpacing"
     }
   },
   "paragraphSpacing": {
     "0": {
-      "value": 0,
+      "value": "0",
       "type": "paragraphSpacing"
     }
   },
