@@ -1609,13 +1609,22 @@
         "description": "for cashbox bonus popup"
       },
       "cashbox-bonus-content": {
-        "value": "#faf8ff",
+        "value": "#fff",
         "type": "color",
         "description": "for cashbox bonus popup content"
       },
       "cashbox-bonus-content-opacity": {
-        "value": "#ffffffcc",
+        "value": "#fff",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.9",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "for cashbox bonus popup content"
       },
       "promo": {
