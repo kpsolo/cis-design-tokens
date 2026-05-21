@@ -4389,12 +4389,12 @@
         "type": "color"
       },
       "extra": {
-        "value": "#2A344B",
+        "value": "#050913",
         "type": "color",
         "description": "bg under star"
       },
       "extra-additional": {
-        "value": "rgba(68, 97, 147, 0.60)",
+        "value": "#0D1732",
         "type": "color",
         "description": "bg under star in gamepage top pannel"
       },
