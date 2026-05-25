@@ -2311,11 +2311,6 @@
         "value": "#faf8ff",
         "type": "color",
         "description": "pagination element in mainpage desktop - icon"
-      },
-      "border": {
-        "value": "#5e5e5e99",
-        "type": "color",
-        "description": "pagination element in mainpage desktop - border"
       }
     }
   },
