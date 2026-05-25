@@ -4529,7 +4529,7 @@
         "description": "use for bg under prizes"
       },
       "overlay-gradient": {
-        "value": "linear-gradient(180deg, rgba(6, 25, 47, 0.00) 0%, rgba(6, 25, 47, 0.00) 25.07%, #06192F 100%)",
+        "value": "linear-gradient(180deg, rgba(6, 25, 47, 0.00) 0%, rgba(6, 25, 47, 0.80) 46.1%, #06192F 100%)",
         "type": "color",
         "description": "use as overlay under tabs"
       }
