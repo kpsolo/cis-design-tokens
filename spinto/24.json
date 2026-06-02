@@ -2270,17 +2270,8 @@
         "description": "use for numbers on timer"
       },
       "border": {
-        "value": "#6CDFFF",
+        "value": "linear-gradient(169deg, rgba(147, 203, 255, 0.25) 13.89%, rgba(4, 100, 191, 0.00) 41.88%, rgba(42, 128, 208, 0.00) 62.62%, rgba(147, 203, 255, 0.25) 89.33%)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for border on timer (for dev use)"
       }
     },
