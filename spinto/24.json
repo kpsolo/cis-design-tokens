@@ -2197,9 +2197,9 @@
     },
     "badge": {
       "type1": {
-        "value": "#0387c2",
+        "value": "#F2E125",
         "type": "color",
-        "description": "use for badge in main tapbar"
+        "description": "use for badge in lootbox"
       },
       "type2": {
         "value": "rgba(35, 57, 98, 0.20)",
