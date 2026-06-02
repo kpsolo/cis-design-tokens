@@ -2255,7 +2255,7 @@
     },
     "timer": {
       "bg": {
-        "value": "rgba(45, 83, 152, 0.40)",
+        "value": "linear-gradient(180deg, rgba(81, 117, 174, 0.14) 3.13%, #2A4972 100%)",
         "type": "color",
         "description": "use for timer bg"
       },
