@@ -1495,6 +1495,11 @@
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
+    "technical-extra": {
+      "value": "#143154",
+      "type": "color",
+      "description": "welcome bonus page - bonuses tabs "
+    },
     "technical-additional": {
       "value": "#18335A",
       "type": "color",
