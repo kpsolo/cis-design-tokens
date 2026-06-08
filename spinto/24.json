@@ -4161,7 +4161,7 @@
         "description": "use for switcher default bg"
       },
       "4": {
-        "value": "#357b2f",
+        "value": "{base.success}",
         "type": "color",
         "description": "use for switcher active bg"
       },
