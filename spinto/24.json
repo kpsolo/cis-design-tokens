@@ -4181,7 +4181,7 @@
         "description": "use for sectors (not white)"
       },
       "main": {
-        "value": "linear-gradient(180deg, #070025 0%, #0c0248 100%)",
+        "value": "linear-gradient(180deg, #051C36 0%, #1F508A 100%)",
         "type": "color",
         "description": "use as bg on wheel popup"
       }
