@@ -4247,7 +4247,7 @@
         "description": "use as bg for denominations bet item hover state"
       },
       "active": {
-        "value": "#6892ee14",
+        "value": "rgba(71, 123, 191, 0.50)",
         "type": "color",
         "description": "use as bg for denominations bet item active state"
       },
