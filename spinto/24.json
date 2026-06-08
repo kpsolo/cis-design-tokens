@@ -4242,7 +4242,7 @@
     },
     "tip": {
       "hover": {
-        "value": "#ffffff33",
+        "value": "rgba(71, 123, 191, 0.20)",
         "type": "color",
         "description": "use as bg for denominations bet item hover state"
       },
@@ -4257,7 +4257,7 @@
         "description": "use as bg for denominations bet item disabled state"
       },
       "border": {
-        "value": "#00000000",
+        "value": "linear-gradient(109deg, #71BBFF 8.4%, rgba(113, 187, 255, 0.00) 31.49%, rgba(113, 187, 255, 0.00) 64.57%, #71BBFF 91.6%)",
         "type": "color",
         "description": "use as bg for denominations bet item active state"
       }
