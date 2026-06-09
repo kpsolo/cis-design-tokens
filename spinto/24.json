@@ -1715,7 +1715,7 @@
         "description": "for bullets bg in text, bg under number bullets in tournaments/lottery winners list, bg under prizes in prize tab in tournaments/lottery"
       },
       "4": {
-        "value": "#0F3766",
+        "value": "#164D8D",
         "type": "color",
         "description": "use for bg in cashbox transaction, labels on pregame modal"
       },
