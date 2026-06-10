@@ -2153,7 +2153,7 @@
         "description": "use for active label text in bonus balance cards"
       },
       "disable": {
-        "value": "#ffac09",
+        "value": "#F59E2D",
         "type": "color",
         "description": "use for disable label text in bonus balance cards"
       },
