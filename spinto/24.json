@@ -2907,7 +2907,7 @@
         "description": "Input warning text color"
       },
       "value-submain": {
-        "value": "#82A3C2",
+        "value": "#AEC3D6",
         "type": "color",
         "description": "Input value text color"
       },
