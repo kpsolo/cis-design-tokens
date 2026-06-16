@@ -19,7 +19,7 @@
       "value": {
         "fontFamily": "{fontFamilies.arial}",
         "fontWeight": "{fontWeights.arial-1}",
-        "lineHeight": "{lineHeights.1}",
+        "lineHeight": "{line-height.xs}",
         "fontSize": "{fontSize.3}",
         "letterSpacing": "{letterSpacing.1}",
         "paragraphSpacing": "{paragraphSpacing.0}",
