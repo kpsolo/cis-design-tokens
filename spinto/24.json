@@ -3256,7 +3256,7 @@
       "value": {
         "fontFamily": "{fontFamilies.lato}",
         "fontWeight": "800",
-        "lineHeight": "24",
+        "lineHeight": "28",
         "fontSize": "24",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
