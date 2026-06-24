@@ -599,7 +599,7 @@
         "fontFamily": "{fontFamilies.lato}",
         "fontWeight": "{fontWeights.lato-2}",
         "lineHeight": "{lineHeights.39}",
-        "fontSize": "{fontSize.17}",
+        "fontSize": "{fontSize.15}",
         "letterSpacing": "{letterSpacing.1}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
