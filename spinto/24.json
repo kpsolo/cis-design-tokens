@@ -3,7 +3,7 @@
     "caption-extrasmall": {
       "value": {
         "fontFamily": "{fontFamilies.lato}",
-        "fontWeight": "{font-weight.0}",
+        "fontWeight": "{fontWeights.arial-4}",
         "lineHeight": "{lineHeights.0}",
         "fontSize": "11px",
         "letterSpacing": "{letterSpacing.0}",
