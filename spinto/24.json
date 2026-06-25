@@ -305,7 +305,7 @@
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.none}",
-        "textDecoration": "{text-decoration.none}"
+        "textDecoration": "{textDecoration.none}"
       },
       "type": "typography",
       "description": "Link text"
@@ -3112,7 +3112,7 @@
         "fontWeight": "800",
         "lineHeight": "20",
         "fontSize": "20",
-        "letterSpacing": "{letter-spacing.0}",
+        "letterSpacing": "{letterSpacing.2}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.none}",
