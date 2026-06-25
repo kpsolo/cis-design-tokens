@@ -19,7 +19,7 @@
       "value": {
         "fontFamily": "{fontFamilies.arial}",
         "fontWeight": "{fontWeights.arial-1}",
-        "lineHeight": "{line-height.xs}",
+        "lineHeight": "12px",
         "fontSize": "{fontSize.3}",
         "letterSpacing": "{letterSpacing.1}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -734,7 +734,7 @@
         "fontFamily": "{fontFamilies.arial}",
         "fontWeight": "{fontWeights.arial-4}",
         "lineHeight": "{lineHeights.15}",
-        "fontSize": "{font-size.2}",
+        "fontSize": "10px",
         "letterSpacing": "{letterSpacing.1}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
