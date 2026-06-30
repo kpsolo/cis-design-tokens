@@ -2833,7 +2833,7 @@
         "description": "backgrounds for inputs with have dropdowns"
       },
       "error": {
-        "value": "#b1072c",
+        "value": "{base.error}",
         "type": "color",
         "description": "Background for error inputs"
       },
