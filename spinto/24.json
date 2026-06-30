@@ -1205,7 +1205,7 @@
     },
     "input-error": {
       "value": {
-        "color": "{base.error}",
+        "color": "#B1072C",
         "width": "{border-width.input}",
         "style": "solid"
       },
@@ -2833,7 +2833,7 @@
         "description": "backgrounds for inputs with have dropdowns"
       },
       "error": {
-        "value": "{base.error}",
+        "value": "#B1072C",
         "type": "color",
         "description": "Background for error inputs"
       },
