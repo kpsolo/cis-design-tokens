@@ -1179,7 +1179,7 @@
     },
     "input-focus": {
       "value": {
-        "color": "#7E38DF",
+        "color": "#2685DA",
         "width": "{border-width.input}",
         "style": "solid"
       },
