@@ -3262,7 +3262,7 @@
       "description": "for jackpot sun in jackpot page"
     },
     "dropdown-custom-fade": {
-      "value": "linear-gradient(180deg, #16082900 0%, #16082980 24.24%, #160829e6 54.36%, #160829 100%)",
+      "value": "linear-gradient(172deg, rgba(14, 58, 110, 0.00) 10.8%, #0E3A6E 89.57%)",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
