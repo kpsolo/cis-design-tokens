@@ -1446,7 +1446,7 @@
       }
     },
     "item": {
-      "value": "2px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "use for hightlight player in gamepage/tournament "
     },
