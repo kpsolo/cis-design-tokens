@@ -2247,7 +2247,7 @@
         "description": "use for timer bg"
       },
       "bg-additional": {
-        "value": "rgba(45, 83, 152, 0.40)",
+        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.14) 3.13%, rgba(255, 255, 255, 0.06) 18.24%, rgba(255, 255, 255, 0.00) 48.75%, rgba(255, 255, 255, 0.06) 86.05%, rgba(255, 255, 255, 0.14) 100%)",
         "type": "color",
         "description": "use for timer bg in 1st deposit"
       },
