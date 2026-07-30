@@ -1830,6 +1830,11 @@
           "description": "bg for bonus balance card"
         }
       },
+      "overlay": {
+        "value": "linear-gradient(180deg, rgba(21, 52, 92, 0.00) 0%, rgba(21, 65, 119, 0.30) 37.73%, rgba(21, 65, 119, 0.30) 100%)",
+        "type": "color",
+        "description": "bg for slider( text zone) mob"
+      },
       "border": {
         "1": {
           "value": "linear-gradient(21deg, rgba(35, 159, 255, 0.60) 1.24%, rgba(35, 159, 255, 0.00) 38.27%)",
