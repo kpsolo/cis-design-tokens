@@ -3095,7 +3095,7 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "800",
-        "lineHeight": "16",
+        "lineHeight": "16px",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.uppercase}",
