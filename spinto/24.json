@@ -3080,7 +3080,7 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "800",
-        "lineHeight": "20",
+        "lineHeight": "20px",
         "fontSize": "20",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
@@ -3110,7 +3110,7 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "800",
-        "lineHeight": "20",
+        "lineHeight": "20px",
         "fontSize": "20",
         "letterSpacing": "{letterSpacing.2}",
         "paragraphSpacing": "{paragraphSpacing.0}",
