@@ -182,7 +182,7 @@
     "body-1-stronger": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "700px",
+        "fontWeight": "600px",
         "lineHeight": "{lineHeights.8}",
         "fontSize": "{fontSize.7}",
         "letterSpacing": "{letterSpacing.1}",
