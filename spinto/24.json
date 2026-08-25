@@ -305,7 +305,7 @@
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.none}",
-        "textDecoration": "{text-decoration.underline}"
+        "textDecoration": "{textDecoration.underline}"
       },
       "type": "typography",
       "description": "Link text"
@@ -320,7 +320,7 @@
         "paragraphSpacing": "{paragraphSpacing.0}",
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.none}",
-        "textDecoration": "{text-decoration.none}"
+        "textDecoration": "{textDecoration.none}"
       },
       "type": "typography",
       "description": "Link text"
