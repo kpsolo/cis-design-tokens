@@ -3111,6 +3111,21 @@
       "type": "typography",
       "description": "Title for jackpot widget - mob"
     },
+    "jackpot-title-mobile-additional": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "500",
+        "lineHeight": "16px",
+        "paragraphSpacing": "{paragraphSpacing.0}",
+        "paragraphIndent": "{paragraphIndent.0}",
+        "textCase": "{textCase.uppercase}",
+        "textDecoration": "{textDecoration.none}",
+        "letterSpacing": "0.3",
+        "fontSize": "16"
+      },
+      "type": "typography",
+      "description": "Title for jackpot widget - mob"
+    },
     "jackpot-title-additional": {
       "value": {
         "fontFamily": "{font-family.main}",
