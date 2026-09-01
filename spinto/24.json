@@ -2093,8 +2093,17 @@
         "description": "use in cards in deals page for bg and stroke"
       },
       "type2": {
-        "value": "#ffffff99",
+        "value": "#fff",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.16",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "use in bonus balances cards for bar"
       },
       "type3": {
