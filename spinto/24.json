@@ -2083,9 +2083,9 @@
         "description": "for dev use - stop gradient point"
       },
       "type5": {
-        "value": "rgba(128, 182, 255, 0.20)",
+        "value": "#67B0F9",
         "type": "color",
-        "description": "bg for progress for loyalty icon ( menu mob, header desktop )"
+        "description": "bg for progress for loyalty icon ( menu mob, header desktop, bonus balances )"
       },
       "type1": {
         "value": "#ffffff1f",
