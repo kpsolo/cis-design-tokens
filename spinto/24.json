@@ -3129,7 +3129,7 @@
     "jackpot-title-additional": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "800",
+        "fontWeight": "500",
         "lineHeight": "20px",
         "fontSize": "20",
         "letterSpacing": "{letterSpacing.2}",
